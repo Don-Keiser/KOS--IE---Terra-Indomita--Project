@@ -22,6 +22,7 @@ sea_zones = RANGE { 4589 4599 }
 sea_zones = RANGE { 7743 7750 }
 sea_zones = RANGE { 7847 7860 } # New Impassable Seazones
 sea_zones = LIST { 6418 6436 6437 7906 7907 8019 8020 }
+sea_zones = LIST { 12891 12892 12893 12894 12895 12896 12897 12898 12899 }
 
 #Wastelands, List:
 wasteland = LIST { 3222 5981 5990 5988 }				#impassable - will never be colored in any map mode changed by TI
