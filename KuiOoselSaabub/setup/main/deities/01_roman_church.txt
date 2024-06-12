@@ -1,0 +1,53 @@
+deity_manager = {
+	deities_database = { ### KEYS 5000-5003 ###
+		5000 = {
+			key = omen_saint_george
+			deity = deity_saint_george
+		}
+		5001 = {
+			key = omen_saint_matthew
+			deity = deity_saint_matthew
+		}
+		5002 = {
+			key = omen_saint_benedict_nursia
+			deity = deity_saint_benedict_nursia
+		}
+		5003 = {
+			key = omen_saint_anne
+			deity = deity_saint_anne
+		}
+		5004 = {
+			key = omen_saint_michael_archangel
+			deity = deity_saint_michael_archangel
+		}
+		5005 = {
+			key = omen_saint_maurice
+			deity = deity_saint_maurice
+		}
+		5006 = {
+			key = omen_saint_nicholas_myra
+			deity = deity_saint_nicholas_myra
+		}
+		5007 = {
+			key = omen_saint_joseph
+			deity = deity_saint_joseph
+		}
+		5008 = {
+			key = omen_saint_cecilia
+			deity = deity_saint_cecilia
+		}
+		5009 = {
+			key = omen_saint_jerome
+			deity = deity_saint_jerome
+		}
+		5010 = {
+			key = omen_virgin_mary
+			deity = deity_virgin_mary
+		}
+		5011 = {
+			key = omen_saint_marina
+			deity = deity_saint_marina
+		}
+	}
+}
+

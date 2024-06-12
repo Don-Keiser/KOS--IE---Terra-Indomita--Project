@@ -1,0 +1,234 @@
+﻿eia = {
+	color = rgb { 114 181 114 }
+	
+	levy_template = levy_italic
+	
+	primary = heavy_infantry
+	second = spearmen
+	flank = light_cavalry
+
+	primary_navy = tetrere
+	secondary_navy = hexere
+	flank_navy = liburnian
+	
+	#use_latin_name_rules = yes #Note - use_latin_name_rules breaks localization for female_names
+	
+	male_names = { #Oscan praenomina - should be fine for most Italic cultures
+		Ancus Attius Decius Herius Marius Mettius Minatus Minius 
+		Nerius Novius Numa Numerius Ovius Paccius Pompo Salvius 
+		Seppius Statius Taurus Trebius Vettius Vibius        
+	}
+	female_names = {
+		Anca Attia Decia Heria Maria Mettia Minata Minia 
+		Neria Novia Numa Numeria Ovia Paccia Pompa Salvia 
+		Seppia Stattia Trebia Vettia Vibia        
+	}
+	family = {
+		Aburius.Aburia.Aburii.Aburian
+		Accius.Accia.Accii.Accian
+		Antonius.Antonia.Antonii.Antonian
+		Appuleius.Appuleia.Appuleii.Appuleian
+		Apronius.Apronia.Apronii.Apronian
+		Aquillius.Aquillia.Aquillii.Aquillian
+		Atilius.Atilia.Atilii.Atilian
+		Atius.Atia.Atii.Atian
+		Aufidius.Aufidia.Aufidii.Aufidian
+		Aulius.Aulia.Aulii.Aulian
+		Blossius.Blossia.Blossii.Blossian
+		Aurelius.Aurelia.Aurelii.Aurelian
+		Caecinus.Caecina.Caecinii.Caecinian
+		Caecilius.Caecilia.Caecilii.Caecilian
+		Calavius.Calavia.Calavii.Calavian
+		Calpurnius.Calpurnia.Calpurnii.Calpurnian
+		Cantius.Cantia.Cantii.Cantian
+		Carvilius.Carvilia.Carvilii.Carvilian
+		Cassius.Cassia.Cassii.Cassian
+		Catius.Catia.Catii.Catian
+		Centenius.Centenia.Centenii.Centenian
+		Cilnius.Cilnia.Cilnii.Cilnian
+		Cispius.Cispia.Cispii.Cispian
+		Claudius.Claudia.Claudii.Claudian
+		Cloelius.Cloelia.Cloelii.Cloelian
+		Cominius.Cominia.Cominii.Cominian
+		Cornelius.Cornelia.Cornelii.Cornelian
+		Coruncanius.Coruncania.Coruncanii.Coruncanian
+		Curiatius.Curiatia.Curiatii.Curiatian
+		Curtius.Curtia.Curtii.Curtian
+		Curius.Curia.Curii.Curian
+		Decius.Decia.Decii.Decian
+		Domitius.Domitia.Domitii.Domitian
+		Fabius.Fabia.Fabii.Fabian
+		Fabricius.Fabricia.Fabricii.Fabrician
+		Flavius.Flavia.Flavii.Flavian
+		Foslius.Foslia.Foslii.Foslian
+		Fulcinius.Fulcinia.Fulcinii.Fulcinian
+		Fulvius.Fulvia.Fulvii.Fulvian
+		Furius.Furia.Furii.Furian
+		Funius.Furnia.Furnii.Furnian
+		Gabinius.Gabinia.Gabinii.Gabinian
+		Galerius.Galeria.Galerii.Galerian
+		Gracchus.Gracchia.Gracchi.Gracchian
+		Geganius.Gegania.Geganii.Geganian
+		Gellius.Gellia.Gellii.Gellian
+		Herminius.Herminia.Herminii.Herminian
+		Horatius.Horatia.Horatii.Horatian
+		Hortensius.Hortensia.Hortensii.Hortensian
+		Hostilius.Hostilia.Hostilii.Hostilian
+		Iulius.Iulia.Iulii.Iulian
+		Iunius.Iunia.Iunii.Iunian
+		Iuventius.Iuventia.Iuventii.Iuventian
+		Laetorius.Laetoria.Laetorii.Laetorian
+		Lartius.Lartia.Lartii.Lartian
+		Licinius.Licinia.Licinii.Licinian
+		Livius.Livia.Livii.Livian
+		Lucius.Lucia.Lucii.Lucian
+		Lucretius.Lucretia.Lucretii.Lucretian
+		Quintilius.Quintilia.Quintilii.Quintilian
+		Quinctius.Quinctia.Quinctii.Quinctian
+		Salonius.Salonia.Salonii.Salonian
+		Salvius.Salvia.Salvii.Salvian
+		Viridius.Viridia.Viridii.Viridian
+		Volumnius.Volumnia.Volumnii.Volumnian
+	}
+	nickname = {
+		NICKNAME_ALBINUS
+		NICKNAME_ALBUS
+		NICKNAME_AGRICOLA
+		NICKNAME_AGRIPPA
+		NICKNAME_ARATUS
+		NICKNAME_ASINA
+		NICKNAME_AUSPEX
+		NICKNAME_BALBUS
+		NICKNAME_BARBATUS
+		NICKNAME_BIBULUS
+		NICKNAME_BRUTUS
+		NICKNAME_BUBO
+		NICKNAME_BUTEO
+		NICKNAME_CAESAR
+		NICKNAME_CALVUS
+		NICKNAME_CALVINUS
+		NICKNAME_CATO
+		NICKNAME_CATULUS
+		NICKNAME_CETHEGUS
+		NICKNAME_CICERO
+		NICKNAME_CINNA
+		NICKNAME_COTTA
+		NICKNAME_CRISPIAN
+		NICKNAME_CURIO
+		NICKNAME_DAMA
+		NICKNAME_DAMASUS
+		NICKNAME_DENTATUS
+		NICKNAME_DIVES
+		NICKNAME_DOLABELLA
+		NICKNAME_DONATUS
+		NICKNAME_DRACO
+		NICKNAME_EMERITUS
+		NICKNAME_EUGENIUS
+		NICKNAME_EUPHEMIUS
+		NICKNAME_FALCO
+		NICKNAME_FALX
+		NICKNAME_FELIX
+		NICKNAME_FIMBRIA
+		NICKNAME_FLACCUS
+		NICKNAME_FLORUS
+		NICKNAME_FRONTO
+		NICKNAME_GALA
+		NICKNAME_GALERUS
+		NICKNAME_GEMELLUS
+		NICKNAME_GORGONIUS
+		NICKNAME_GRACCHUS
+		NICKNAME_GRACILIS
+		NICKNAME_HABITUS
+		NICKNAME_HERMA
+		NICKNAME_HILARIUS
+		NICKNAME_HORATIUS
+		NICKNAME_IGNATIUS
+		NICKNAME_IUBA
+		NICKNAME_LABEO
+		NICKNAME_LAENAS
+		NICKNAME_LEPIDUS
+		NICKNAME_LEPTIS
+		NICKNAME_LENTULUS
+		NICKNAME_LIBO
+		NICKNAME_LONGINUS
+		NICKNAME_LONGUS
+		NICKNAME_LUCAN
+		NICKNAME_LUCULLUS
+		NICKNAME_LUPIUS
+		NICKNAME_MACRO
+		NICKNAME_MARTIALIS
+		NICKNAME_MARULLUS
+		NICKNAME_MAXIMUS
+		NICKNAME_MEMMIUS
+		NICKNAME_MERCATOR
+		NICKNAME_MESSALLA
+		NICKNAME_MONTANUS
+		NICKNAME_MURENA
+		NICKNAME_MUS
+		NICKNAME_NASICA
+		NICKNAME_OCEANUS
+		NICKNAME_OCTAVIANUS
+		NICKNAME_OPIS
+		NICKNAME_OPTATUS
+		NICKNAME_OTHO
+		NICKNAME_PAENULA
+		NICKNAME_PANTERA
+		NICKNAME_PAVO
+		NICKNAME_PEREGRINUS
+		NICKNAME_PERTINAX
+		NICKNAME_PETRONAX
+	}
+
+	#female_order = {
+		#Prima Secunda Tertia Quarta Quinta Septa Septima Octava Nona Decima Undecima Duodecima
+	#}
+
+	culture = {
+		sardinian = {}
+		afro_roman = {
+			male_names = {
+				Masuna Mastigas Garmul Kusaila Ortayas Masties Iaudas
+			}
+			female_names = {
+				Dehiya Maria
+			}
+		}
+		muretannian = {
+			male_names = {
+				Masuna Mastigas Garmul Kusaila Ortayas Masties Iaudas
+			}
+			female_names = {
+				Dehiya Maria
+			}
+		}
+		ispannian = {
+			male_names = {
+				Masuna Mastigas Garmul Kusaila Ortayas Masties Iaudas
+			}
+			female_names = {
+				Dehiya Maria
+			}
+		}
+		numidu = {
+			male_names = {
+				Masuna Mastigas Garmul Kusaila Ortayas Masties Iaudas
+			}
+			female_names = {
+				Dehiya Maria
+			}
+		}
+		lusitanu = {}
+		cartagenu = {}
+		toledu = {}
+	}
+	
+	barbarian_names = { BRUTTII }
+	
+	graphical_culture = roman_gfx
+
+	ethnicities = {
+		7 = roman
+		3 = north_african
+	}
+
+}

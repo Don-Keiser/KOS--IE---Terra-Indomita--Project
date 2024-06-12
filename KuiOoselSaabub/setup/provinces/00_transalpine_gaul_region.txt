@@ -1,0 +1,1494 @@
+﻿1079={ #Ad Vicensi
+	terrain="plains"
+	culture="tarragones"
+	religion="bons_chretiens"
+	trade_goods="olive"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=6
+	}
+}
+
+1719={ #Avitacum
+	terrain="forest"
+	culture="auvergnat"
+	religion="roman_church"
+	trade_goods="cattle"
+	civilization_value=14
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2253={ #Consoranni
+	terrain="plains"
+	culture="tolosan"
+	religion="bons_chretiens"
+	trade_goods="stone"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2254={ #Tarusco
+	terrain="plains"
+	culture="tolosan"
+	religion="bons_chretiens"
+	trade_goods="olive"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+2255={ #Carcasso
+	terrain="plains"
+	culture="tolosan"
+	religion="bons_chretiens"
+	trade_goods="precious_metals"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+2256={ #Narbo
+	terrain="plains"
+	culture="tarragones"
+	religion="roman_church"
+	trade_goods="stone"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=5
+	}
+	port_building=1
+}
+
+2257={ #Ruscino
+	terrain="plains"
+	culture="tarragones"
+	religion="roman_church"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2258={ #Usuerva
+	terrain="plains"
+	culture="tolosan"
+	religion="bons_chretiens"
+	trade_goods="marble"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=6
+	}
+}
+
+2259={ #Baeterrae
+	terrain="plains"
+	culture="tarragones"
+	religion="roman_church"
+	trade_goods="fish"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2260={ #Agatha
+	terrain="plains"
+	culture="tarragones"
+	religion="roman_church"
+	trade_goods="stone"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2261={ #Luteva
+	terrain="forest"
+	culture="tolosan"
+	religion="roman_church"
+	trade_goods="base_metals"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=5
+	}
+}
+
+2262={ #Segodunum
+	terrain="forest"
+	culture="tolosan"
+	religion="bons_chretiens"
+	trade_goods="stone"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+2263={ #Albiga
+	terrain="forest"
+	culture="tolosan"
+	religion="bons_chretiens"
+	trade_goods="cattle"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+2265={ #Tolosa
+	terrain="plains"
+	culture="tolosan"
+	religion="bons_chretiens"
+	trade_goods="earthware"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=5
+	}
+}
+
+2266={ #Aquae Siccae
+	terrain="plains"
+	culture="aquitan"
+	religion="bons_chretiens"
+	trade_goods="fur"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+2267={ #Elusio
+	terrain="hills"
+	culture="tolosan"
+	religion="bons_chretiens"
+	trade_goods="cattle"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+2268={ #Carantomagus
+	terrain="forest"
+	culture="tolosan"
+	religion="bons_chretiens"
+	trade_goods="horses"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+}
+
+2280={ #Loberdzh
+	terrain="plains"
+	culture="akvitadzyte"
+	religion="manichean"
+	trade_goods="fur"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+2284={ #Gergovia
+	terrain="plains"
+	culture="auvergnat"
+	religion="roman_church"
+	trade_goods="precious_metals"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="city"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=6
+	}
+}
+
+2285={ #Gabalum
+	terrain="forest"
+	culture="tolosan"
+	religion="roman_church"
+	trade_goods="marble"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2286={ #Vellavorum
+	terrain="forest"
+	culture="auvergnat"
+	religion="roman_church"
+	trade_goods="stone"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+	slaves={
+		culture="tolosan"
+		amount=1
+	}
+}
+
+2295={ #Ad Silanum
+	terrain="forest"
+	culture="tolosan"
+	religion="bons_chretiens"
+	trade_goods="stone"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2296={ #Condate Arvernorum
+	terrain="forest"
+	culture="auvergnat"
+	religion="roman_church"
+	trade_goods="stone"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+2297={ #Cebennia
+	terrain="forest"
+	culture="tolosan"
+	religion="roman_church"
+	trade_goods="base_metals"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+2298={ #Brivas
+	terrain="forest"
+	culture="auvergnat"
+	religion="roman_church"
+	trade_goods="iron"
+	civilization_value=14
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+	slaves={
+		culture="creissent"
+		amount=1
+	}
+}
+
+2301={ #Lugdunum
+	terrain="plains"
+	culture="burgundisch"
+	religion="roman_church"
+	trade_goods="cloth"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+2302={ #Seguslavorum
+	terrain="forest"
+	culture="creissent"
+	religion="roman_church"
+	trade_goods="leather"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=4
+	}
+	slaves={
+		culture="auvergnat"
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2303={ #Octavus
+	terrain="plains"
+	culture="burgundisch"
+	religion="roman_church"
+	trade_goods="stone"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=5
+	}
+}
+
+2304={ #Vienna
+	terrain="plains"
+	culture="burgundisch"
+	religion="roman_church"
+	trade_goods="vegetables"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=5
+	}
+}
+
+2305={ #Allobrogia
+	terrain="plains"
+	culture="burgundisch"
+	religion="roman_church"
+	trade_goods="cattle"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+2306={ #Figlinae
+	terrain="plains"
+	culture="ronadzyte"
+	religion="manichean"
+	trade_goods="base_metals"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+	slaves={
+		culture="auvergnat"
+		amount=1
+	}
+}
+
+2307={ #Morginnum
+	terrain="plains"
+	culture="burgundisch"
+	religion="roman_church"
+	trade_goods="stone"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+2308={ #Valentia
+	terrain="plains"
+	culture="burgundisch"
+	religion="roman_church"
+	trade_goods="vegetables"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+	slaves={
+		culture="daufinenc"
+		amount=1
+	}
+}
+
+2309={ #Batiana
+	terrain="plains"
+	culture="ronadzyte"
+	religion="manichean"
+	trade_goods="fur"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+2310={ #Cerebelliaca
+	terrain="plains"
+	culture="daufinenc"
+	religion="roman_church"
+	trade_goods="fur"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+2311={ #Alba Helviorum
+	terrain="hills"
+	culture="ronadzyte"
+	religion="manichean"
+	trade_goods="marble"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=6
+	}
+}
+
+2312={ #Andusia
+	terrain="hills"
+	culture="tolosan"
+	religion="roman_church"
+	trade_goods="cattle"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+2313={ #Sextantio
+	terrain="farmland"
+	culture="tarragones"
+	religion="roman_church"
+	trade_goods="salt"
+	civilization_value=13
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	port_building=1
+}
+
+2314={ #Nemausus
+	terrain="plains"
+	culture="tolosan"
+	religion="roman_church"
+	trade_goods="grain"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+2315={ #Briginnum
+	terrain="plains"
+	culture="tolosan"
+	religion="roman_church"
+	trade_goods="cattle"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+2316={ #Staturnae
+	terrain="hills"
+	culture="ronadzyte"
+	religion="manichean"
+	trade_goods="precious_metals"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	slaves={
+		culture="tolosan"
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+2317={ #Ucetia
+	terrain="plains"
+	culture="ronadzyte"
+	religion="manichean"
+	trade_goods="base_metals"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+2318={ #Rhodanousia
+	terrain="plains"
+	culture="tarragones"
+	religion="roman_church"
+	trade_goods="fish"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+2319={ #Arelatis
+	terrain="farmland"
+	culture="ligur"
+	religion="roman_church"
+	trade_goods="grain"
+	civilization_value=13
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+	slaves={
+		culture="tolosan"
+		amount=1
+	}
+	port_building=1
+}
+
+2320={ #Arausio
+	terrain="farmland"
+	culture="daufinenc"
+	religion="roman_church"
+	trade_goods="cattle"
+	civilization_value=13
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=5
+	}
+}
+
+2321={ #Avennio
+	terrain="farmland"
+	culture="daufinenc"
+	religion="roman_church"
+	trade_goods="cloth"
+	civilization_value=13
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=6
+	}
+	holy_site=omen_glanis
+}
+
+2322={ #Carpentorate
+	terrain="farmland"
+	culture="daufinenc"
+	religion="roman_church"
+	trade_goods="cattle"
+	civilization_value=13
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+2323={ #Pisavi
+	terrain="plains"
+	culture="ligur"
+	religion="roman_church"
+	trade_goods="salt"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+2324={ #Apta Iulia
+	terrain="plains"
+	culture="daufinenc"
+	religion="roman_church"
+	trade_goods="cattle"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+2325={ #Massalia
+	terrain="plains"
+	culture="ligur"
+	religion="roman_church"
+	trade_goods="stone"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=9
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=1
+	}
+	slaves={
+		culture="daufinenc"
+		amount=3
+	}
+	tribesmen={
+		culture="neustrien"
+		amount=3
+	}
+	port_building=1
+}
+
+2339={ #Uxellodunum
+	terrain="forest"
+	culture="auvergnat"
+	religion="bons_chretiens"
+	trade_goods="fur"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+2356={ #Ludna
+	terrain="plains"
+	culture="burgundisch"
+	religion="roman_church"
+	trade_goods="base_metals"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+2357={ #Brioratis
+	terrain="plains"
+	culture="burgundisch"
+	religion="roman_church"
+	trade_goods="iron"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+3309={ #Canniaco
+	terrain="forest"
+	culture="tolosan"
+	religion="bons_chretiens"
+	trade_goods="wine"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+3517={ #Tauroention
+	terrain="forest"
+	culture="ligur"
+	religion="roman_church"
+	trade_goods="fish"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+	port_building=1
+}
+
+3518={ #Griselica
+	terrain="plains"
+	culture="daufinenc"
+	religion="roman_church"
+	trade_goods="cattle"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+3519={ #Vasio
+	terrain="plains"
+	culture="daufinenc"
+	religion="roman_church"
+	trade_goods="horses"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=5
+	}
+}
+
+3520={ #Segustero
+	terrain="forest"
+	culture="daufinenc"
+	religion="roman_church"
+	trade_goods="horses"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3521={ #Tegulata
+	terrain="forest"
+	culture="ligur"
+	religion="roman_church"
+	trade_goods="wine"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=1
+	}
+}
+
+3522={ #Sanitium
+	terrain="hills"
+	culture="daufinenc"
+	religion="roman_church"
+	trade_goods="fur"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3523={ #Verunia
+	terrain="plains"
+	culture="ligur"
+	religion="roman_church"
+	trade_goods="wine"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3524={ #Vappincum
+	terrain="forest"
+	culture="daufinenc"
+	religion="roman_church"
+	trade_goods="cattle"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+3525={ #Vocontiorum
+	terrain="hills"
+	culture="ronadzyte"
+	religion="manichean"
+	trade_goods="leather"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3526={ #Darentiaca
+	terrain="hills"
+	culture="daufinenc"
+	religion="roman_church"
+	trade_goods="stone"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3527={ #Vologatae
+	terrain="farmland"
+	culture="daufinenc"
+	religion="roman_church"
+	trade_goods="hemp"
+	civilization_value=18
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=6
+	}
+}
+
+3528={ #Mons Seleucus
+	terrain="plains"
+	culture="daufinenc"
+	religion="roman_church"
+	trade_goods="horses"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3529={ #Rigomagus
+	terrain="forest"
+	culture="daufinenc"
+	religion="roman_church"
+	trade_goods="cattle"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3530={ #Mustiae Calmes
+	terrain="mountain"
+	culture="ligur"
+	religion="roman_church"
+	trade_goods="base_metals"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+	tribesmen={
+		culture="ligur"
+		amount=2
+	}
+}
+
+3531={ #Cularo
+	terrain="mountain"
+	culture="burgundisch"
+	religion="roman_church"
+	trade_goods="marble"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		culture="daufinenc"
+		amount=1
+	}
+	tribesmen={
+		amount=5
+	}
+}
+
+3532={ #Catorissium
+	terrain="mountain"
+	culture="burgundisch"
+	religion="roman_church"
+	trade_goods="precious_metals"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3533={ #Murissa
+	terrain="hills"
+	culture="ronadzyte"
+	religion="manichean"
+	trade_goods="leather"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+3534={ #Scingomagus
+	terrain="mountain"
+	culture="burgundisch"
+	religion="roman_church"
+	trade_goods="iron"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		culture="ligur"
+		amount=1
+	}
+}
+
+3536={ #Eburodunum
+	terrain="mountain"
+	culture="daufinenc"
+	religion="roman_church"
+	trade_goods="marble"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		culture="ligur"
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		culture="ligur"
+		amount=2
+	}
+}
+
+3540={ #Pergantion
+	terrain="forest"
+	culture="ligur"
+	religion="roman_church"
+	trade_goods="wood"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+3541={ #Agathom
+	terrain="forest"
+	culture="ligur"
+	religion="roman_church"
+	trade_goods="fish"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+3542={ #Matavo
+	terrain="forest"
+	culture="ligur"
+	religion="roman_church"
+	trade_goods="wine"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=5
+	}
+}
+
+3543={ #Antipolis
+	terrain="plains"
+	culture="ligur"
+	religion="roman_church"
+	trade_goods="wood"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+	port_building=1
+}
+
+3544={ #Navelis
+	terrain="plains"
+	culture="ligur"
+	religion="roman_church"
+	trade_goods="hemp"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+}
+

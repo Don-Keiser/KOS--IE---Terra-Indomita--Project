@@ -1,0 +1,87 @@
+﻿avaric = {
+	color = rgb { 57 98 134 }
+	
+	levy_template = levy_iran
+	
+	primary = heavy_cavalry
+	second = light_infantry
+	flank = light_cavalry
+
+	primary_navy = tetrere
+	secondary_navy = octere
+	flank_navy = liburnian
+	
+	
+	male_names = {
+		Béla Géza István László Miklós Imre András Zoltán György Pál János Tamás Miksa Ferenc Márton Károly
+		Viktor Erno Benedek Lorinc Sámuel Róbert Péter Vilmos Dénes Gergely Koppány Antal Jakab Ödön
+		Sándor Gyula Kristóf Vince Zsigmond Márk Elemér Balázs
+	}
+	female_names = {
+		Ágnes Erzsébet Ilona Katalin Margit Klára Anna Zsófia Mária Julianna Réka Borbála Éva Katalinka Dorottya
+		Johanna Judit Veronika Gizella
+	}
+	family = {
+		Árpád.Árpádné.Árpádok.Árpadian
+		Ahollóké.Ahollókné.Ahollókok.Ahollókian
+		Hunyadi.Hunyadiné.Hunyadiak.Hunyadian
+		Báthory.Báthoryné.Báthoryak.Báthoryan
+		Rákóczi.Rákócziné.Rákócziak.Rákóczian
+		Eszterházy.Eszterházyné.Eszterházyak.Eszterházyan
+		Nádasdy.Nádasdyné.Nádasdyak.Nádasdian
+		Komoróczy.Komoróczyné.Komoróczyak.Komoróczyan
+		Zrínyi.Zrínyiné.Zrínyiak.Zrínyian
+		Tárczay.Tárczayn.Tárczayak.Tárczayan
+		Apafi.Apafiné.Apafiak.Apafian
+		Kállay.Kállayn.Kállayak.Kállayan
+		Csák.Csákné.Csákok.Csákian
+		Szentgyörgyi.Szentgyörgyiné.Szentgyörgyiek.Szentgyörgyian
+		Békésy.Békésyné.Békésyak.Békésian
+		Lórántffy.Lórántffyné.Lórántffyak.Lórántffian
+		Török.Törökné.Törökök.Törökian
+		Bocskai.Bocskainé.Bocskaiak.Bocskian
+		Bánffy.Bánffyné.Bánffyak.Bánffian
+		Forgách.Forgáchné.Forgáchok.Forgáchian
+		Kis.Kisné.Kisak.Kish
+		Szabó.Szabóné.Szabók.Szabóan
+		Takács.Takácsné.Takácsok.Takácsian
+		Kovács.Kovácsné.Kovácsok.Kovácsian
+		Varga.Vargáné.Vargák.Vargian
+		Nagy.Nagyné.Nagyak.Nagian
+		Molnár.Molnárné.Molnárok.Molnárian
+		Koppányi.Koppányiné.Koppányiak.Koppányian
+		Keresztes.Keresztesné.Keresztesek.Keresztesian
+		Győrffy.Győrffyné.Győrffyak.Győrffian
+		Lőrinczi.Lőrincziné.Lőrincziak.Lőrinczian
+		Borsodi.Borsodiné.Borsodiak.Borsodian
+		Csongrádi.Csongrádiné.Csongrádiak.Csongrádian
+		Péczely.Péczelynő.Péczelyek.Péczelian
+	}
+
+	culture = {
+		silver_avar = {
+			malenames = { #from ck2
+				Almish Alp Alzek Anzi Apskhih Araslan Asparukh Bagha Baghatur Balamba_r Barjik Bars Barsbek Bashtwa Bastu Bataul Batbayan Batoya Batulia Bayan Belkermak Bezmer Bihor Boyan Bugha Bughra Bulan Bulger Bulc_an Busir Buzan Buzer Ba_lgic_i Bo_ri
+				Chepa Chinialush Dengizikh Dizeng Dometa Dristar Drong Dukum Elemag Ellak Ernakh Eskhakh Goleda Gostun Guar Hudbad Iani Ilik Ilta_ba_r Irnek Isbul Islivan Ispor Itakh Kamaj Kano Karadakh Karan Karaton Kardam Kayghalagh Kharaton Khatir Khinialon
+				Khudbard Khuterkin Kibar Kisa Kordil Kormesiy Kormisosh Kotrag Krovat Krum Kuber Kubrat Kundac_ Kundac_iq Kurt Kutrigur Ka_lac_ Labertam Magotin Malamir Mugel Mana_r Ma_na_s Me_nu_maro_t Odolgan Okhsi Okhsun Okors Omurtag Onegavon Organ Organa Ornag
+				Oshi Ostro Pagan Pakhtiyar Papac_yz Pava_l Praksa Rassate Rugila Sabin Samsam Sandil Sandilkh Sarkhan Sarta_c_ Savin Sevar Shilki Simsam Sondoke Tabghac_ Tarasiy Taridin Tarkhan Tarmac_ Tatra Telec Telerig Tervel Time_r Time_rec_ Time_rpa_lat
+				Tingiz Tiradin Toghan Tokhtaman Toktu Tsog Tsul Tuk Tuzniq Ta_ba_r Ta_htaman Umor Uturgur Vakrim Venda Vetam Vinekh Yabghu Yani Yavantey Yenc_epi Yerneslu Yec_tirek Yilig Zabergan Zenti C_at C_at_n C_orpan O_temis
+
+			}
+			female_names = {
+				Akgul Asli Ayasun Ayten Bozc_in Dilek Esin Gulay Gulc_ic_a_k Gundes Gunduz Gunes Ikalay Ilkay Ipek Ipekel Irge Karacik Khatun Ka_tyarikka Ke_lnissa Ke_lyamal Lyukha La_rkka Mala Maturkka Mutlu Nac_a Parsbit Patiyer Payke_lti Peksen
+				Puyantay Samur Sarantay Sarica Sarikel Sara_ Sati Savac_ka Savilay Savintik Savke_lti Savtilek Shurkka Sibel Sirin Sirma Songul Tekc_e Tura Ta_htani Umay Usunbike Yartilek Yasar Yeldem Yildiz C_ec_eppi C_ec_ki
+				C_ec_tilet C_ilen C_iltanesi C_ic_a_k O_zgul O_zlem
+			}
+		}
+		golden_avar = { }
+	}
+	
+	barbarian_names = { AMARDI ANARIACAE AUGASII CASPII CHORASMII CYRTII DAHAE DERBICII ISSEDONES LEGAE MATIANI MASSAGETAE PARNI SACAE SARMATAE SOANES VITII }
+	
+	graphical_culture = persian_gfx
+	ethnicities = {
+		7 = persian
+		3 = germanic
+	}
+}

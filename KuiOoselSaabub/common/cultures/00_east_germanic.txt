@@ -1,0 +1,57 @@
+﻿east_germanic = {
+
+	primary = light_infantry
+	second = archers
+	flank = light_cavalry
+
+	primary_navy = tetrere
+	secondary_navy = octere
+	flank_navy = liburnian
+
+	levy_template = levy_germanic
+
+	color = hsv { 0.05 0.7 0.3 }
+	male_names = {
+		Adalfuns Athalareiks Athanareiks Amalareiks Thiudareiks Andagis Ansila Arareiks Athanagild Audo Auswinth Badwila Beremud Botheric
+		Achila Agila Ardo Braulio Bulgar Chindaswinth Chintila Totila Egica Gundemar Recceswinth Tulga Wamba Wittiza Ulfila Atila Merila
+	}
+	female_names = {
+		Amalaswintha Adosinda Amalafrida Brenhilda Chlodoswintha Fredegonda Gaileswintha Goiswintha Radegonda
+	}
+	family = { 
+		Ulfisks.Ulfiska.Ulfiskai.Ulfisk
+		Baltisks.Baltiska.Baltiskai.Baltisk
+		Wambisks.Wambiska.Wambiskai.Wambisk
+		Ansisks.Ansiska.Ansiskai.Ansisk
+		Athanisks.Athaniska.Athaniskai.Athanisk
+		Swinthisks.Swinthiska.Swinthiskai.Swinthisk
+		Totabadisks.Totabadiska.Totabadiskai.Totabadisk
+		Chlodisks.Chlodiska.Chlodiskai.Chlodisk
+		Chindisks.Chindiska.Chindiskai.Chindisk
+		Italisks.Italiska.Italiskai.Italiska
+		Tarentisks.Tarentiska.Tarentiskai.Tarentisk
+		Sikelisks.Sikeliska.Sikeliskai.Sikelisk
+		Spanisks.Spaniska.Spaniskai.Spanisk
+		Agilisks.Agiliska.Agiliskai.Agilisk
+		Tulgisks.Tulgiska.Tulgiskai.Tulgisk
+		Frankisks.Frankiska.Frankiskai.Frankisk
+		Alanisks.Alaniska.Alaniskai.Alanisk
+		Fwnikisks.Fwnikiska.Fwnikiskai.Fwnikisk
+		Sleiths.Sleiths.Sleithai.Sleith
+	}
+	culture = {
+		ostrogothic = {}
+		wisigothic = {}
+		gepid = {}
+		wandal = {}
+		moesogoth = {}
+	}
+	barbarian_names = { CHATTI CHAUCI CHERUSCI CIMBRI USIPI VARISTI }
+
+	graphical_culture = german_gfx
+	ethnicities = {
+		7 = germanic
+		2 = roman
+		1 = celtic
+	}
+}

@@ -1,0 +1,64 @@
+﻿alanic = {
+	
+	levy_template = levy_iran
+	
+	primary = heavy_cavalry
+	second = light_infantry
+	flank = light_cavalry
+
+	primary_navy = tetrere
+	secondary_navy = octere
+	flank_navy = liburnian
+	
+	color = rgb { 113 103 85 }
+	
+	male_names = {
+		Aelbeg Aembalan Baeqaetar Dzaeraes Gaetaeg Biraeg Khaetaeg Aghsartan Alatey Akhsar Anbal Anbazuk Aravat Arsen Askhkadar Ashot Aslan Aspar Athom Balambar Balsag Barlah Basil Bazuk Beler Ber Boz_uruz Buurgur Buriberdi
+		Burikhan Candak Chelakhsartag Davit Djadaron Durgulel Georgy Girgon Gokhar Gubaz Guram Hasqar Huddan Istor Itaz Iveri Kandak Kandz Kavtia Kaur
+		Khankhusy Konstantin Kubal Kuddana Kul Kuluk Lak Levan Pulad Respendial Rosmag Safrak Sakhir Sangipan Saros Sathis Savkudz Soslan Suarn Syrdon Taymuraz Taus Totraz Urdure Uruzma Uturku Yasynya Zaur
+	}
+	female_names = {
+		Adadza Alda Altun Ana Atsyrukhs Baia Bedisa Borena Btsenon Burudukan Duda Elene Eliso Gergana Gulchara Guranduht Kera Keratsa Ketevan Koser
+		Lamara Lashin Lela Mariami Natia Nino Rusudan Sanatha Satinik Shatana Shorena Shukhia Tamari Tinatini Tsiala Vardo Vedokha Yeran
+	}
+	family = {
+		Arami.Arami.Aramids.Aramid
+		Ari.Ari.Arids.Arid
+		Arkhi.Arkhi.Arkhids.Arkhid
+		Asini.Asini.Asinids.Asinid
+		Arsaci.Arsaci.Arsacids.Arsacid
+		Deioci.Deioci.Deiocids.Deiocid
+		Meni.Meni.Menids.Menid
+		Pacori.Pacori.Pacorids.Pacorid
+		Savaci.Savaci.Savacids.Savacid
+		Vardani.Vardani.Vardanids.Vardanid
+		Suren.Suren.Surenids.Surenid
+		Karin.Karin.Karinids.Karinid
+		Gaumati.Gaumati.Gaumatids.Gaumatid
+		Gobryasi.Gobryasi.Gobryasids.Gobryasid
+		Hydarni.Hydarni.Hydarnids.Hydarnid
+		Smerdi.Smerdi.Smerdids.Smerdid
+		Vivani.Vivani.Vivanids.Vivanid
+		Xerxi.Xerxi.Xerxids.Xerxid
+		Abadani.Abadani.Abadanids.Abadanid
+		Oronti.Oronti.Orontids.Orontid
+		Bayani.Bayani.Bayanids.Bayanid
+	}
+
+	culture = {
+		alani = {}
+		red_croat = {}
+		rughan = {}
+		vaskedzyte = {}
+		akvitadzyte = {}
+		ronadzyte = {}
+	}
+	
+	barbarian_names = { AMARDI ANARIACAE AUGASII CASPII CHORASMII CYRTII DAHAE DERBICII ISSEDONES LEGAE MATIANI MASSAGETAE PARNI SACAE SARMATAE SOANES VITII }
+	
+	graphical_culture = persian_gfx
+	ethnicities = {
+		7 = persian
+		3 = germanic
+	}
+}

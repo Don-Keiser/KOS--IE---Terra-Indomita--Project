@@ -1,0 +1,11 @@
+treasure_manager = {
+    database = {
+	1 = { # Rome
+			key = "treasure_tomb_of_romulus"
+			icon = "treasure_sarcophagus"
+			state_modifier = {
+				local_pop_assimilation_speed = 0.15
+			}
+		}
+    }
+}

@@ -1,0 +1,64 @@
+﻿gallo_germanic = {
+
+	primary = light_infantry
+	second = archers
+	flank = light_cavalry
+
+	primary_navy = tetrere
+	secondary_navy = octere
+	flank_navy = liburnian
+
+	levy_template = levy_germanic
+
+	color = hsv { 0.05 0.7 0.3 }
+	male_names = {
+		Chlodovechus Chilpericus Charibertus Theuderichus Theudebertus Karolus Chlodomerius Chlotarius Acharus Remagilus
+		Acfridus Aclefridus Aclulfus Adaldus Adalgarius Alcuinus Amalgarius Bercharus Boso Bobo Narduinus Siclefridus
+		Chariulfus Childebertus Chrodegangus Gangulfus Genebaldus Giso Gummarus Grifo Hilderichus
+		Ingermannus Leodegarius Nantelmus Sigiramnus
+	}
+	female_names = {
+		Chlothildis Ultrogothis Chrodobergis Chrodesindis Radegundis Guntheuchis Ingundis Waldrada Wisigardis Aregundis
+		Chunsina Galswintha Fredegundis Bertrudis Liutgardis Lantildis Merofleda Marcohefa Nanthildis Teudelinda Theuda
+		Theudehilda Waldetrudis Wulfefundis Lintrudis Ingoberga Hildigardis Willa Gundelindis Gomentrudis Geilana
+	}
+	family = {
+		Merohingius.Merohingiis.Merohingii.Merohingian
+		Karlingus.Karlingis.Karlingi.Karlingian
+		Alcuinius.Alcuinia.Alcuinii.Alcuinid
+		Charibertinus.Charibertina.Charibertini.Charibertine
+		Childebertinus.Childebertina.Childebertini.Childebertine
+		Chlodomerinus.Chlodomerina.Chlodomerini.Chlodomerine
+		Chlotaringius.Chlotaringiis.Chlotaringii.Chlotaringian
+		Gisonius.Gisonia.Gisonii.Gisonid
+		Bosonius.Bosonia.Bosonii.Bosonid
+		Gangulfingius.Gangulfingiis.Gangulfingii.Gangulfid
+		Gummaringus.Gummaringis.Gummaringi.Gummarid
+		Ingermannius.Ingermannia.Ingermannii.Ingermannid
+		Chrodegangius.Chrodegangia.Chrodegangii.Chrodegangid
+		Aclulfingus.Aclulfingis.Aclulfingi.Aclulfid
+		Chariulfingus.Chariulfingis.Chariulfingi.Chariulfid
+		Leodegaringus.Leodegaringis.Leodegaringi.Leodegarid
+		Genebaldingus.Genebaldingis.Genebaldingi.Genebaldid
+		Nantelmius.Nantelmia.Nantelmii.Nantelmid
+		Hildericius.Hildericia.Hildericii.Hilderician
+		Theudericius.Theudericia.Theudericii.Theuderician
+		Chilpericius.Chilpericia.Chilpericii.Chilperician
+		Sigiramnius.Sigiramnia.Sigiramnii.Sigiramnian
+		Gundaharingus.Gundaharingis.Gundaharingi.Gundaharid
+	}
+	culture = {
+		frankish = {}
+		burgundian = {}
+		baiuvarian = {} #move?
+		alamannic = {}
+	}
+	barbarian_names = { CHATTI CHAUCI CHERUSCI CIMBRI USIPI VARISTI }
+
+	graphical_culture = german_gfx
+	ethnicities = {
+		7 = germanic
+		2 = roman
+		1 = celtic
+	}
+}

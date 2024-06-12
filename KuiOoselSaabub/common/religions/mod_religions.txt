@@ -1,0 +1,190 @@
+﻿roman_church = { #Rome
+	color = rgb { 178  204  128 }
+	modifier = { 
+		ruler_popularity_gain = 0.08
+		global_monthly_civilization = 0.02
+		character_loyalty = -3
+	}
+	religion_category = saints
+	can_deify_ruler = yes
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+} ###placeholder stuff
+
+african_church = { #Cartaginian
+	color = rgb { 128  153  102 }
+	modifier = { 
+		ruler_popularity_gain = 0.08
+		global_monthly_civilization = 0.02
+		character_loyalty = -3
+	}
+	religion_category = saints
+	can_deify_ruler = yes
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+} ###placeholder stuff
+
+alexandrian_church = { #miaphysite
+	color = rgb { 193  193  96 }
+	modifier = { 
+		ruler_popularity_gain = 0.08
+		global_monthly_civilization = 0.02
+		character_loyalty = -3
+	}
+	religion_category = saints
+	can_deify_ruler = yes
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+} ###placeholder stuff
+
+arian_church = {
+	color = rgb { 51  51  26 }
+	modifier = { 
+		ruler_popularity_gain = 0.08
+		global_monthly_civilization = 0.02
+		character_loyalty = -3
+	}
+	religion_category = saints
+	can_deify_ruler = yes
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+} ###placeholder stuff
+
+thessalonian_orthodox = {
+	color = rgb { 178  153  178 }
+	modifier = { 
+		ruler_popularity_gain = 0.08
+		global_monthly_civilization = 0.02
+		character_loyalty = -3
+	}
+	religion_category = saints
+	can_deify_ruler = yes
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+} ###placeholder stuff
+
+ctesiphonite_church = {
+	color = rgb { 51  128  178 }
+	modifier = { 
+		ruler_popularity_gain = 0.08
+		global_monthly_civilization = 0.02
+		character_loyalty = -3
+	}
+	religion_category = saints
+	can_deify_ruler = yes
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+} ###placeholder stuff
+
+muhammadism = {
+	color = rgb { 26  204  204 }
+	modifier = { 
+		ruler_popularity_gain = 0.08
+		global_monthly_civilization = 0.02
+		character_loyalty = -3
+	}
+	religion_category = saints
+	can_deify_ruler = yes
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+} ###placeholder stuff
+
+mithra_zalmos = {
+	color = rgb { 76  0  26 }
+	modifier = { 
+		monthly_corruption = -0.01
+		global_defensive = 0.05
+		research_points_modifier = -0.05
+	}
+	religion_category = pantheon
+	can_deify_ruler = yes
+} ###placeholder stuff
+
+jayayan_zalmukh = {
+	color = rgb { 165  0  58 }
+	modifier = { 
+		monthly_corruption = -0.01
+		global_defensive = 0.05
+		research_points_modifier = -0.05
+	}
+	religion_category = pantheon
+	can_deify_ruler = yes
+} ###placeholder stuff
+
+manichean = {
+	color = rgb { 188  154  115 }
+	modifier = { 
+		ruler_popularity_gain = 0.08
+		global_monthly_civilization = 0.02
+		character_loyalty = -3
+	}
+	religion_category = saints
+	can_deify_ruler = yes
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+} ###placeholder stuff
+
+manichean = {
+	color = rgb { 188  154  115 }
+	modifier = { 
+		ruler_popularity_gain = 0.08
+		global_monthly_civilization = 0.02
+		character_loyalty = -3
+	}
+	religion_category = saints
+	can_deify_ruler = yes
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+} ###placeholder stuff
+
+bons_chretiens = {
+	color = rgb { 122 204 178 }
+	modifier = { 
+		ruler_popularity_gain = 0.08
+		global_monthly_civilization = 0.02
+		character_loyalty = -3
+	}
+	religion_category = saints
+	can_deify_ruler = yes
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+} ###placeholder stuff
+
+o_red_star = {
+	color = rgb { 188 112 96 }
+	modifier = { 
+		ruler_popularity_gain = 0.08
+		global_monthly_civilization = 0.02
+		character_loyalty = -3
+	}
+	religion_category = saints
+	can_deify_ruler = yes
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+} ###placeholder stuff
+
+ambrosians = {
+	color = rgb { 91 140 125 }
+	modifier = { 
+		ruler_popularity_gain = 0.08
+		global_monthly_civilization = 0.02
+		character_loyalty = -3
+	}
+	religion_category = saints
+	can_deify_ruler = yes
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+} ###placeholder stuff
+
+fiorians = {
+	color = rgb { 70 89 32 }
+	modifier = { 
+		ruler_popularity_gain = 0.08
+		global_monthly_civilization = 0.02
+		character_loyalty = -3
+	}
+	religion_category = saints
+	can_deify_ruler = yes
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+} ###placeholder stuff

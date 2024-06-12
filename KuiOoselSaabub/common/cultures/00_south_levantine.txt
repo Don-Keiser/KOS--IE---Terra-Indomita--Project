@@ -1,0 +1,200 @@
+﻿south_levantine = {
+	color = rgb { 70 50 150 }
+	
+	primary = camels
+	second = light_infantry
+	flank = light_cavalry
+
+	primary_navy = tetrere
+	secondary_navy = octere
+	flank_navy = liburnian
+	
+	levy_template = levy_arabian
+
+	male_names = {
+		Muhammad Ahmad Ibrahim Idris Abdallah Ali Hasan Hashim Harun Salman Amin Karim Aladdin Tariq Khalid Mu_awiya
+	}
+	female_names = {
+		Aisha Fatima Maram Maryam Ikram Amina Amira Dabura Anna Hawwa Rahil Sara
+	}
+	
+	family = {
+		Adnani.Adnaniyyat.Adnanid.Adnanid
+		Amiri.Amiriyyat.Amirid.Amirid
+		Asadi.Asadiyyat.Asadid.Asadid
+		Ashga_i.Ashga_iyyat.Ashga_id.Ashga_id
+		Azdumani.Azdumaniyyat.Azdumanid.Azdumanid
+		Azizi.Aziziyyat.Azizid.Azizid
+	}
+	
+	culture = {
+		qurashi = {#Arabs of Hejaz, Muhammad's tribe
+			family = {
+				Al_umawi.Al_umawiyya.Banu_umayya.Umayyad
+				Al_hashimi.Al_hashimiyya.Banu_hashim.Hashimid
+				Al_samaydi.Al_samaydiyya.Banu_al_samayda.Samaydid
+				Al_qurazi.Al_quraziyya.Banu_qurayza.Qurayzid #Jewish
+				Al_nadiri.Al_nadiriyya.Banu_nadir.Nadirid #Jewish
+				Al_makhzumi.Al_makhzumiyya.Banu_makhzum.Makhzumid
+				Al_dari.Al_dariyya.Banu_abd_al_dar.Darid
+				Al_adawi.Al_adawiyya.Banu_adi.Adid
+				Al_sahmi.Al_sahmiyya.Banu_sahm.Sahmid
+				Al_nawfali.Al_nawfaliyya.Banu_nawfal.Nawfalid
+				At_taymi.At_taymiyya.Banu_taym.Taymid
+				Al_asadi.Al_asadiyya.Banu_asad.Asadid
+				Al_mutallibi.Al_mutallibiyya.Banu_mutallib.Mutallibid
+				Al_harthi.Al_harthiyya.Banu_al_harith.Harithid #Jewish
+				Al_qaynuqi.Al_qaynuqiyya.Banu_qaynuqa.Qaynuqid #Jewish
+				Al_amri.Al_amriyya.Banu_amir.Amirid
+			}
+		}
+		azdi = { #dominant eastern tribe
+			family = {
+				Al_awasi.Al_awasiyya.Banu_aws.Awsid
+				Al_khazraji.Al_khazrajiyya.Banu_khazraj.Khazrajid
+				Al_ghasani.Al_ghasaniyya.Banu_ghasan.Ghasanid
+				Al_hasani.Al_hasaniyya.Banu_hasan.Hasanid
+				At_tanukhi.At_tanukhiyya.Banu_tanukh.Tanukhid
+				Al_ghamdi.Al_ghamdiyya.Banu_ghamid.Ghamidid
+				Al_lakhmi.Al_lakhmiyya.Banu_lakhm.Lakhmid
+				Al_bariqi.Al_bariqiyya.Bariq.Bariq
+				Al_khuza_i.Al_khuza_iyya.Banu_khuza_a.Khuza_id
+				Al_aslami.Al_aslamiyya.Banu_aslam.Aslamid
+				Al_zahrani.Al_zahraniyya.Banu_zahran.Zahranid
+				Al_dawasi.Al_dawasiyya.Banu_daws.Dawsid
+				Al_adwani.Al_adwaniyya.Banu_adwan.Adwanid
+				Al_bashiri.Al_bashiriyya.Banu_bashir.Bashirid
+			}
+		}
+		quda_i = {} #Banu Quda'a
+		qaysi = {}
+		makan = {}
+		gerrhan = {}
+		yamama = {}
+		taif = {}
+		thamudi = {}
+		nabatean = {
+			levy_template = levy_nabatean
+			family = {
+				Absi.Absiyyat.Absid.Absid
+				Adi.Adiyyat.Adid.Adid
+				Adnani.Adnaniyyat.Adnanid.Adnanid
+				Amiri.Amiriyyat.Amirid.Amirid
+				Asadi.Asadiyyat.Asadid.Asadid
+				Ashga_i.Ashga_iyyat.Ashga_id.Ashga_id
+				Azdumani.Azdumaniyyat.Azdumanid.Azdumanid
+				Azizi.Aziziyyat.Azizid.Azizid
+				Bahili.Bahiliyyat.Bahilid.Bahilid
+				Bahiri.Bahiriyyat.Bahirid.Bahirid
+				Bakri.Bakriyyat.Bakrid.Bakrid
+				Baghidi.Baghidiyyat.Baghidid.Baghidid
+				Baliyyi.Baliyyiyyat.Baliyyid.Baliyyid
+				Dhabbi.Dhabbiyyat.Dhabbid.Dhabbid
+				Dhabyani.Dhabyaniyyat.Dhabyanid.Dhabyanid
+				Ghatapani.Ghatapaniyyat.Ghatapanid.Ghatapanid
+				Ghipari.Ghipariyyat.Ghiparid.Ghiparid
+				Gudhami.Gudhamiyyat.Gudhamid.Gudhamid
+				Guhayni.Guhayniyyat.Guhaynid.Guhaynid
+				Hadhayli.Hadhayliyyat.Hadhaylid.Hadhaylid
+				Halati.Halatiyyat.Halatid.Halatid
+				Hanipi.Hanipiyyat.Hanipid.Hanipid
+				Hashimi.Hashimiyyat.Hashimid.Hashimid
+				Hawazini.Hawaziniyyat.Hawazinid.Hawazinid
+				Hirniq.Hirniqyyat.Hirniqd.Hirniqd
+				Hizzani.Hizzaniyyat.Hizzanid.Hizzanid
+				Huza_i.Huza_iyyat.Huza_id.Huza_id
+				Massayyi.Massayyiyyat.Massayyid.Massayyid
+				Ma_zini.Ma_ziniyyat.Ma_zinid.Ma_zinid
+				Mudligi.Mudligiyyat.Mudligid.Mudligid
+				Muharibi.Muharibiyyat.Muharibid.Muharibid
+				Murri.Murriyyat.Murrid.Murrid
+				Nabati.Nabatiyyat.Nabatid.Nabatid
+				Numayri.Numayriyyat.Numayrid.Numayrid
+				Pazari.Pazariyyat.Pazarid.Pazarid
+				Qaysi.Qaysiyyat.Qaysid.Qaysid
+				Qurayshi.Qurayshiyyat.Qurayshid.Qurayshid
+				Qurayzi.Qurayziyyat.Qurayzid.Qurayzid
+				Rabi_i.Rabi_iyyat.Rabi_id.Rabi_id
+				Sa_di.Sa_diyyat.Sa_did.Sa_did
+				Sa_dmanati.Sa_dmanatiyyat.Sa_dmanatid.Sa_dmanatid
+				Salihi.Salihiyyat.Salihid.Salihid
+				Shaybani.Shaybaniyyat.Shaybanid.Shaybanid
+				Sulaymi.Sulaymiyyat.Sulaymid.Sulaymid
+				Taghlibi.Taghlibiyyat.Taghlibid.Taghlibid
+				Tamimi.Tamimiyyat.Tamimid.Tamimid
+				Tanuhi.Tanuhiyyat.Tanuhid.Tanuhid
+				Taymi.Taymiyyat.Taymid.Taymid
+				Thaqipi.Thaqipiyyat.Thaqipid.Thaqipid
+				Udhri.Udhriyyat.Udhrid.Udhrid
+				Umayyi.Umayyiyyat.Umayyid.Umayyid
+				Zuhri.Zuhriyyat.Zuhrid.Zuhrid
+			}
+    	}
+		qedarite = {
+			family = {
+				Absi.Absiyyat.Absid.Absid
+				Adi.Adiyyat.Adid.Adid
+				Adnani.Adnaniyyat.Adnanid.Adnanid
+				Amiri.Amiriyyat.Amirid.Amirid
+				Asadi.Asadiyyat.Asadid.Asadid
+				Ashga_i.Ashga_iyyat.Ashga_id.Ashga_id
+				Azdumani.Azdumaniyyat.Azdumanid.Azdumanid
+				Azizi.Aziziyyat.Azizid.Azizid
+				Bahili.Bahiliyyat.Bahilid.Bahilid
+				Bahiri.Bahiriyyat.Bahirid.Bahirid
+				Bakri.Bakriyyat.Bakrid.Bakrid
+				Baghidi.Baghidiyyat.Baghidid.Baghidid
+				Bali.Baliyyat.Balid.Balid
+				Dhabbi.Dhabbiyyat.Dhabbid.Dhabbid
+				Dhabyani.Dhabyaniyyat.Dhabyanid.Dhabyanid
+				Ghatapani.Ghatapaniyyat.Ghatapanid.Ghatapanid
+				Ghipari.Ghipariyyat.Ghiparid.Ghiparid
+				Gudhami.Gudhamiyyat.Gudhamid.Gudhamid
+				Guhayni.Guhayniyyat.Guhaynid.Guhaynid
+				Hadhayli.Hadhayliyyat.Hadhaylid.Hadhaylid
+				Halati.Halatiyyat.Halatid.Halatid
+				Hanipi.Hanipiyyat.Hanipid.Hanipid
+				Hashimi.Hashimiyyat.Hashimid.Hashimid
+				Hawazini.Hawaziniyyat.Hawazinid.Hawazinid
+				Hirniq.Hirniqyyat.Hirniqd.Hirniqd
+				Hizzani.Hizzaniyyat.Hizzanid.Hizzanid
+				Huza_i.Huza_iyyat.Huza_id.Huza_id
+				Lihyani.Lihyaniyyat.Lihyanid.Lihyanid
+				Massayyi.Massayyiyyat.Massayyid.Massayyid
+				Ma_zini.Ma_ziniyyat.Ma_zinid.Ma_zinid
+				Mudligi.Mudligiyyat.Mudligid.Mudligid
+				Muharibi.Muharibiyyat.Muharibid.Muharibid
+				Murri.Murriyyat.Murrid.Murrid
+				Nabati.Nabatiyyat.Nabatid.Nabatid
+				Numayri.Numayriyyat.Numayrid.Numayrid
+				Pazari.Pazariyyat.Pazarid.Pazarid
+				Qaysi.Qaysiyyat.Qaysid.Qaysid
+				Qurayshi.Qurayshiyyat.Qurayshid.Qurayshid
+				Qurayzi.Qurayziyyat.Qurayzid.Qurayzid
+				Rabi_i.Rabi_iyyat.Rabi_id.Rabi_id
+				Sa_di.Sa_diyyat.Sa_did.Sa_did
+				Sa_dmanati.Sa_dmanatiyyat.Sa_dmanatid.Sa_dmanatid
+				Salihi.Salihiyyat.Salihid.Salihid
+				Shaybani.Shaybaniyyat.Shaybanid.Shaybanid
+				Sulaymi.Sulaymiyyat.Sulaymid.Sulaymid
+				Taghlibi.Taghlibiyyat.Taghlibid.Taghlibid
+				Tamimi.Tamimiyyat.Tamimid.Tamimid
+				Tanuhi.Tanuhiyyat.Tanuhid.Tanuhid
+				Taymi.Taymiyyat.Taymid.Taymid
+				Thaqipi.Thaqipiyyat.Thaqipid.Thaqipid
+				Udhri.Udhriyyat.Udhrid.Udhrid
+				Umayyi.Umayyiyyat.Umayyid.Umayyid
+				Zuhri.Zuhriyyat.Zuhrid.Zuhrid
+			}
+		}
+	}
+	
+	barbarian_names = { 
+		THANOUITAE KATANITAE SALAMIOI MELANGITAE KINAIDOKOLPITAE ASATENOI CHORANITAE CADAEI TALUDAEI
+	}
+	
+	graphical_culture = arabian_gfx
+	ethnicities = {
+		10 = arabian
+	}
+}

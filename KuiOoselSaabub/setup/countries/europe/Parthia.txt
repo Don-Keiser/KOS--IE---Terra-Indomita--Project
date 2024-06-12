@@ -1,0 +1,2 @@
+﻿color = rgb { 124 76 28 }
+color2 = rgb { 0 37 99 }

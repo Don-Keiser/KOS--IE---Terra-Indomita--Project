@@ -1,0 +1,76 @@
+country = {
+	countries = {
+		HRE = {
+			ruler_term={ #
+				character=0
+				start_date=923.5.1
+				government=imperium
+			}
+			ruler_term={ #
+				character=1
+				start_date=944.2.1
+				government=imperium
+			}
+			ruler_term={ #
+				character=2
+				start_date=958.5.1
+				government=imperium
+			}
+			ruler_term={ #
+				character=3
+				start_date=990.7.1
+				government=imperium
+			}
+			ruler_term={ #
+				character=4
+				start_date=1018.2.1
+				government=imperium
+			}
+			ruler_term={ #
+				character=5
+				start_date=1056.4.1
+				government=imperium
+			}
+			ruler_term={ #
+				character=6
+				start_date=1083.4.1
+				government=imperium
+			}
+			ruler_term={ #
+				character=7
+				start_date=1107.4.1
+				government=imperium
+			}
+			ruler_term={ #
+				character=8
+				start_date=1138.4.1
+				government=imperium
+			}
+			ruler_term={ #
+				character=9
+				start_date=1171.4.1
+				government=imperium
+			}
+			ruler_term={ #
+				character=10
+				start_date=1198.4.1
+				government=imperium
+			}
+			ruler_term={ #
+				character=11
+				start_date=1235.4.1
+				government=imperium
+			}
+			ruler_term={ #
+				character=12
+				start_date=1268.4.1
+				government=imperium
+			}
+			ruler_term={ #
+				character=13
+				start_date=1291.4.1
+				government=imperium
+			}
+		}
+	}
+}

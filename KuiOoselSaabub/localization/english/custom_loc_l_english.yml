@@ -1,0 +1,4 @@
+﻿l_english:
+ character_name_alone:0 "[ROOT.GetCharacter.GetName]"
+ flavius_petrus_name:0 "Flavius Petrus [ROOT.GetCharacter.GetName]"
+ flavius_name:0 "Flavius [ROOT.GetCharacter.GetName]"

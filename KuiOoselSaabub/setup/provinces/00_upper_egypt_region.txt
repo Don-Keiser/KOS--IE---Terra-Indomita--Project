@@ -1,0 +1,1729 @@
+﻿549={ #Hermopolis Magna
+	terrain="flood_plain"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="leather"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	citizen={
+		culture="hebrew"
+		religion="judaism"
+		amount=3
+	}
+	citizen={
+		culture="macedonian"
+		religion="roman_pantheon"
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	slaves={
+		culture="lower_nubian"
+		religion="egyptian_pantheon"
+		amount=1
+	}
+	tribesmen={
+		culture="middle_egyptian"
+		amount=1
+	}
+	holy_site=omen_thoth
+}
+
+551={ #Monkanei
+	terrain="flood_plain"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="precious_metals"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+}
+
+552={ #Koussai
+	terrain="flood_plain"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="gems"
+	civilization_value=36
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=7
+	}
+	citizen={
+		culture="lower_nubian"
+		religion="egyptian_pantheon"
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	freemen={
+		culture="lower_nubian"
+		religion="egyptian_pantheon"
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+553={ #Lykopolis
+	terrain="flood_plain"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="precious_metals"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+	holy_site=omen_anubis
+}
+
+554={ #Pokis
+	terrain="flood_plain"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="grain"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+555={ #Hypsele
+	terrain="flood_plain"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="cattle"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+556={ #Antaiopolis
+	terrain="flood_plain"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="stone"
+	civilization_value=36
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+557={ #Panopolis
+	terrain="flood_plain"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="vegetables"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+558={ #Tripheion
+	terrain="flood_plain"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="cloth"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+559={ #Ptolemais Hermeiou
+	terrain="flood_plain"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="stone"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+560={ #Thinis
+	terrain="flood_plain"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="earthware"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+	holy_site=omen_anhur
+}
+
+561={ #Polybiane
+	terrain="flood_plain"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="grain"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+	holy_site=omen_osiris
+}
+
+562={ #Diospolis
+	terrain="flood_plain"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="horses"
+	civilization_value=36
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+563={ #Tenthyris
+	terrain="flood_plain"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="cloth"
+	civilization_value=36
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+	holy_site=omen_hathor
+}
+
+564={ #Kaine
+	terrain="desert"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="cattle"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+}
+
+565={ #Ghuzza
+	terrain="desert_hills"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="marble"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+566={ #Koptos
+	terrain="flood_plain"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="vegetables"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+	holy_site=omen_min
+}
+
+567={ #Apollinopolis Mikra
+	terrain="flood_plain"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="vegetables"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+	holy_site=omen_heqet
+}
+
+568={ #Petemout
+	terrain="flood_plain"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="stone"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+569={ #Diospolis Magna
+	terrain="flood_plain"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="stone"
+	civilization_value=38
+	barbarian_power=0
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=4
+	}
+	citizen={
+		culture="hebrew"
+		religion="judaism"
+		amount=2
+	}
+	freemen={
+		culture="hebrew"
+		religion="judaism"
+		amount=4
+	}
+	freemen={
+		amount=5
+	}
+	tribesmen={
+		amount=3
+	}
+	slaves={
+		amount=3
+	}
+	holy_site=omen_amun
+}
+
+570={ #Memnonia
+	terrain="flood_plain"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="cattle"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+571={ #Terkythis
+	terrain="flood_plain"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="wild_game"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+572={ #Hermonthis
+	terrain="flood_plain"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="cattle"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+573={ #Pathyris
+	terrain="flood_plain"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="wild_game"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+574={ #Latopolis
+	terrain="flood_plain"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="earthware"
+	civilization_value=36
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=2
+	}
+	citizen={
+		culture="lower_nubian"
+		religion="egyptian_pantheon"
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+	slaves={
+		amount=3
+	}
+	holy_site=omen_heka
+}
+
+575={ #Eileithyiopolis
+	terrain="flood_plain"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="vegetables"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+578={ #Dunqash
+	terrain="desert"
+	culture="blemmyan"
+	religion="egyptian_pantheon"
+	trade_goods="marble"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+579={ #Persou
+	terrain="desert_hills"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="marble"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+580={ #Myos Hormos
+	terrain="desert_hills"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="marble"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=3
+	}
+	citizen={
+		culture="hebrew"
+		religion="judaism"
+		amount=2
+	}
+	freemen={
+		culture="hebrew"
+		religion="judaism"
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	port_building=1
+}
+
+581={ #Semna
+	terrain="desert_hills"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="precious_metals"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+582={ #Siqdit
+	terrain="desert_hills"
+	culture="blemmyan"
+	religion="egyptian_pantheon"
+	trade_goods="stone"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+583={ #Berenike
+	terrain="desert_hills"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="earthware"
+	civilization_value=36
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=8
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=4
+	}
+	slaves={
+		culture="lower_nubian"
+		religion="egyptian_pantheon"
+		amount=1
+	}
+	slaves={
+		culture="blemmyan"
+		religion="egyptian_pantheon"
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	tribesmen={
+		culture="blemmyan"
+		religion="egyptian_pantheon"
+		amount=3
+	}
+	port_building=1
+}
+
+584={ #Vetus Hydreuma
+	terrain="desert_hills"
+	culture="blemmyan"
+	religion="egyptian_pantheon"
+	trade_goods="stone"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+585={ #Lahami
+	terrain="desert"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="fish"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+586={ #Sukkari
+	terrain="desert_hills"
+	culture="blemmyan"
+	religion="egyptian_pantheon"
+	trade_goods="dates"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+587={ #Nechesia
+	terrain="desert"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="base_metals"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+588={ #Aristonis
+	terrain="desert_hills"
+	culture="blemmyan"
+	religion="egyptian_pantheon"
+	trade_goods="precious_metals"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+589={ #Falacro
+	terrain="desert_hills"
+	culture="blemmyan"
+	religion="egyptian_pantheon"
+	trade_goods="precious_metals"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+590={ #Novum Hydreuma
+	terrain="desert_hills"
+	culture="blemmyan"
+	religion="egyptian_pantheon"
+	trade_goods="gems"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+647={ #Quei
+	terrain="desert"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="fish"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+649={ #Lykabettus-Porphyrites
+	terrain="desert_hills"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="stone"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+	slaves={
+		culture="lower_nubian"
+		religion="egyptian_pantheon"
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+650={ #Drepanum
+	terrain="desert"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="fish"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5500={ #Erebe
+	terrain="desert"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="vegetables"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		culture="upper_egyptian"
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+}
+
+5501={ #Pohe
+	terrain="desert"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="camel"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5502={ #Gebara
+	terrain="desert"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="dates"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+5503={ #Gibra
+	terrain="desert"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="wild_game"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5504={ #Hibis
+	terrain="oasis"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="cloth"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		culture="upper_egyptian"
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+	holy_site=omen_khonsu
+}
+
+5505={ #Amura
+	terrain="oasis"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="dates"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5506={ #Tchonemyris
+	terrain="oasis"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="earthware"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5507={ #Tabenesse
+	terrain="oasis"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="fur"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		culture="upper_egyptian"
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5508={ #Kysis
+	terrain="oasis"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="fur"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+5509={ #Kellis
+	terrain="desert"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="cattle"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5510={ #Mothis
+	terrain="oasis"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="camel"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5511={ #Trimithis
+	terrain="oasis"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="dates"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5512={ #Thenete
+	terrain="desert"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="honey"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5513={ #Parammon
+	terrain="oasis"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="precious_metals"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		culture="upper_egyptian"
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5514={ #Farafra
+	terrain="oasis"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="salt"
+	civilization_value=31
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		culture="upper_egyptian"
+		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+5515={ #Sykaminia
+	terrain="desert"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="wood"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+}
+
+5516={ #Perusekh
+	terrain="desert"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="wild_game"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+5517={ #Precariton
+	terrain="desert"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="stone"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5518={ #Hameka
+	terrain="desert"
+	culture="lower_nubian"
+	religion="egyptian_pantheon"
+	trade_goods="dates"
+	civilization_value=22
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5519={ #Simbel
+	terrain="desert"
+	culture="lower_nubian"
+	religion="egyptian_pantheon"
+	trade_goods="cattle"
+	civilization_value=22
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5520={ #Cataphri
+	terrain="desert"
+	culture="lower_nubian"
+	religion="egyptian_pantheon"
+	trade_goods="camel"
+	civilization_value=22
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+}
+
+5521={ #Boron
+	terrain="desert"
+	culture="lower_nubian"
+	religion="egyptian_pantheon"
+	trade_goods="papyrus"
+	civilization_value=22
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+}
+
+5522={ #Debiri
+	terrain="desert"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="dates"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		culture="upper_egyptian"
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5523={ #Farafra
+	terrain="desert"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="fur"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+5524={ #Bishaya
+	terrain="desert"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="wild_game"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+5525={ #Tawar
+	terrain="desert"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="wild_game"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+5526={ #Minqar
+	terrain="oasis"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="stone"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		culture="upper_egyptian"
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+5527={ #Tablamum
+	terrain="oasis"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="cattle"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+}
+
+5528={ #Elassa
+	terrain="desert"
+	culture="libyan"
+	religion="egyptian_pantheon"
+	trade_goods="vegetables"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+5529={ #Poka
+	terrain="oasis"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="vegetables"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+	slaves={
+		culture="libyan"
+		amount=2
+	}
+}
+
+5530={ #Mandish
+	terrain="oasis"
+	culture="oasis_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="woad"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+5545={ #Thumat
+	terrain="desert"
+	culture="libyan"
+	religion="egyptian_pantheon"
+	trade_goods="camel"
+	civilization_value=28
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+7500={ #Ptolemais Theron
+	terrain="dry_plains"
+	culture="blemmyan"
+	religion="egyptian_pantheon"
+	trade_goods="elephants"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+	port_building=1
+}
+
+7501={ #Elephanton Chora
+	terrain="desert"
+	culture="blemmyan"
+	religion="egyptian_pantheon"
+	trade_goods="elephants"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+7594={ #Sabraiton
+	terrain="desert"
+	culture="blemmyan"
+	religion="egyptian_pantheon"
+	trade_goods="dates"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+7595={ #Arachos
+	terrain="desert"
+	culture="blemmyan"
+	religion="egyptian_pantheon"
+	trade_goods="incense"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+}
+
+7596={ #Canarbis
+	terrain="desert"
+	culture="blemmyan"
+	religion="egyptian_pantheon"
+	trade_goods="fish"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+7597={ #Erascum
+	terrain="desert"
+	culture="blemmyan"
+	religion="egyptian_pantheon"
+	trade_goods="dates"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+7598={ #Sabaste
+	terrain="desert"
+	culture="blemmyan"
+	religion="egyptian_pantheon"
+	trade_goods="elephants"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+7599={ #Setronon
+	terrain="desert"
+	culture="blemmyan"
+	religion="egyptian_pantheon"
+	trade_goods="pearls"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+9896={ #Ileigha
+	terrain="desert_hills"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="precious_metals"
+	civilization_value=12
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	slaves={
+		culture="blemmyan"
+		religion="egyptian_pantheon"
+		amount=2
+	}
+	slaves={
+		culture="lower_nubian"
+		religion="egyptian_pantheon"
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+	tribesmen={
+		culture="blemmyan"
+		religion="egyptian_pantheon"
+		amount=2
+	}
+}
+
+9897={ #Abraq
+	terrain="desert_hills"
+	culture="upper_egyptian"
+	religion="egyptian_pantheon"
+	trade_goods="camel"
+	civilization_value=12
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=1
+	}
+	freemen={
+		culture="lower_nubian"
+		religion="egyptian_pantheon"
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	slaves={
+		culture="lower_nubian"
+		religion="egyptian_pantheon"
+		amount=1
+	}
+	slaves={
+		culture="blemmyan"
+		religion="egyptian_pantheon"
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+	tribesmen={
+		culture="blemmyan"
+		religion="egyptian_pantheon"
+		amount=2
+	}
+}
+
+9898={ #Hudi
+	terrain="desert_hills"
+	culture="lower_nubian"
+	religion="egyptian_pantheon"
+	trade_goods="precious_metals"
+	civilization_value=15
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	citizen={
+		culture="upper_egyptian"
+		religion="egyptian_pantheon"
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	slaves={
+		culture="blemmyan"
+		religion="egyptian_pantheon"
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+	slaves={
+		culture="blemmyan"
+		religion="egyptian_pantheon"
+		amount=2
+	}
+}
+
+9899={ #Shabbabah
+	terrain="desert_hills"
+	culture="blemmyan"
+	religion="egyptian_pantheon"
+	trade_goods="wild_game"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+9900={ #Karim
+	terrain="desert_hills"
+	culture="blemmyan"
+	religion="egyptian_pantheon"
+	trade_goods="leather"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+9901={ #Asele
+	terrain="desert_hills"
+	culture="blemmyan"
+	religion="egyptian_pantheon"
+	trade_goods="stone"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+9902={ #Ghaloa
+	terrain="desert_hills"
+	culture="blemmyan"
+	religion="egyptian_pantheon"
+	trade_goods="wild_game"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+9903={ #Tuyur
+	terrain="desert_hills"
+	culture="blemmyan"
+	religion="egyptian_pantheon"
+	trade_goods="leather"
+	civilization_value=7
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+

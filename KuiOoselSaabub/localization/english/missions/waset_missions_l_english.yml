@@ -1,0 +1,239 @@
+﻿l_english:
+
+waset_missions:0 "Wrath of The Hidden One"
+waset_missions_DESCRIPTION:0 "The #E 29th Dynasty#! is the newest of the 3 Pharaonic dynasties to emerge. Unlike the other two, it is established under the name of #Y Amun#!, not #Y Aten#!. Through blood and tears, the #E Waset#! based dynasty was forged by #E Siamun I Siamunid#!, a truly outstanding individual.\n\nHowever, the test of a kingdom comes after the first ruler, and the omens are not great for #E Siamun's#! health. The priests and nobles of #E Thebes#! will certainly try and claim the throne for themselves. What will become of the worshippers of #E The Hidden One#!?"
+waset_missions_CRITERIA_DESCRIPTION:0 "This mission will be completed when the #R heretics#! have been punished thoroughly and #T Kemet#! has been unified."
+waset_missions_BUTTON_TOOLTIP:0 "In the name of Amun!"
+
+#Missions
+
+waset_missions_task_1:0 "Siamun's Heb Sed"
+waset_missions_task_1_DESC:0 "#E Siamun#! began his reign at 26, rallying all #Y Amun's#! faithful to defend his holy city. Victorious, #E Siamun#! went on to become a hero, and crowned Pharaoh of Upper Egypt. As is tradition, during his 30th year of rule, the king must undergo the #Y Heb Sed#!; a rite to recover his aging magic and godhood."
+
+waset_missions_task_2:0 "Embelish Waset"
+waset_missions_task_2_DESC:0 "#E Waset#! is the city of #Y Amun#!. Therefore, to honor #Y The Hidden One#!, we, his loyal servants, must show our devotion by showing our engineering skills and write his name on all buildings!"
+
+waset_missions_task_3:0 "The Succession"
+waset_missions_task_3_DESC:0 "#E Siamun#! is #R dead#!. The rites to help him reach the afterlife have not even begun, yet the candidates are already gathering support. #E Senusret#! is currently in the south of the country with the nobility honoring local gods. But the priests in #E Waset#! can make a move if they act quickly!"
+
+waset_missions_task_4:0 "Amun the Victorious" #reminder to myself to add to the dynasty number svalue
+waset_missions_task_4_DESC:0 "After a long struggle, victory is finally ours! #E Horemheb#! is crowned king and still holds on to his position of high priest of #E Amun#!. Therefore, #Y Dynasty [SCOPE.ScriptValue('dynasty_number_svalue')|0]#! of #E Egypt#! shall indeed be one to honor the gods."
+
+waset_missions_task_5:0 "Strike First"
+waset_missions_task_5_DESC:0 "We have secured our homeland. But we cannot strike at the #R heretics#! as long as our backs remain unguarded. The eastern #E Nomarchs#! must be tamed and swear fealty to the rightful ruler of #E Kemet#! once more!"
+
+waset_missions_task_6:0 "Negotiate with the Kermans"
+waset_missions_task_6_DESC:0 "Up the #E Nile#! and past the fourth cataract lays the #E Kingdom of Kerma#!. We should avoid confrontation with them, and make sure that while we purge the #R heresies#! of #E Egypt#!, we will not find a #E Khopesh#! lodged in our back."
+
+waset_missions_task_7:0 "Tame the Kermans"
+waset_missions_task_7_DESC:0 "We must tame the #E Nubians#!! Though they praise #E Amun#!, they shall never be #E Egyptians#!, nor will we forget the embarassement of their so-called #Y 25th Dynasty of Egypt#!. They are barbarians whom we cannot risk trusting. It is better to subdue them as a warning to anyone who would dare stand in the way of #Y Amun#!, and send a message to the #R heretics#! of the #Y Aten#!."
+
+waset_missions_task_8:0 "Hire Foreign Councilors"
+waset_missions_task_8_DESC:0 "If we wish to defeat the #R heretics#! we need good leaders to #Y Innovate#! and lead our armies. The #E Greeks#! are masters in this domain, and many of them are ready to serve us for a few gold coins."
+
+waset_missions_task_9:0 "Prepare for the Great War"
+waset_missions_task_9_DESC:0 "We can certainly dream of the punishments we will delier unto the #R heretics#!, yet we are far from ready. Despite our recent success the #E "Pharaoh"#! down the #E Nile#! still has power and men to resist us. We need to build up the army, gather religious support, and above all else, #R purge the traitors#!."
+
+waset_missions_task_10:0 "The Fall of Heresy"
+waset_missions_task_10_DESC:0 "Finally! After centuries of spitting on the gods, the sun disk worshippers are at our mercy. We will not make any distinctions. Men, women, children--even infants--are not safe from the #R wrath#! of #Y Amun#!! May they all perish, may the gods be avenged, and may they never rise again!"
+
+waset_missions_task_11:0 "Reclaim the Oases"
+waset_missions_task_11_DESC:0 "In the west lay independent #E Nomarchs#!, deep in the desert calling the oases home. It is time to remind them of what a #E Pharaoh#! is, and only then shall we move down the #E Nile#!."
+
+waset_missions_task_12:0 "Into the Fayum"
+waset_missions_task_12_DESC:0 " The #E "kings"#! of #E Henen-Nesut#! are heretics too... however they still worship the other gods. Perhaps they will not need to feel the #R wrath#! of #Y Amun#!, however, they are yet in our way."
+
+waset_missions_task_13:0 "Reclaim Memphis"
+waset_missions_task_13_DESC:0 "#E Memphis#!, the capital of so many #Y Dynasties#!, has been #G spared#! by the #R heresy#! of #Y Aten#!. It appears the might of #Y Ptah#! has managed to keep the jewel of the #E Delta#! in pristine condition. Unfortunately, its rulers are too ambitious. They will attempt to restore themselves as the capital of #E Kemet#! and form their own #Y Dynasty#! unless we act first."
+
+waset_missions_task_14:0 "Reclaim Siwa"
+waset_missions_task_14_DESC:0 "#E Sekht-Am#! (Siwa) is the westernmost of the great Egyptian settlements. Not only would reuniting the oasis of #Y Amun-Ra#! be a great achievement, it too would be a good outpost to block barbarous #E Libyan#! incursions and pesky #E Greek#! piracy."
+
+waset_missions_task_15:0 "Free the Western Delta"
+waset_missions_task_15_DESC:0 "The #E Delta#! is the most fertile province in #E Kemet#!... and perhaps even the world. Controlling it is vital for both economic and strategic purposes, and for reuniting the lands of the #E Nile#! into one kingdom. Furthermore, there are both #R heretics#! who desecrate the sanctity of the #E Delta#!, and also #E Greeks#! who dare encroach unto the land of #Y Amun#! with their foolish notions of #Y Zeus#!."
+
+waset_missions_task_16:0 "Reconquer the East"
+waset_missions_task_16_DESC:0 "The eastern #E Delta#! is the frontier between #E Kemet#! and savages. The #E Hyksos#! once invaded #E Egypt#! from beyond these very lands, and furthermore, there are monotheists who are called #E "Jews."#! For what it's worth, we care not about those barbaric beliefs, even if it wreaks of #R heretical#! notions, however we must do all we can to protect #E Kemet#! from the horrors of the #E Levant#!."
+
+waset_missions_task_17:0 "One Kemet, Under Amun"
+waset_missions_task_17_DESC:0 "After so many years of struggle, we have finally ended the #E 4th Intermediate Period#! with the blessing of #Y Amun#!. May #Y Amun's#! vision of a unified #E Kemet#! under his rule last for as long as the #E Nile#! flows and the winds blow."
+
+waset_missions_task_18:0 "The 29th Dynasty Prevails"
+waset_missions_task_18_DESC:0 "Siamun's death does not mean #E Waset#! should become a battleground for his succession. #E Senusret#! is the #E Pharaoh#! by his birthright, and so, he shall be crowned like his father. Despite the priests being quite upset for now, #E Senusret#! has the support of the nobility, and the people only pray for someone capable to lead them. The city of #E Waset#! is ready to welcome their new lord as he comes back from the up the #E Nile#!."
+
+waset_missions_task_19:0 "Secure Noble Support"
+waset_missions_task_19_DESC:0 "It is clear that the nobles prefer to submit to #E Senusret,#! the calm nobleman, than to #E Horemheb#! the zealot and priest of war. Yet, the nobles have their own agendas and may oppose the #E Pharaoh#! at a moments notice. We should make sure that they are loyal whether they like it or not."
+
+waset_missions_task_20:0 "Appease the Priests"
+waset_missions_task_20_DESC:0 "Despite trying to take the throne for himself, #E Horemheb#! is still a respected figure in #E Waset#!. His cleverness and intelligence would make for a powerful ally. Perhaps we can convince him to help us in the struggle to come? After all, differences we may have, we share one thing for certain; a hatred for those #R heretics#!!"
+
+waset_missions_task_21:0 "Bridge to the Sea"
+waset_missions_task_21_DESC:0 "The eastern #E Nomarchs#! must be brought under our rule. They may be weak and sparsely populated, but they control rich mines and access to the sea, allowing them the rich trade with #E Arabia and Punt#!. Let's assert ourselves over the region before the other #E "Pharoahs#!" beat us to it."
+
+waset_missions_task_22:0 "Challenge the Heretics"
+waset_missions_task_22_DESC:0 "#E Pharaoh Senusret#! has an idea to bring the #R heretical#! #E "Pharaohs"#! down. Instead of attacking them by ourselves, we should rally all the faithful to the Gods of #E Kemet#! against the #R heretics#!. Our power and influence would grow and the war balance would be in our favor, however, our enemies may do the same to counter us."
+
+waset_missions_task_23:0 "The Triumph of Waset"
+waset_missions_task_23_DESC:0 "It is finally time for us to decide what to do with the #R heretic#! capital as well as the "holy" sites in it. The priests all ask for the complete destruction of the city while the nobles suggest more leniancy of our vanquished enemies, proposing that we should only punish the leaders."
+
+waset_missions_task_24:0 "Claim the North"
+waset_missions_task_24_DESC:0 "Now that Upper Egypt is ours, we should turn our attention to the north. We must unify the country quickly! However, we should make sure we are ready. There's no turning back here.\n\n#R This will declare war with the #E 4th Intermediate Period#! wargoal on all Lower Egyptian states.#!"
+
+waset_missions_task_25:0 "Stabilize the North"
+waset_missions_task_25_DESC:0 "Now that we have unfied #E Egypt#! again, we must ensure loyalty there."
+
+waset_missions_task_26:0 "Tame the West"
+waset_missions_task_26_DESC:0 "#E Libyan#! raiders and disloyal #E Nomarchs#! lay to our west. We must reel them back into our sphere, as such, they must be subdued."
+
+waset_missions_task_27:0 "Subdue the Miners"
+waset_missions_task_27_DESC:0 "In an afront to all #E Egyptian#! tradition, the miners of #E Mafkat Khetiu#! believe themselves to be righteous in their #E Republican#! ideals. If they think this so called #E Democracy#! will save them from becoming the possession of the rightful #E Pharaohs#! of #E Kemet#!, then they are as wrong as the #R heretics#!. Let's bring an end to this miners' republic and take back the #G Land of Turquoise#!."
+
+waset_missions_task_28:0 "King of the Nile"
+waset_missions_task_28_DESC:0 "Once more #E Kemet#! is free and united under the true gods and rightful #E Pharaohs#!! No longer will our land be subject to #R heresies#! nor invasions. A new era has begun; #E Pharaoh Siamun#! would be proud!"
+
+
+#Tooltips
+eastern_egypt_claims_tt:0 "Gain claims on the #Y Eastern Desert#! area.\nGain claims on the #Y Troglodytica#! area.\nGain claims on the #Y Myos Hormos#! area."
+kerma_claims_tt:0 "Gain claims on the #Y Aswan#! and #Y Khargana#! areas."
+waset_kerma_100_tt:0 "#E Kerma#! has an opinion of #E Waset#! greater or equal to #G 100#!."
+negotiate_kerma_tt:0 "We will enter #Y alliance#! negotiations with #E Kerma#!."
+invite_greeks_tt:0 "We will hire a #E Greek#! mercenary group to aid in our war efforts."
+gets_mentu_tt:0 "Gains access to the [GetDeityDefinition('omen_mentu').GetName|Y] deity."
+gain_claims_siwa_parva_libya_tt:0 "Gain claims on the #Y Desheret Iahby#! area.\nGain claims on the #Y Troglodytica#! area.\nGain claims on the #Y Myos Hormos#! area."
+decide_faiyum_tt:0 "Decide what to do with the #Y Faiyum#! area."
+choose_path_tt:0 "Choose between the #Y Priests#! and the #R Nobles#! faction.\n\n#E The Nobles path is unavailable. This will be fixed ASAP.#!"
+heb_sed_tt:0 "The #Y Heb Sed#! festival begins."
+warning_tt:0 "#R This option is incomplete. Please pick the priest option.#!"
+civil_war_tt:0 "A civil war in #E Waset#! begins!"
+chose_priests_tt:0 "Chose #E Horemheb#! as your leader."
+
+
+#Modifiers
+valley_of_the_kings_prep:0 "Preparations for Burial"
+embelish_waset:0 "Embellished Waset"
+anti_atenism:0 "Anti-Aten Zeal"
+order_in_east:0 "Control in the East"
+mentu_preperation:0 "Prepared for War"
+akhetaton_desecrated:0 "Akhetaton Destroyed"
+masters_of_desheret:0 "Masters of Desheret"
+kings_in_memphis:0 "Kings of Memphis"
+western_delta_mod:0 "Western Delta Prosperity"
+safe_frontier:0 "Egypt's Frontier Fortified"
+the_29th_continues:0 "One Waset, One King"
+discipline_greek:0 "Greek Instructors"
+faiyum_punished:0 "Religious Clensing"
+
+#Other
+waset_revolter_name:0 "Waset"
+waset_revolter_adjective:0 "Wasetian"
+wrath_of_amun:0 "the Wrath of Amun"
+KEMET_NAME:0 "Kemet"
+KEMET_ADJ:0 "Kemetic"
+
+#Events
+me_waset_1_title:0 "$waset_missions_task_1$"
+me_waset_1_desc:0 "The entire city comes to see their king on this holy day. #E Siamun#! undergoes the rites. #E Horemheb#!, the high priest of #E Amun#!, and #E Senusret#!, the heir to the throne, stand beside him. The two men are watching their leader with smiles but are already thinking of what comes next. Indeed, both know that #E Siamun#! wont rule forever and they are already trying to impress the king. #E Siamun#! doesn't know but as he prays to #E Amun#!, the priest and the heir are planning the other's demise…\n\nOn this day, #E Siamun#! decides to…"
+me_waset_1.a:0 "Ensure priestly support."
+me_waset_1.b:0 "Present Siamun to the people."
+me_waset_1_tooltip:0 "The mission task '#Y $waset_missions_task_1$#!' has now been #G Completed#!!"
+
+me_waset_2_title:0 "$waset_missions_task_2$"
+me_waset_2_desc:0 "Pharaoh #E Siamun#! inspects a shrine to #E Amun#!, a woman, a supposed servant, rushes to the king with a knife and screams\n\n#E “For Aten ! The only true god !”#!\n\n#E Siamun#! defends himself as a former warrior, but is stabbed in the leg. The woman is neutralized by the guards as the king is brought to safety. This time, #E Horemheb#! and #E Senusret#! are united in their disdain. The woman’s heart must be ripped from her chest for this crime! She shall never make it to the field of reeds.\n\nThe next day, an injured #E Siamun#! as well as #E Horemheb#! and #E Senusret#! watch the execution. As a soldier opens the woman’s chest, #E Senusret#! shows disgust while #E Horemheb#! rejoices in the death of an heretic. However small this interaction was, the priests of the court see this as a sign that #E Horemheb#! is the ideal candidate for zealots to rule the country whereas nobles seem to favor #E Senusret#!, the true bloodheir to the throne. #E Siamun’s#! injury only brings the time of choice closer…"
+me_waset_2.a:0 "It was supposed to be a happy occasion..."
+me_waset_2_tooltip:0 "The mission task '#Y $waset_missions_task_2$#!' has now been #G Completed#!!"
+
+me_waset_3_title:0 "$waset_missions_task_3$"
+me_waset_3_desc:0 "Our beloved ruler, #E Siamun#! the Great, has died after a long reign. He was the father of unity among the people and the elites of the country. But now that he is gone, tensions are rising in the royal court. #E Senusret#!, the heir, is in the south with the nobility and half of the army to inspect the border. In #E Waset#! proper, #E Horemheb#! the high priest is gathering support, raising levies and hiring mercenaries as well as bribing the local garrisons. If the new king doesn't act fast then there will be a civil war!\n\nMy king, what do you decide?"
+me_waset_3.a:0 "Crackdown on the priestly class!"
+me_waset_3.b:0 "Perhaps his way is the way of Amun..."
+me_waset_3_tooltip:0 "The mission task '#Y $waset_missions_task_3$#!' has now been #G Completed#!!"
+
+me_waset_4_title:0 "$waset_missions_task_4$"
+me_waset_4_desc:0 "Now that the priests are running, the word of Amun can spread. Oh it will spread far and wide ! The aten fanatics in the north will learn what it is to anger the Hidden One! For far too long these heretics have been allowed to live and spit on the land of Egypt! For far too long we have been passive to their insults! Since the times of Akhenaten, cursed be his name, they refuse to honor the true gods! Enough! Times have changed and now, it is time for Amun to reclaim his throne: the throne of Geb, the throne of Egypt!"
+me_waset_4.a:0 "All hail Horemheb! Guided by Amun!"
+me_waset_4_tooltip:0 "The mission task '#Y $waset_missions_task_4$#!' has now been #G Completed#!!"
+
+me_waset_5_title:0 "$waset_missions_task_5$"
+me_waset_5_desc:0 "We have tamed the eastern #E Nomarchs#!, and our position is much more secure. Now, we need not fear any incursions from the east, and we may continue our focus on the #E Nile#! instead."
+me_waset_5.a:0 "May we lose them never again!"
+me_waset_5_tooltip:0 "The mission task '#Y $waset_missions_task_5$#!' has now been #G Completed#!!"
+
+me_waset_6_title:0 "$waset_missions_task_6$"
+me_waset_6_desc:0 "As the kerman king meets our beloved pharaoh, blessed by Amun, at the border, the two men begin to discuss the situation. It is clear we both want to avoid war due to our own problems in our respective lands. What offer should we make to the nubian king?"
+me_waset_6.a:0 "Just bribe him for now."
+me_waset_6.b:0 "Offer him an alliance."
+me_waset_6.c:0 "Give their land back."
+me_waset_6.d:0 "On second thought, no negotiations needed."
+me_waset_6_tooltip:0 "The mission task '#Y $waset_missions_task_6$#!' has now been #G Completed#!!"
+
+me_waset_7_title:0 "$waset_missions_task_7$"
+me_waset_7_desc:0 "We cannot trust the nubians. They took over Egypt in the past, despite their pro Amun stance, they are still barbarians whom we cannot risk to deal with and then be betrayed. It is better to subdue them as a warning to anyone with similar ideas as well as a way to tell the heretics that they are next."
+me_waset_7.a:0 "To war!"
+me_waset_7_tooltip:0 "The mission task '#Y $waset_missions_task_7$#!' has now been #G Completed#!!"
+
+me_waset_8_title:0 "$waset_missions_task_8$"
+me_waset_8_desc:0 "If we want to defeat the heretics we need good leaders to innovate and lead our armies. The Greeks are masters in this domain, and many of them are ready to serve us for some money."
+me_waset_8.a:0 "Let him teach us discipline!"
+me_waset_8_tooltip:0 "The mission task '#Y $waset_missions_task_8$#!' has now been #G Completed#!!"
+
+me_waset_9_title:0 "$waset_missions_task_9$"
+me_waset_9_desc:0 "We can only think about how we are gonna punish the heretics. But we are not ready. Despite our recent success the "pharaoh" in the north still has power and men to wipe us out. Therefore, we need to build up the army, gather religious support and above all : purge any possible traitor."
+me_waset_9.a:0 "In the name of Mentu!"
+me_waset_9_tooltip:0 "The mission task '#Y $waset_missions_task_9$#!' has now been #G Completed#!!"
+
+me_waset_10_title:0 "$waset_missions_task_10$"
+me_waset_10_desc:0 "As our men enter the city, the pharaoh himself has given orders to burn it to the ground and kill anyone they see not wearing military equipment. The soldiers take anything valuable and kill on sight. Temples to Aten are especially targeted for obvious reasons. For three days, this cursed city is subject to constant pillaging by the conquerors. Once finished, a messenger is sent to Waset and he presents himself to our ruler before saying: "Your grace, it is done." He understands what it means. As he gets up from his throne, the king looks toward the north and says: "Ahmose ; I have freed Egypt once more from its heretical usurpers.""
+me_waset_10.a:0 "Akhenaton delenda est, said the Latins."
+me_waset_10_tooltip:0 "The mission task '#Y $waset_missions_task_10$#!' has now been #G Completed#!!"
+
+me_waset_11_title:0 "$waset_missions_task_11$"
+me_waset_11_desc:0 "The deep oases now belong to us once more! all of #E Upper Egypt#! will be tamed. Now we shall march onwards, and look towards the grandest of oasis cities, #E Siwa#!."
+me_waset_11.a:0 "We shall march on!"
+me_waset_11_tooltip:0 "The mission task '#Y $waset_missions_task_11$#!' has now been #G Completed#!!"
+
+me_waset_12_title:0 "$waset_missions_task_12$"
+me_waset_12_desc:0 "The people of the Fayum worship Aten as well as the other gods. Therefore, the debate in Waset is to determine what to do with them. Should we guide them back into the light of Amun, or are they forever lost too?"
+me_waset_12.a:0 "Show some mercy upon them."
+me_waset_12.b:0 "Kill anyone worshiping that disk."
+me_waset_12_tooltip:0 "The mission task '#Y $waset_missions_task_12$#!' has now been #G Completed#!!"
+
+me_waset_13_title:0 "$waset_missions_task_13$"
+me_waset_13_desc:0 "Memphis, the great capital of the first great pharaohs lies in our hands. Our beloved pharaoh {ruler name}, has decided to visit the city of Ptah and admire the pyramids of Giza and Saqqara. There, he is crowned king of Lower Egypt. Even though we do not control the delta yet, the crowning indicates the ambition to do so. We have never been so close to unifying the country once again, by the grace of Amun!"
+me_waset_13.a:0 "And Ptah as well!"
+me_waset_13_tooltip:0 "The mission task '#Y $waset_missions_task_13$#!' has now been #G Completed#!!"
+
+me_waset_14_title:0 "$waset_missions_task_14$"
+me_waset_14_desc:0 "The great city of Siwa has always been enamoured with #E Amun-Ra#!, and now we have brought the #E Amun#! back into the city under its proper #E Pharaoh#!."
+me_waset_14.a:0 "The would be me, of course."
+me_waset_14_tooltip:0 "The mission task '#Y $waset_missions_task_14$#!' has now been #G Completed#!!"
+
+me_waset_15_title:0 "$waset_missions_task_15$"
+me_waset_15_desc:0 "The #E Delta#! is the most fertile province in #E Kemet#!... and perhaps even the world. Controlling it is vital for both economic and strategic purposes, and for reuniting the lands of the #E Nile#! into one kingdom. Now that we do control it, no one can possibly stand to oppose us!"
+me_waset_15.a:0 "Ah, money of the Delta, coffers of Waset."
+me_waset_15_tooltip:0 "The mission task '#Y $waset_missions_task_15$#!' has now been #G Completed#!!"
+
+me_waset_16_title:0 "$waset_missions_task_16$"
+me_waset_16_desc:0 "The eastern #E Delta#! is an important province to control, for it lays between the lands of the #E Hyksos#! and the lands of us #E Kemetics#!. We can be sure there will be no more of these foreigners desecrating our land of black soils."
+me_waset_16.a:0 "Egypt for the Egyptians!"
+me_waset_16_tooltip:0 "The mission task '#Y $waset_missions_task_16$#!' has now been #G Completed#!!"
+
+me_waset_17_title:0 "$waset_missions_task_17$"
+me_waset_17_desc:0 "In the streets of Waset, people cheer, as the pharaoh offers beers for everyone and allows a day of rest to celebrate. As the priest-king enters Karnak, he thanks Amun for his guidance, and for we he did. Now, that the heretics and usurpers are crushed, now that the country is one again, we can dream. But not only dream, we can act too. We want to bring Egypt to heights never seen before. And we will do it ! As long as we are faithful to Amun, nothing can stop us ! We will outdone Thutmose the Great in battle and Sneferu in greatness ! May our dynasty be the one that will defeat time !"
+me_waset_17.a:0 "A bright future awaits us."
+me_waset_17_tooltip:0 "The mission task '#Y $waset_missions_task_17$#!' has now been #G Completed#!!"
+
+me_waset_18_title:0 "$waset_missions_task_18$"
+me_waset_18_desc:0 ""
+me_waset_18.a:0 ""
+me_waset_18_tooltip:0 "The mission task '#Y $waset_missions_task_18$#!' has now been #G Completed#!!"
+
+me_waset_19_title:0 "$waset_missions_task_19$"
+me_waset_19_desc:0 ""
+me_waset_19.a:0 ""
+me_waset_19_tooltip:0 "The mission task '#Y $waset_missions_task_19$#!' has now been #G Completed#!!"
+
+me_waset_20_title:0 "$waset_missions_task_20$"
+me_waset_20_desc:0 ""
+me_waset_20.a:0 ""
+me_waset_20_tooltip:0 "The mission task '#Y $waset_missions_task_20$#!' has now been #G Completed#!!"
+

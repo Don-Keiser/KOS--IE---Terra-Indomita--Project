@@ -1,0 +1,72 @@
+﻿sklabenoi = {
+	color = hsv { 0 0.90 0.55 }
+	
+	levy_template = levy_italic
+	
+	primary = heavy_infantry
+	second = spearmen
+	flank = light_cavalry
+
+	primary_navy = tetrere
+	secondary_navy = hexere
+	flank_navy = liburnian
+	
+	male_names = { 
+		Branimir Sviatomir Sviatoslav Miroslav Vladimir Vladislav Vlad Slavomir Bogumil Boguslav Venceslav Fiodor Ludomir Bulgar
+		Dobreta Khatzon Prebond Derban Nebul Mezamir Mezaslav Idariz Kelagast Musok Ardagast Kii Khoriv Khanimir Akamir Arslan
+		Dragovit Dragomir Dragoslav Branivit Mirovit Premislav Lesko Drasko Vislav Aribert Borut Khotimir Amalomir Atila
+	}
+	female_names = {
+		Vanda Anna Ludmila Mila Svetlana Miroslava Sviatoslava Dragoslava Premislava Vislava Boguslava Bogumila Mezaslava Larissa
+		Margarita Daria Galina Arslana Vesna Lada Lana Irina Amala Derbana Nebula Akamira Prebonda Fatima Tatiana Larka Lybed
+	}
+	family = {
+		Branimirov.Branimirova.Branimirovci.Branimirid
+		Khatzonov.Khatzonova.Khatzonovci.Khatzonid
+		Prebondov.Prebondova.Prebondovci.Prebondid
+		Derbanov.Derbanova.Derbanovci.Derbanid
+		Nebulov.Nebulova.Nebulovci.Nebulid
+		Dobretov.Dobretova.Dobretovci.Dobretid
+		Arslanov.Arslanova.Arslanovci.Arslanid
+		Aribertov.Aribertova.Aribertovci.Aribertid
+		Sviatomirov.Sviatomirova.Sviatomirovci.Sviatomirid
+		Mezamirov.Mezamirova.Mezamirovci.Mezamirid
+		Kelagastov.Kelagastova.Kelagastovci.Kelagastid
+		Ardagastov.Ardagastova.Ardagastovci.Ardagastid
+		Bogumilov.Bogumilova.Bogumilovci.Bogumilid
+		Musokov.Musokova.Musokovci.Musokid
+		Khotimirov.Khotimirova.Khotimirovci.Khotimirid
+		Dragomirov.Dragomirova.Dragomirovci.Dragomirid
+		Leskov.Leskova.Leskovci.Leskid
+		Draskov.Draskova.Draskovci.Draskid
+		Atilov.Atilova.Atilovci.Atilid
+		Amalov.Amalova.Amalovci.Amalid
+		Bulgarov.Bulgarova.Bulgarovci.Bulgarid
+	}
+
+	#female_order = {
+		#Prima Secunda Tertia Quarta Quinta Septa Septima Octava Nona Decima Undecima Duodecima
+	#}
+
+	culture = {
+		#rhynchinoi = {} #chalkidiki
+		#drougoubitai = {} #macedonia
+		#belegezitai = {} #thessaly
+		#melingoi = {} #pelopponese
+		sklabenoi_north = {} #merged
+		sklabenoi_south = {} #pelopponese
+		sklabenoi_east = {} #anatolian serbs
+		polan = {}
+		white_serb = {}
+	}
+	
+	barbarian_names = { BRUTTII }
+	
+	graphical_culture = roman_gfx
+
+	ethnicities = {
+		8 = germanic
+		1 = persian
+		1 = greek
+	}
+}

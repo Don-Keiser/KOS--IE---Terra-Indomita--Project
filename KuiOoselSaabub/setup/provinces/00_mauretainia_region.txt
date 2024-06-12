@@ -1,0 +1,1586 @@
+﻿3061={ #Tingis
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="earthware"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=4
+	}
+	freemen={
+		culture="muretannian"
+		religion="african_church"
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	slaves={
+		culture="muretannian"
+		religion="african_church"
+		amount=3
+	}
+	tribesmen={
+		culture="muretannian"
+		religion="african_church"
+		amount=7
+	}
+	tribesmen={
+		amount=2
+	}
+	holy_site=omen_anti
+	port_building=1
+}
+
+3062={ #Lixus
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="stone"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	freemen={
+		religion="african_church"
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+	tribesmen={
+		religion="african_church"
+		amount=1
+	}
+}
+
+3063={ #Thamusida
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="base_metals"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		religion="african_church"
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3064={ #Arzeila
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="earthware"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3065={ #Frigidae
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="fish"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		culture="muretannian"
+		amount=2
+	}
+}
+
+3066={ #Occasum
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="tortoise_shell"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		religion="african_church"
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	freemen={
+		religion="african_church"
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3067={ #Volubilis
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="horses"
+	civilization_value=18
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3068={ #Sala
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="base_metals"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		religion="african_church"
+		amount=1
+	}
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	freemen={
+		religion="african_church"
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+	port_building=1
+}
+
+3069={ #Tocolosida
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="leather"
+	civilization_value=18
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3070={ #Banasa
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="cloth"
+	civilization_value=18
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3071={ #Thamusida Australis
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="cattle"
+	civilization_value=18
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3072={ #Aquae Dacicae
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="spices"
+	civilization_value=18
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+3073={ #Gilda
+	terrain="plains"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="wine"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3074={ #Aelia
+	terrain="plains"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="cattle"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3075={ #Viposcianae
+	terrain="plains"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="elephants"
+	civilization_value=20
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3076={ #Tremulae
+	terrain="hills"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="stone"
+	civilization_value=18
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3077={ #Oppidum Novum
+	terrain="hills"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="stone"
+	civilization_value=18
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3078={ #Ad Mercuri
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="vegetables"
+	civilization_value=18
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3079={ #Mons Semita
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="stone"
+	civilization_value=18
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3080={ #Rusaddir
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="wood"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		culture="muretannian"
+		religion="african_church"
+		amount=1
+	}
+	freemen={
+		culture="muretannian"
+		religion="african_church"
+		amount=1
+	}
+	tribesmen={
+		religion="african_church"
+		amount=2
+	}
+	port_building=1
+}
+
+3083={ #Lemnis
+	terrain="forest"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="wood"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3084={ #Syrorum
+	terrain="forest"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="elephants"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3085={ #Tamuda
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="stone"
+	civilization_value=24
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		religion="african_church"
+		amount=1
+	}
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	freemen={
+		religion="african_church"
+		amount=1
+	}
+}
+
+3086={ #Siga
+	terrain="forest"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="wood"
+	civilization_value=14
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+	port_building=1
+}
+
+3087={ #Pomaria
+	terrain="plains"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="gems"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3088={ #Albulae
+	terrain="desert_hills"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="elephants"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3089={ #Altava
+	terrain="desert"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="base_metals"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3090={ #Tepidae
+	terrain="plains"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="wood"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3091={ #Castra Puerorum
+	terrain="plains"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="salt"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3092={ #Portus Divinus
+	terrain="plains"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="fish"
+	civilization_value=26
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		culture="muretannian"
+		religion="african_church"
+		amount=1
+	}
+	slaves={
+		culture="muretannian"
+		religion="african_church"
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+	port_building=1
+}
+
+3093={ #Regiae
+	terrain="dry_plains"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="olive"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+}
+
+3094={ #Caputtasaccora
+	terrain="desert"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="fur"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3095={ #Portus Magnus
+	terrain="plains"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="base_metals"
+	civilization_value=26
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		culture="muretannian"
+		religion="african_church"
+		amount=2
+	}
+	freemen={
+		amount=1
+	}
+	port_building=1
+}
+
+3096={ #Tasaccora
+	terrain="desert_hills"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="wine"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3097={ #Lucu
+	terrain="hills"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="fur"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3098={ #Aquae Sirenses
+	terrain="hills"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="wine"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3099={ #Ala Miliaria
+	terrain="hills"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="elephants"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=1
+	}
+}
+
+3100={ #Castra Nova
+	terrain="plains"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="grain"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3101={ #Quiza Xenitana
+	terrain="plains"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="fish"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3102={ #Mina
+	terrain="plains"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="grain"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+}
+
+3103={ #Breucorum
+	terrain="hills"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="horses"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3104={ #Cenavicum
+	terrain="plains"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="horses"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+}
+
+3105={ #Columnata
+	terrain="plains"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="horses"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3106={ #Arsennaria
+	terrain="hills"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="olive"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3107={ #Caudium Castra
+	terrain="desert_hills"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="base_metals"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+3108={ #Cartennae
+	terrain="hills"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="spices"
+	civilization_value=29
+	barbarian_power=0
+	province_rank="city"
+	freemen={
+		culture="muretannian"
+		religion="african_church"
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+	port_building=1
+}
+
+3109={ #Portus Magulus
+	terrain="plains"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="tortoise_shell"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	port_building=1
+}
+
+3110={ #Tingitanum
+	terrain="plains"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="leather"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+}
+
+3111={ #Cartili
+	terrain="hills"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="elephants"
+	civilization_value=9
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+3112={ #Castra Germanorum
+	terrain="plains"
+	culture="numidu"
+	religion="african_church"
+	trade_goods="horses"
+	civilization_value=11
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6301={ #Rutubis
+	terrain="plains"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="dye"
+	civilization_value=26
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	tribesmen={
+		religion="african_church"
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+	port_building=1
+}
+
+6302={ #Zemour
+	terrain="hills"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=5
+	}
+}
+
+6470={ #Rob'a
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+6471={ #Mousa
+	terrain="plains"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="cedar"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+6472={ #Amer
+	terrain="plains"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+6473={ #Ouardigha
+	terrain="hills"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="horses"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+6474={ #Meskine
+	terrain="plains"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="spices"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+6475={ #Anfa
+	terrain="plains"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+}
+
+6476={ #Khedis
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="wild_game"
+	civilization_value=18
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+6477={ #Frej
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=4
+	}
+}
+
+6478={ #Amar
+	terrain="plains"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="tortoise_shell"
+	civilization_value=26
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		religion="african_church"
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+6479={ #Bouzerrara
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="cedar"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+6480={ #Amrane
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+6481={ #Haouzia
+	terrain="hills"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+6484={ #Ifran
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="ivory"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+6485={ #Tiflet
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="elephants"
+	civilization_value=18
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+6486={ #Ziaida
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="cedar"
+	civilization_value=18
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+6487={ #Mdakra
+	terrain="hills"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="cedar"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+}
+
+6489={ #Mzamza
+	terrain="hills"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+6490={ #Safim
+	terrain="plains"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="spices"
+	civilization_value=26
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+	tribesmen={
+		culture="muretannian"
+		religion="african_church"
+		amount=1
+	}
+	port_building=1
+}
+
+6491={ #Azama
+	terrain="plains"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="spices"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+6492={ #Zaakna
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+7221={ #Mizab
+	terrain="plains"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+10117={ #Zaio
+	terrain="plains"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="grain"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	slaves={
+		culture="muretannian"
+		religion="african_church"
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+10118={ #Laatamna
+	terrain="plains"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="elephants"
+	civilization_value=3
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	slaves={
+		culture="muretannian"
+		religion="african_church"
+		amount=1
+	}
+	tribesmen={
+		amount=4
+	}
+	holy_site=omen_anzar
+}
+
+10128={ #Kach Kouch
+	terrain="hills"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="earthware"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=7
+	}
+	slaves={
+		culture="muretannian"
+		religion="african_church"
+		amount=1
+	}
+}
+
+10129={ #Jebha
+	terrain="hills"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+10130={ #Hoceima
+	terrain="hills"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="fish"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=4
+	}
+}
+
+10131={ #Sidi Driss
+	terrain="hills"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="base_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=5
+	}
+	slaves={
+		culture="muretannian"
+		religion="african_church"
+		amount=1
+	}
+}
+
+10132={ #Tiztoutine
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="grain"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+	slaves={
+		culture="muretannian"
+		religion="african_church"
+		amount=1
+	}
+}
+
+10133={ #Midar
+	terrain="hills"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+10134={ #Ajdir
+	terrain="mountain"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="precious_metals"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+10135={ #Mnoud Nekkour
+	terrain="hills"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=3
+	}
+}
+
+10136={ #Ziam
+	terrain="mountain"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="wild_game"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+10137={ #Senada
+	terrain="mountain"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="leather"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+
+10171={ #Sloughia
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="cedar"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=4
+	}
+}
+
+10172={ #Brazzia
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="grain"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=4
+	}
+}
+
+10173={ #Agourai
+	terrain="forest"
+	culture="muretannian"
+	religion="african_church"
+	trade_goods="fur"
+	civilization_value=5
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
+}
+

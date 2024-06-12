@@ -1,0 +1,1262 @@
+country = {
+	countries = {	
+		HRE = { #Holy Roman Empire
+			government = aristocratic_monarchy
+			primary_culture = neustrien
+			religion = roman_church
+			diplomatic_stance=appeasement_stance
+			
+			family=0
+			
+			capital = 2475 #Paris
+			
+			own_control_core = {
+				1719 2268 2284 2285 2286 2295 2296 2298 2339 3309
+				1721 2283 2328 2330 2331 2337 2340 2341 2344 2404 3307
+				2234 2261 2287 2297 2312 2315 2316 2317 2338 2302
+				2229 2230 2231 2232 2290 2291 2332 2333 2334 3000 #Saintonge
+				2210 2211 2224 2225 2227 2228 2226 2398 2345 2390 2391 2393 2396 2397 2399 2389 2392 #Poitou
+				2382 2383 2384 2385 2386 2387 2388 2395 2419 2420 2421 2422 2343 2405 2346 #Celtica
+				2144 2212 2352 2403 2400 2402 3308 # Pictonia
+				2378 2379 2380 2375 2376 2381 2409 2377 2368 2373 2374 2342 #Cubia
+				2300 2299 2371 2370 2364 2365 2369 2372 2366 2367 2348 2360 #Ambarria
+				2347 2410 2412 2414 2411 2407 2406 2416 2418 2417 2479 2480 2408 #Biturigia
+				2134 2135 2136 2137 2138 2139 2140 2216 2215 #Manche
+				2351 2459 2217 2214 2221 2220 2218 2219 2222 2223 2467 #Caen
+				2457 2461 2460 2441 2478 2464 2465 2463 2466 2442 2462 2350 #Alencon
+				2394 2349 2423 2424 2425 2426 2401 2456 2458 #Turonia
+				2434 2438 2439 2430 2488 2432 2413 2415 2353 2448 #Senonia
+				2447 2476 2481 2483 2475 2477 2474 2485 2484 2444 2473 2472 2482 #Parisia
+				2468 2470 2469 2471 3034 3033 3035 3037 3039 3036 2443 #Veliocassia
+				2493 3044 2445 3032 3031 2446 3038 3042 3045 3046 #Bellovacia
+				2440 2437 2354 3005 2431 2449 3008 3006 2489 #Lingonia
+				2490 2487 2486 2491 2451 3049 3051 3048 2492 2452 3043 3047 2450 #Suaeuconia
+				3001 2455 2498 2496 2495 2494 3050 3703 3686 3687 3688 3684 #Remia
+				3026 3029 3027 3030 3028 3675 3040 #Morinia
+			}
+		}
+		
+		AQT = { #Aquitaine
+			government = aristocratic_monarchy
+			primary_culture = aquitan
+			religion = roman_church
+			diplomatic_stance=appeasement_stance
+			
+			historical_regnal_numbers = {
+				Guilhem = 3
+				Loís = 2
+				Ramon = 2
+				Joan = 1
+			}
+			
+			capital = 2236 #Burdigala
+			
+			own_control_core = {
+				2282 2329
+				2235 2236 2237 2238 2241 2242 2245 2233 #Guyenne
+				2289 2294 2292 2293 2269 2270 2326 2327 2335 #Cardurcia
+				2288 2272 2274 2281 2273 2250 2271 2275 2278 2279 #Auscia
+				2247 2249 2251 2252 2277 2276 #Gascogne
+				2253 2263 2265 2266 2267 2280 2262 #Toulouse
+			}
+		}
+		
+		BSQ = { #Vasconia
+			government = aristocratic_monarchy
+			primary_culture = vasconian
+			religion = roman_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 1078 #Pamplona
+			
+			own_control_core = {
+				1074 1075 1076 1077 1106 2239 2240 2243 2244 2246 2248 1086 1096 1101 1105
+				1082 1078 1017 1083 1084 1087 1085 1095 1098 1099 #Vardulia
+			}
+		}
+		
+		BRZ = { #Bretagne
+			government = aristocratic_monarchy
+			primary_culture = brezhoneg
+			religion = african_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 2148 #Gwened
+			
+			own_control_core = {
+				5431
+				2145 2143 2209 2146 2142 2141 2147 2153 2148 2156 #Bro-Gwened
+				2149 2150 2151 2152 2154 2155 2157 2158 2159 2160 #Kernev
+			}
+		}
+		
+		BRG = { #Burgundy
+			government = aristocratic_monarchy
+			primary_culture = burgundisch
+			religion = roman_church
+			diplomatic_stance=appeasement_stance
+			
+			historical_regnal_numbers = {
+				Gundobadus = 2
+				Gundomarius = 3
+				Sigismundus = 1
+				Gundaharius = 1
+				Gundiocus = 1
+			}
+			
+			capital = 2427 #Besancon
+			
+			own_control_core = {
+				2356 2357 2433 2435 2436 3631 3632 3633 3634 3636 3619 3617 3618
+				2358 2359 2361 2362 2363 2355 3010 2427 3013 3014 2428 2429 #Bourgogne
+				3539 3621 3622 3623 3624 3626 3627 3628 3625 3629 3630 #Little Burgundy
+				3537 3538 3608 3609 3610 3611 3612 3613 3615 3614 3616 3620 #Valais
+			}
+		}
+		
+		PRO = { #Provence
+			government = aristocratic_monarchy
+			primary_culture = ligur
+			religion = roman_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 2325 #Marseille
+			
+			own_control_core = {
+				2319 2323 3524 3528
+				3541 3540 3517 2325 2324 3521 3523 3542 3518 3522 3520 #Provence
+			}
+		}
+		
+		GTL = { #Gothalaunia
+			government = aristocratic_monarchy
+			primary_culture = tarragones
+			religion = roman_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 2256 #Narbo	
+			
+			own_control_core = {
+				1006 1056 1067 1068 1069 1079 2254 2255 2314 2318
+				1000 1001 1002 1003 1008 1054 1060 1004 1005 1059 1007 1058 #Catalonia
+				2256 2257 2258 2259 2260 2313 # Narbonensis
+			}
+		}
+		
+		TAR = { #Tarragona
+			government = aristocratic_monarchy
+			primary_culture = tarragones
+			religion = roman_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 1009 #Tarragona	
+			
+			own_control_core = {
+				1239 1012 1242 1244 1247 1243 1062 #Tarraconensis
+				1052 1055 1053 1009 1063  1061 1057 1241 #Cesstenia
+				1010 1064 1070 1066 1071 1065 1011 #Ilegertia
+				1214 1212 1213 1013 1015 1089 1090 #CeltiSept
+				1072 1073 1014 1080 1088 1016 1081 #TarVasconia
+			}
+		}
+		
+		ISP = { #Muretannia-Ispannia
+			government = aristocratic_monarchy
+			primary_culture = muretannian
+			religion = african_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 1355 #Ispalis	
+			
+			own_control_core = {
+				1215 1229 1228 1230 1231 1240 1245 1246 1188 1094 1102 1100 1097 1104
+				1128 1122 1119 1125 1123 1124 1044 1185 1111 1110 1109 1103 3135 3143
+				3144 3145 3146
+				3208 3214 3220 3165
+				3163 3180 3149 3162 3228 3161 3160 3150
+				1353 1360 1357 1355 1370 1354 1368 1369 1374 1371 #Ispalis
+				1342 1344 1345 1347 1348 1346 1351 1343 1349 1352 1350 1364 #Gaditanus
+				1361 1362 1366 1389 1363 1365 1388 1375 1376 1386 1390 1387 #Malacitia
+				1367 1392 1391 1398 1385 1285 1397 1283 1282 1284 1278 1276 #Bastetania
+				1274 1280 1281 1279 1277 1039 1275 1273 1036 1040 1038 1035 #Mastiania
+				1034 1259 1260 1033 1037 1031 1248 1249 1253 1251 #Contestania Meri
+				1032 1264 1250 1030 1262 1255 1265 1254 1252 #Contestania Sept
+				1029 1237 1234 1263 1267 1261 1235 1236 1238 1216 #Edetania
+				1396 1395 1393 1394 1287 1383 1384 1381 1382 1286 1399 #Oretania
+				1443 1451 1450 1258 1026 1257 1271 1027 1269 1272 1256 #Lobetania
+				1268 1270 1209 1028 1266 1233 1211 1207 1210 1232 1217 1224 #CeltiMer
+				1223 1225 1222 1221 1226 1220 1219 1227 1091 1018 1218 1092 #CeltiCent
+				1416 1415 1359 1414 1417 1410 1341 1358 1356 1412 1405 1409 #Turdenia Occ
+				1324 1330 1336 1333 1334 1337 1338 1335 1339 1340 #Couneia
+				1404 1411 1442 1441 1446 1379 1378 1373 1372 1377 1447 1380 #Baetica
+				1429 1419 1421 1424 1420 1402 1403 1436 1418 1401 1408 1407 #Turdelia Occ
+				1406 1440 1439 1459 1460 1448 1444 1458 1463 1449 #Turdelia Orien
+				1457 1456 1452 1025 1024 1204 1023 1195 1205 1206 1203 1208 #Carpentiania
+				340 1437 1201 1200 1202 1434 1461 1438 1462 1455 1454 #Vettonia Mer
+				1318 1320 1328 1321 1322 1323 1422 1325 1326 1413 1331 1332 #Celticia Minoris
+				1435 1431 1432 1426 1400 1423 1425 1427 1428 1329 1327 #Celticia Maioris
+				1303 1308 1311 1312 1433 1310 1430 1315 1309 1306 1304 1307 #Lusitania Meri
+				1319 1316 1297 1294 1293 1291 1292 1295 1296 1298 1313 1314 1317 #Oppidania
+				1290 1299 1158 1162 1159 1300 1049 1302 1301 1198 1305 1160 #Lusitania Sept
+				1179 1180 1161 1196 1043 1173 1176 1046 1197 1199 1194 #Vettonia Sept
+				1175 1184 1182 1191 1192 1177 1193 1022 1183 1019 #Vaccaeia Meri
+				1172 1164 1167 1163 1157 1156 1288 1050 1153 1289 1051 #Aebocosia
+				1149 1148 1143 1147 1146 1142 1048 1154 1155 1152 1150 1151 #Galicia Meri
+				1134 1133 1135 1132 1131 1129 1047 1141 1140 1130 1139 1136 1137 1138 #Galicia Sept
+				1127 1121 1045 1120 1042 1171 1168 1169 1170 1165 1166 1145 #Asturia Meri
+				1187 1186 1178 1041 1189 1174 1190 1093 1181 1021 #Vaccaeia Sept
+				6301 6475 6477 6478 6479 6480 6481 6486 6490 6491 6492 7221 #Rutubis
+				6302 6470 6471 6472 6474 6473 6484 6485 6487 6489 10171 #Tadla
+				3063 3068 3071 3070 3069 3067 3073 3072 3079 6476 10172 10173 #Mauretannia
+				3061 3062 3064 3065 3085 3078 3077 3076 3075 3074 3066 #Tingitia
+				3080 3083 3084 3086 3087 3089 3090 3088 3091 3094 3092 3093 3096 3097 3095 #Metagonia
+				3098 3100 3101 3102 3109 3107 3106 3108 3110 3112 3111 3099 #Massaesylia
+				3116 3115 3118 3119 3117 3120 3121 3122 3124 3123 3126 3114 3113 #Iolia
+				3227 3226 3223 3221 3164 3218 3224 3225 3217 3232 3231 3229 3216 3355 #Massylia
+				3230 3233 3234 3235 3237 3264 3265 3268 3269 3238 3236 3267 3271 3262 #Thabracania
+				3258 3257 3260 3263 3266 3261 3256 3259 3251 3250 3253 3252 3255  #Carthage
+				3254 3245 3244 3249 3270 3241 3240 3242 3243 3272 3274 3275 1470 #Zeugitania
+				3279 3286 3276 3277 3282 3281 3278 3280 3283 3287 3285 3288 3289 3284 #Byssatis
+				3247 3209 3205 3197 3248 3239 3246 3210 3211 3212 3273 #Musulamia
+				3195 3194 3196 3198 3199 3200 3201 3202 #Maxyesia
+				1464 1466 1465 1467 1468 1469 #Balearides
+				3493 3495 3491 3492 3482 3485 3481 3483 3484 3490 3486 3487 3488 #Sardinia Sud
+				3506 3505 3500 3504 3499 3496 3501 3503 3502 3497 3489 3494 3498 #Sardinia Nord
+				10117 10118 10128 10129 10130 10131 10132 10133 10134 10135 10136 10137 #Rif
+				3081 3082 10111 10112 10113 10114 10115 10116 10174 #Lower Moulouya
+				10101 10102 10103 10104 10105 10106 10107 10108 10109 10110 #Upper Moulouya
+				10076 10077 10078 10079 10080 10081 10082 10083 10084 10085 10086 10175 #Marrakesh
+			}
+		}
+		
+		AST = { #Asturia
+			government = aristocratic_monarchy
+			primary_culture = asturianu
+			religion = arian_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 1114 #Oviedu	
+			
+			own_control_core = {
+				1118 1114 1126 1116 1117 1115 1113 1108 1112 1020 1107
+			}
+		}
+		
+		UAD = { #Uandils
+			government = aristocratic_monarchy
+			primary_culture = uandil
+			religion = arian_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 3344 #Serapeion	
+			
+			own_control_core = {
+				9944 9945 9988 9989 10048 10176 10177
+				3103 3104 3105 3177 3159 3148 3178 3179 3183
+				3141 3142 3132 3136 3131 3137 3130 3129 3128 3127 #Machuria
+				3133 3134 3139 3140 3147 3158 3157 3151 #Sitifensia
+				3152 3155 3153 3154 3172 3173 3171 3169 3156 3170 3174 3176 #Gaetulia
+				3184 3182 3166 3181 3167 3215 3219 3213 #Aurasius
+				3168 3207 3185 3187 3188 3186 3206 3203 3204 3193 3189 #Zara
+				3190 3191 3290 10061 10060 10062 10063 10064 10065 10066 #Tritonia
+				3291 3293 3294 3295 3296 3297 3298 3299 3300 #Emporia
+				3301 3302 3303 3304 3305 3306 3324 3325 3326 3327 #Tropolitania
+				3329 3330 3332 3333 3334 3335 3336 3337 3338 3339 3340 3341 #Syrtica
+				3343 3345 3342 3344 3346 3347 3348 3350 3357 3349 3352 3351 #Barka
+				3353 3359 3362 3364 3354 3358 3360 3361 3363 3365 3366 #Cyrenaica
+				3367 3368 3369 3370 3371 3372 3373 #Marmarica
+				3374 3375 3376 3377 3378 3379 3380 3476 3477 3478 #Libya
+				5537 5555 5538 5539 5540 5551 5550 5554 5552 5553 5556 5536 9942 9943 #Ammon
+				9946 9947 9948 9949 9950 9951 9952 9953 9954 9955 #Nasamonia
+				9956 9957 9958 9959 9960 9961 9962 9963 9964 9965 9966 9967 #Soda
+				10004 10005 10006 10007 10008 10009 10010 10011 #Psyllia
+				10029 10030 10031 10032 10033 10034 10035 10036 10037 #Soffeign
+				10021 10022 10023 10024 10025 10026 10027 10028 #Girgiri
+				10038 10039 10040 10041 10042 10043 10044 10045 10046 10047 #Phazania
+				10050 10051 10052 10053 10054 10055 10056 10057 10058 10059 #Lotophagia
+				9971 9972 9973 9974 9975 9976 9977 9978 #Shatti
+				9979 9980 9981 9982 9983 9984 9985 9986 #Hayaa
+				9990 9991 9992 9993 9994 9995 9996 9997 #Murzuq
+				9998 9999 10000 10001 10002 10003 #Himka
+				10012 10013 10014 10015 10016 10017 10018 10019 10020 #Zamzam
+				10158 10159 10160 10161 10162 10163 10164 10165 10166 10167 10168 #Jedi
+				10148 10149 10150 10151 10152 10153 10154 10155 10156 10157 #Saharan Atlas
+				10138 10139 10140 10141 10142 10143 10144 10145 10146 10147 10170 #Figuig
+				10119 10120 10121 10122 10123 10124 10125 10126 10127 #Sijilmasa
+				10087 10088 10089 10090 10091 10092 10093 10094 10095 10096 10097 #Upper Draa
+				10067 10068 10069 10070 10071 10072 10073 10074 10075 10098 10099 10100 #Sous
+			}
+		}
+		
+		BYZ = { #Byzantium
+			government = aristocratic_monarchy
+			primary_culture = romaioi
+			religion = thessalonian_orthodox
+			diplomatic_stance=appeasement_stance
+			
+			capital = 1453 #Byzantion	
+			
+			own_control_core = {
+				4154 4314 343 482 323 324 261 256 255 262 164 7951
+				795 796 792 790 789 791 787 788 784 786 1871
+				422 455 1445 414 495 489 44
+				4053 4054 4055 4056 4057
+				4063 4066 4065 4064 4067 4104
+				341 342 345 346 347 348 349 350 352 353 354 1453 #Europa
+				239 240 241 242 243 244 245 246 247 #Bythinia Inf
+				258 259 260 279 281 282 283 284 285 257 268 267 #Aeolia
+				270 297 357 360 362 490 492 494 1774 #Rhodope
+				220 275 286 287 288 289 290 291 1808 1972 1973 1974 #Ionia
+				1876 1977 1980 1981 1984 1985 1987 1989 1968 7934 7935 #Caria Inf
+				156 159 160 161 162 1992 1993 1995 1998 7942 7948 7949 #Lycia
+				330 331 332 333 334 335 336 338 6431 6433 7990 7991 #Cyprus
+				356 363 364 365 366 369 374 376 377 378 #Chalkidiki
+				371 373 379 380 381 382 383 384 385 386 428 6399 #Emathia
+				400 408 411 412 3125 3175 3356 #Pelagonia
+				419 421 425 464 465 467 470 474 476 3192 #Epirus
+				388 389 390 391 392 394 395 396 398 404 420 #Thessaly
+				401 456 457 459 461 462 463 466 469 7803 #Aetolia
+				399 402 406 423 424 426 458 468 475 7798 7802 7896 #Boeotia
+				277 403 407 409 410 452 1903 7899 7901 7904 #Euboea
+				413 416 417 442 443 472 7799 7897 7898 7902 #Attica
+				263 375 387 437 447 454 1835 1915 1964 7905 #Cyclades
+				418 434 435 439 444 446 460 7890 7893 7894 8003 #Achaea
+				436 438 440 441 448 449 451 7891 7892 7903 #Arcadia
+				427 429 430 431 432 433 450 471 473 7889 #Laconia
+				344 351 355 358 359 361 367 368 370 372 8016 8018 #Crete
+				83 84 85 86 87 88 101 1471 7837 7840 #Syracuse
+				80 81 82 89 98 99 100 1472 7838 7839 #Siculia
+				90 91 92 93 94 95 96 97 7841 7842 7843 #Sicania
+				51 52 72 73 74 75 76 77 78 79 #Croton
+				10 11 12 13 43 46 47 53 54 59 61 71 #Lucania
+				55 56 57 62 63 64 65 66 67 68 #Tarentum
+				39 42 45 58 60 69 70 #Apulia
+				6 7 8 9 40 41 1713 1716 1718 #Campania
+				266 280 310 1653 1830 1884 1970 1996 7936 7937 8015 #Sporades
+				4062 4084 8026 8027 4058 4060 4059 4081 4082 4085 4083 4086 4087 4088 4089 4090 4091 #Dalmatia
+			}
+		}
+		
+		PAP = { #Papal States
+			government = aristocratic_monarchy
+			primary_culture = romanian
+			religion = roman_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 1 #Romae	
+			
+			own_control_core = {
+				14 17 18 21 23 102 103
+				24 27 30 1712
+				105 104 119 123 118 107
+				133 142 147 148
+				145 3597
+				144 146 149 150 3592
+				3602 3604 3605 3606
+				1 2 3 4 5 15 16 19 20 25 26 #Latium
+			}
+		}
+		
+		RCR = { #Red Croatia
+			government = aristocratic_monarchy
+			primary_culture = red_croat
+			religion = mithra_zalmos
+			diplomatic_stance=appeasement_stance
+			
+			capital = 4152 #Tranoupara	
+			
+			own_control_core = {
+				393 397 405 4108 4109
+				497 4303 4304 4305 4153 498 4152 4117 499 4096 4097 4306 4302 #Paeonia
+			}
+		}
+		
+		ALB = { #Albania
+			government = aristocratic_monarchy
+			primary_culture = taulantian
+			religion = mithra_zalmos
+			diplomatic_stance=appeasement_stance
+			
+			capital = 415 #Epidamnos	
+			
+			own_control_core = {
+				415 2213 2264 2336 1144 4092 4094 4095 4093 4099 4100 4098 4113
+			}
+		}
+		
+		HUN = { #Hungary
+			government = aristocratic_monarchy
+			primary_culture = magyar
+			religion = thessalonian_orthodox
+			diplomatic_stance=appeasement_stance
+			
+			capital = 4850 #Feher	
+			
+			own_control_core = {
+				4034 4033 4050 4035 4049 4051 4077 4061 4134 4135 4143 3927 4147 4146 4144
+				4052 4288
+				4842 4843 4846 4845 4844 4848 4847 4850 4849 4855 4854 #Hercuniatia
+				4172 4171 4170 4167 4168 4169 4164 4162 4161 4160 4159 4158 4157 4156 #Valeria
+				4173 4174 4165 4166 4138 4148 4151 4149 4150 4155 4163 #Pannonia Prima
+				4142 4141 4133 4140 4139 4132 #Varciania
+				4852 4874 4867 4868 4872 4873 4871 4870 #Quadia
+				4853 4926 4886 4879 4880 4877 4876 4878 4888 4875 #Cotinia
+				4882 4883 4927 4885 4884 4881 #Costobocia
+				4840 4856 4857 4841 4851 4836 4839 4861 4860 4859 4858 #Iazygia
+				4835 4834 4837 4829 4838 #Albocensia
+				4190 4189 4192 4191 4186 4188 4187 4185 4193 #Pannonia Secunda
+				4177 4183 4184 4178 4179 4182 4180 4181 #Cataria
+				4043 4072 4075 4076 4074 4073 4041 4040 4042 4046 4045 4036 #Deuria
+				
+			}
+		}
+		
+		RUG = { #Rughans
+			government = aristocratic_monarchy
+			primary_culture = rughan
+			religion = mithra_zalmos
+			diplomatic_stance=appeasement_stance
+			
+			capital = 478 #Seuthopolis	
+			
+			own_control_core = {
+				4221 4223 4825 4115
+				4309 4311 484 4313 478 485 486 487 488 3853 496 4310 493 491 479 #Thracia
+				4312 4307 481 480 #Haeminontus
+				4235 4229 4230 477 4116 4222 #Moesia
+				4232 4227 4228 4226 4224 4225 4234 4233 4231 #Saldensia
+				4259 4241 4240 4245 4244 4239 4238 4236 4237 #Triballia
+				4247 4258 4248 4249 4256 4257 4252 4253 4251 4243 4246 4242 #Crobyzoia
+				4520 4519 4518 4517 4516 4515 4514 4513 4512 4255 4254 4250 #Scythia
+				4814 4812 4811 4807 4808 4805 4824 4803 4806 4804 #Roxolania
+				4818 4820 4822 4821 4823 4819 4816 4817 4810 4815 4809 4813 #Getia
+				4801 4802 4924 4923 4925 4913 4912 4930 4931 4932 4933 #Zargidaya
+				4521 4522 4523 4524 4525 4917 4918 4919 4920 4921 4800 4922 #Clepia
+				4915 4916 4928 4929 4934 #Muradava
+			}
+		}
+		
+		PTZ = { #Patzinakia
+			government = aristocratic_monarchy
+			primary_culture = patzinak
+			religion = thessalonian_orthodox
+			diplomatic_stance=appeasement_stance
+			
+			capital = 4195 #Singidunum	
+			
+			own_control_core = {
+				4071
+				4197 4198 4195 4124 4196 4194 #Scordiscia
+				4123 4125 4126 4128 4129 4130 #Marsonia
+				4204 4203 4199 4205 4206 #Tricornensia
+				4101 4119 4120 4106 4121 4127 4122 4103 4102 #Dindaria
+				4105 4107 4080 4079 4078 4070 4068 4069 #Daorsia
+			}
+		}
+		
+		KUN = { #Kunsag
+			government = aristocratic_monarchy
+			primary_culture = kunsag
+			religion = jayayan_zalmukh
+			diplomatic_stance=appeasement_stance
+			
+			capital = 4279 #Kunsagvar	
+			
+			own_control_core = {
+				4200 4201 4207 4212 4213
+				4826 4827 4831 4832 4833 4828
+				4279 4211 4268 4270 4271 4269 4274 4272 4273 4275 4210 4276 4267 4266 4278 4277 #Malvensis
+				4217 4220 4215 4216 4214 4218 4209 4208 #Picensia
+				4284 4282 4283 4285 4264 4265 4261 4262 4263 4260 4830 #Potulatensia
+			}
+		}
+		
+		SZE = { #Szekely
+			government = aristocratic_monarchy
+			primary_culture = szekely
+			religion = thessalonian_orthodox
+			diplomatic_stance=appeasement_stance
+			
+			capital = 4291 #Gyulafehervar	
+			
+			own_control_core = {
+				4286 4289 4290 4910 4906 4907 4908 4905
+				4502 4503 4291 4297 4504 4505 4506 4507 4508 4509 4510 4511 4296 #Porolissensis
+				4293 4294 4911 4909 4500 4292 4299 4281 4295 4501 4298 4287 4280 #Apulensis
+			}
+		}
+		
+		IST = { #Istria
+			government = aristocratic_monarchy
+			primary_culture = istrian
+			religion = roman_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 4029 #Celeia	
+			
+			own_control_core = {
+				4176 4137 3672 3671 3607 4038 4044
+				4028 4039 4029 4030 4175 4136 4031 4048 4047 4027 4025 4024 4026 #Latobicia
+				4020 4019 4018 4022 4021 4023 4032 #Histria
+			}
+		}
+		
+		MOE = { #Moesogoths
+			government = aristocratic_monarchy
+			primary_culture = moesogoth
+			religion = mithra_zalmos
+			diplomatic_stance=appeasement_stance
+			
+			capital = 4112 #Navissos
+			
+			own_control_core = {
+				4112 4219 4110 4111 4114 4118 4202
+			}
+		}
+		
+		PHR = { #Phrygia
+			government = aristocratic_monarchy
+			primary_culture = phrygian
+			religion = thessalonian_orthodox
+			diplomatic_stance=appeasement_stance
+			
+			capital = 194 #Ankyra
+			
+			own_control_core = {
+				1771 1782 1779 1778
+				1943 1936 1942 186 309 339
+				203 201 198 217 200 199
+				1837
+				194 195 196 197 202 204 222 231 1825 1841 193 226 #Phrygia Ulterioris
+				1820 1832 1836 1907 1909 1923 1932 7981 1913  1811 1813 #Saravene
+				175 188 189 190 192 228 229 227 191 181 316 328 #Phrygia Maioris
+				322 327 224 329 221 225 7765 #Bithynia Superioris
+				174 177 180 1914 1916 1934 1965 1971 1975 1950 176 1924 #Lycaonia
+				173 1888 1900 1938 1940 1951 1954 1978 1788 205 1817 1818 #Tyanitis
+				183 302 312 313 314 317 318 319 184 185 187 315 #Phrygia Minoris
+				178 179 182 230 1777 1925 1926 1928 1930 1937 1939 1941 #Phyrgia Parorea
+				167 170 1885 1927 1931 1933 1949 1988 7760 7956 1935 1921 #Pisidia
+				169 1785 1918 1919 1920 1922 1955 7961 1780 7964 7963 1784 #Isauria
+				166 168 165 1905 1906 1908 1910 7958 7962 1911 #Pamphylia
+				1872 1883 1887 1890 1892 1894 1896 1897 7968 1901 1917 1904 #Cilicia Trachea
+				1873 1874 1875 1877 1878 1879 1880 1881 1889 1882 #Cilicia Pedias
+				1789 1790 1833 1834 1838 1839 1840 1845 1846 7998 7999 #Iris Superioris
+				1794 1796 1799 1800 1805 6420 155 1982 1899 1803 1912 1802 #Cappadocia
+				172 1893 1902 1976 1979 1983 1994 1999 1891 1898 1849 #Cataonia
+				157 158 163 1852 1854 1859 1861 1865 1886 1929 1866 1853 #Melitene
+				1766 1769 7844 1733 1844 1848 1850 1851 1843 1858 1842 #Armenia Maioris
+				1958 1959 1961 1990 1997 7947 1960 1991 171 7954 1986 #Milyas
+			}
+		}
+		
+		TRB = { #Trebizond
+			government = aristocratic_monarchy
+			primary_culture = trapezuntine
+			religion = thessalonian_orthodox
+			diplomatic_stance=appeasement_stance
+			
+			capital = 1734 #Trapezous
+			
+			own_control_core = {
+				1828 1801 1783 1781 1776 1772 1787
+				1734 1775 1786 1793 1795 1797 1798 1773 1732 1731 #Paryadres
+				1807 1809 1810 1812 1814 1806 #Paphlagonia Inferioris
+				1791 1792 1804 1819 1821 1822 1823 1824 1826 1831 7994 #Iris Inferioris
+			}
+		}
+		
+		CMG = { #Commagene
+			government = aristocratic_monarchy
+			primary_culture = cataonian
+			religion = ctesiphonite_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 1867 #Markash
+			
+			own_control_core = {
+				1869 811
+				836 838 839 1862 1863 1864 1867 1868 837 1860 6397 1895 #Commagene
+			}
+		}
+		
+		BYT = { #Bythinia
+			government = aristocratic_monarchy
+			primary_culture = bithynian
+			religion = thessalonian_orthodox
+			diplomatic_stance=appeasement_stance
+			
+			capital = 234 #Kalpe
+			
+			own_control_core = {
+				325 326
+				212 208 206 211 1816 1815
+				213 216 232 1829 1827
+				207 209 210 237 238 219 215 214 234 236 223 233 #Mariandynia
+			}
+		}
+		
+		MYS = { #Mysia
+			government = aristocratic_monarchy
+			primary_culture = mysian
+			religion = thessalonian_orthodox
+			diplomatic_stance=appeasement_stance
+			
+			capital = 252 #Kyzikos
+			
+			own_control_core = {
+				274 248 249 250
+				251 252 253 254 264 7908 265 269 #Mysia Inferioris
+				271 272 273 303 304 306 337 320 321 218 276 278 #Mysia Superioris
+			}
+		}
+		
+		LYD = { #Lydia
+			government = aristocratic_monarchy
+			primary_culture = lydian
+			religion = thessalonian_orthodox
+			diplomatic_stance=appeasement_stance
+			
+			capital = 292 #Sardis
+			
+			own_control_core = {
+				1967 7971
+				1946 1945 1944 311 308 307
+				293 295 294 292 296 298 299 300 301 305 1947 #Lydia
+				1948 1952 1962 1963 1966 1956 1953 1957 7938 7939 7941 1969 #Caria Superioris
+			}
+		}
+		
+		KMT = { #Khemet
+			government = aristocratic_monarchy
+			primary_culture = khemetine
+			religion = alexandrian_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 539 #Shedet
+			
+			own_control_core = {
+				702 697 657
+				600 603 604 7579 606
+				9898 9899 9900
+				538 539 540 541 542 543 544 545 546 547 548 5547 #Heptanomis
+				515 516 517 518 527 529 530 531 532 453 445 7691 #Western Delta
+				504 519 520 521 522 523 526 528 533 534 7689 7690 #Central Delta
+				502 508 509 510 511 524 525 535 655 656 701 7688 #Eastern Delta
+				505 506 1600 1604 1675 1682 1684 1688 1693 1708 1709 1710 #Sinai
+				500 501 503 507 512 513 514 536 537 5549 7668 #Memphis
+				550 5544 5542 5543 5541 5531 5535 5533 5532 5548 5546 5534 #Parva
+				5526 5525 5524 5523 5528 5545 5527 5529 5530 5514 #Farafra
+				5501 5502 5500 5503 5504 5505 5512 5509 5510 5511 5522 #Kharga
+				549 551 552 554 553 555 556 557 558 559 560 561 #Asyut
+				564 566 579 580 581 582 565 647 649 650 #Myos Hormos
+				575 578 583 584 585 586 587 588 589 590 #Troglodytica
+				5513 5507 5516 5508 5515 5517 5518 5520 5519 5521 5506 #Khargana
+				576 577 591 592 593 595 596 597 598 599 #Aswan
+				562 563 567 568 569 570 571 572 573 574 #Luxor
+			}
+		}
+		
+		GHS = { #Ghassanids
+			government = aristocratic_monarchy
+			primary_culture = aramaic
+			religion = manichean
+			diplomatic_stance=appeasement_stance
+			
+			capital = 754 #Palmyra
+			
+			own_control_core = {
+				7566 7567
+				904 902 903 922 715 720 740 909 918
+				754 755 756 775 800 801 802 803 804 806 815 850 #Palmyrene
+				826 827 828 829 905 906 907 908 953 954 #Aramaea
+				703 704 705 706 707 708 727 728 729 730 #Arabia Petrea
+				4600 724 725 726 4612 4601 4613 4602 4611 4603 4604 4713 #Arabia Relicta
+				681 698 699 700 709 710 712 714 716 717 731 #Peraea
+				718 721 732 733 734 735 736 737 739 #Decapolis
+				738 750 751 753 757 758 759 760 763 764 765 770 #Coele Syria
+				772 761 762  774 776 777 778 781 816 8011 #Apamene
+				4718 4721 7556 7557 7558 7559 7560 7561 7562 7563 7564 7565 #Quedar2
+			}
+		}
+		
+		JUD = { #Judea
+			government = aristocratic_monarchy
+			primary_culture = hebrew
+			religion = judaism
+			diplomatic_stance=appeasement_stance
+			
+			capital = 687 #Jerusalem
+			
+			own_control_core = {
+				667 668 671 672
+				683 684 685 686 687 688 689 691 692 711 713 #Judea
+				658 659 660 661 662 690 693 694 695 696 #Philistia
+				663 664 665 678 679 680 682 719 #Samaria
+			}
+		}
+		
+		PHO = { #Phoenicia
+			government = aristocratic_monarchy
+			primary_culture = phoenician
+			religion = ctesiphonite_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 747 #Sardis
+			
+			own_control_core = {
+				723
+				741 742 743 744 745 746 747 748 749 752 #South Phoenicia
+				648 669 674 666 670 677 #Galilee
+				766 767 769 771 779 780 785 #North Phoenicia
+			}
+		}
+		
+		TJZ = { #Tell Jezer
+			government = aristocratic_monarchy
+			primary_culture = qedarite
+			religion = muhammadism
+			diplomatic_stance=appeasement_stance
+			
+			capital = 722 #Jezer
+			
+			own_control_core = {
+				722 675 673 676
+			}
+		}
+		
+		BEJ = { #Bejas
+			government = aristocratic_monarchy
+			primary_culture = blemmyan
+			religion = alexandrian_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 8089 #Berenike Pancrysia
+			
+			own_control_core = {
+				9897 9896 9901 9903 9902
+				9913 9912 9911 9910 9909 9908 9907
+				7597 7598 7594 7595 7596 #Ptolemais Epithera
+			}
+		}
+		
+		MAK = { #Makuria
+			government = aristocratic_monarchy
+			primary_culture = napatan
+			religion = alexandrian_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 626 #Napatea
+			
+			own_control_core = {
+				607 605 7582 7581 7580 602 601
+				627 629 631 635 636
+				639 640 643
+				3310 3312 3315
+				594
+				9906 9905 9904
+				9940
+				9922 9923 9924 9925 9926 9927 9928 9929 9930
+				9888 9889 9890 9891 9892 9893 9894 9895
+				619 620 622 621 624 623 625 7586 7585 626 646 645 #Napata
+				7583 608 609 610 611 612 613 618 617 616 615 614 #South Nubia
+				9914 9915 9916 9917 9918 9919 9920 9921 #Gabgaba
+			}
+		}
+		
+		ALO = { #Alodia
+			government = aristocratic_monarchy
+			primary_culture = nubian
+			religion = alexandrian_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 3313 #Soba
+			
+			own_control_core = {
+				7584 628 630 632 634 637 638
+				641 642 644 7592 3321 3322 7587
+				7599 7501 7500
+				3311 3313 3314 3317 3319 3320 3318
+				7588 3323 7589 3328
+				10411 10410 10409 10408
+				10419 10420 10421 10422 10423 10424 10425 10426 #Gash
+				10389 10390 10391 10392 10393 10394 10395 10396 10397 10398 #Sinkat
+				9931 9932 9933 9934 9935 9936 9937 9938 9939 9941 #Gezira
+				10399 10400 10401 10402 10403 10404 10405 10407 #Kartub
+				10373 10374 10375 10376 10377 10378 10379 10380 #Awateib
+				10381 10382 10383 10384 10385 10386 10387 10388 #Hawab
+			}
+		}
+		
+		AKS = { #Aksum
+			government = aristocratic_monarchy
+			primary_culture = aksumite
+			religion = alexandrian_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 7506 #Aksum
+			
+			own_control_core = {
+				7545
+				10406
+				10427 10428 10429 10430
+				7549 7548 7547
+				7593 633 7591 3331 7590
+				651 7505 7506 7509 7540 10443 10444 10445 10447 10448 10449 10451 10455 #Aksum
+				7502 7503 7504 7507 7513 7515 10450 10452 10453 10454 10456 10457 #Tenesis
+				7550 7551 7552 7553 10509 10510 10511 #Ichthyophagi
+				7508 7510 7511 7512 7514 7536 7537 7538 7539 10446 10502 #Semien
+				10431 10432 10433 10434 10435 10436 10437 10438 10439 10440 10441 10442 #Kumuzia
+				10412 10413 10414 10415 10416 10417 10418 #Qadarif
+			}
+		}
+		
+		AFR = { #Afar
+			government = aristocratic_monarchy
+			primary_culture = avalitian
+			religion = alexandrian_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 7519 #Abasenia
+			
+			own_control_core = {
+				7516 7517 7518 7519 7520 7521 7546 #Punt
+				7541 7542 7543 7544 10503 10504 10505 10506 10507 10508 #Awash
+			}
+		}
+		
+		ADL = { #Adal
+			government = aristocratic_monarchy
+			primary_culture = puntic
+			religion = alexandrian_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 7519 #Abasenia
+			
+			own_control_core = {
+				7535
+				7523 7524 7527 7532 7533 7534 10472 10473 10474 10475 10476 10477 #Mosylon
+				7522 10458 10459 10460 10461 10462 10463 10464 10465 10466 10467 10468 #Berberia
+				10481 10482 10483 10484 10485 10486 10487 10488 #Elephas
+			}
+		}
+		
+		CLP = { #Caliphate
+			government = aristocratic_monarchy
+			primary_culture = thamudi
+			religion = muhammadism
+			diplomatic_stance=appeasement_stance
+			
+			capital = 7575 #Mecca
+			
+			own_control_core = {
+				4717 11226 11227 11255 11256
+				4618 4623 4624 4653 4719 4720 7574 7575 11264 11265 11266 #Iathrippa
+				4606 4608 4610 4621 4620 4625 4626 4627 4628 4629 #Arabia Ad Sinus
+				4605 4607 4609 4615 4616 4617 4619 4622 4714 4715 4716 #Dedan
+				7576 7577 7578 7601 #Taifa
+				4630 4631 4632 4633 4634 4635 #Arabia Maritimae
+			}
+		}
+		
+		HIM = { #Himyar
+			government = aristocratic_monarchy
+			primary_culture = himjar
+			religion = judaism
+			diplomatic_stance=appeasement_stance
+			
+			capital = 4680 #Zafar
+			
+			own_control_core = {
+				11243 11239 4704 11238
+				4638 4636 4669 3480 3479
+				11216 11217 11218 11219 11220 11221 11222 11223 11224 11225 #Asir
+				4641 4686 4688 4682 4689 4642 4691 4681 4697 4643 4644 4680 #Saba
+				4637 4639 4640 4670 4671 4672 4673 4674 4690 4699 4700 4701 4702 #Arabia Felix Occidentalis
+				4645 4646 4647 4648 4649 4650 4651 4652 4684 4687 4694 #Qataba
+				4662 4663 4664 4665 4666 4667 4668 4683 4693 4696 #Arabia Felix Centralis
+				4654 4655 4656 4657 4659 4660 4661 4692 4695 4698 #Arabia Felix Orientalis
+				4658 4675 4676 4677 4678 4679 4685 4703 4710 4711 4712 11236 11237 11240 #Hadramut
+			}
+		}
+		
+		TWL = { #Tawilid
+			government = aristocratic_monarchy
+			primary_culture = gerrhan
+			religion = muhammadism
+			diplomatic_stance=appeasement_stance
+			
+			capital = 7199 #Gerrha
+			
+			own_control_core = {
+				5405 5406 5407 7199 7200 7201 7202 7203 7204 11254 #Gerrha
+				944 5400 5401 5402 5403 5404 7196 7197 7198 11263 11262 #Qaraah
+				5408 5409 5410 5411 11230 11231 11232 11229 #Ukrush
+				5412 5413 5414 7205 7206 7207 #West Omana
+			}
+		}
+		
+		OMN = { #Oman
+			government = aristocratic_monarchy
+			primary_culture = samad
+			religion = muhammadism
+			diplomatic_stance=appeasement_stance
+			
+			capital = 5419 #Samad
+			
+			own_control_core = {
+				5417 11251 11252 11253
+				5418 5419 5420 5421 7212 7213 7214 7215 7217 11233 11247 11248 #East Oman
+				7216 7570 7571 7572 7573 11261 #Dufar
+			}
+		}
+		
+		KZH = { #Kizilhanid
+			government = aristocratic_monarchy
+			primary_culture = pasargadi
+			religion = zoroaster
+			diplomatic_stance=appeasement_stance
+			
+			capital = 4973 #Ispahan
+			
+			own_control_core = {
+				11249 7210 5429 7211 5430 5415 11250 7208 5416 7209
+				5451 5452
+				1630
+				1518 1511
+				825 824
+				823 874 831 873 876 832 830
+				833 834
+				1619
+				3397 3398 3432 3433 3442 3443 4972 4973 6507 6509 6510 #Paraetacene
+				1595 3391 3392 4963 4964 4974 4975 4976 4979 4980 4981 4982 #Media Magna
+				3381 3382 3394 3395 3396 3452 3453 4983 4991 4992 4993 4999 #Choarene
+				3460 3470 3471 3472 3474 3475 5436 5438 6500 6501 6502 6503 6504 6505 #Namek
+				3399 3417 3418 3419 3420 3428 3430 3431 4977 6508 #Media Felix
+				3405 3406 4798 4799 4948 4949 4950 4951 4953 4978 6511 #Pesis
+				3407 3412 3413 3414 3416 3421 3422 3423 3429 3473 #Tabiene
+				3400 3401 3402 3403 3404 3408 3409 3410 3411 4955 4956 4957 #Utia
+				4781 4788 4789 4790 4792 4793 4794 4795 4796 4797 4962 #Taocene
+				3415 3424 3425 3426 3427 4959 4960 4961 6528 6529 6576 6587 #Carmania
+				4791 4958 6512 6514 6515 6516 6578 6579 6580 6581 6582 6583 #Rudiana
+				3439 3440 3449 3455 3456 3457 3458 3459 3469 4994 4995 #Comisene
+				3434 3435 3436 3437 3438 4996 4997 4998 6725 6776 7638 7639 #Hyrcania
+				3383 3384 3385 3388 3389 4984 4985 4986 4987 4988 4989 4990 #Amardioi
+				5390 5422 5423 5424 5425 5426 5427 5428 6806 6808 6811 6812 #Parnia
+				5391 5392 5393 5398 5437 6657 6658 6659 6666 6726 6810 #Siracene
+				3441 3445 3446 3447 3448 3450 3454 6656 6727 6728 6729 #Parthia
+				3444 3451 3461 3462 3463 3464 3465 3466 3467 3468 6544 6602 #Traxiane
+				5444 5446 6562 6563 6566 6597 6598 6599 6600 6601 6603 6604 6605 6606 7225 #Sagartia
+				6518 6557 6558 6559 6564 6565 6567 6568 6596 6646 6647 7224 #Aria
+				6542 6543 6545 6556 6660 6661 6662 6663 6664 6671 7222 7223 #Tapuria
+				6560 6574 6575 6577 6584 6585 6586 6588 6589 6590 6591 6607 #Drangiana
+				6513 6517 6520 6521 6522 6523 6524 6525 6530 6592 6593 6620 #Gedrosia
+				943 951 952 966 4779 4780 4782 4784 4785 4786 4787 #Mardiene
+				6954 6955 6956 6957 6958 6959 6960 6961 6962 6963 6964 #Media Choromithrene
+				1594 1596 1597 1598 1599 1601 1602 3393 4965 4966 4967 4968 #Kossioi
+				945 946 947 948 949 950 967 970 972 975 980 4969 #Susiana
+				938 940 941 942 963 964 965 969 971 5399 #Characene
+				920 921 923 930 931 932 935 936 937 939 968 7723 #Sumer
+				896 897 925 928 933 934 961 962 973 974 976 979 #Chaldaea
+				898 899 911 912 913 914 916 924 926 927 929 960 #Sittacene
+				900 901 910 915 917 919 #Babylonia
+				885 888 889 890 958 959 981 982 983 1603 4970 4971 #Garamaea
+				6526 6527 6531 6532 6536 6815 6821 6822 6848 6849 6852 #Patalene
+				6533 6534 6535 6537 6538 6539 6540 6571 6616 6617 6618 6619 #Parecania
+				6546 6549 6550 6551 6552 6561 6569 6570 6594 6595 #Pactya
+				6652 6653 6665 6667 6668 6669 6670 6684 6685 6723 6724 7226 #Margiana
+				1510 1512 1513 1552 1553 1554 1555 1556 1557 1558 1574 3386 #Media
+				865 880 881 884 886 887 957 984 985 1578 #Adiabene
+				835 883 891 892 893 894 895 955 956 977 #Tigris
+				773 861 862 863 864 866 867 868 875 882 986 #Assyria
+				1514 1515 1516 1517 1520 1521 1522 1523 1524 1525 1526 #Media Atropatene
+				1593 1620 1621 1624 1625 1626 1627 1628 1629 3387 3390 #Kadousioi
+			}
+		}
+		
+		SYA = { #Syria
+			government = aristocratic_monarchy
+			primary_culture = aramaic
+			religion = ctesiphonite_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 798 #Halba
+			
+			own_control_core = {
+				782 799
+				793 797 798 813 814 851 7985 #Syria
+				794 805 807 808 809 810 812 847 852 #Cyrrhestica
+			}
+		}
+		
+		OSR = { #Osroene
+			government = aristocratic_monarchy
+			primary_culture = aramaic
+			religion = ctesiphonite_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 844 #Antiochia Mesopotamia
+			
+			own_control_core = {
+				821 822 855 872 871
+				870 856 878 877
+				817 818 819 820 840 844 848 849 853 854 879 1847 #Osroene
+				
+			}
+		}
+		
+		AZN = { #Arzanene
+			government = aristocratic_monarchy
+			primary_culture = cardukoi
+			religion = manichean
+			diplomatic_stance=appeasement_stance
+			
+			capital = 842 #Tigranakert
+			
+			own_control_core = {
+				860 992
+				833 834 841 842 843 845 857 869 #Corduene
+			}
+		}
+		
+		BNV = { #Beneviento
+			government = aristocratic_monarchy
+			primary_culture = romanian
+			religion = roman_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 35 #Bucca
+			
+			own_control_core = {
+				31
+				32 33
+				36 50 37 38
+				29 34 35 48 49 #Aternum
+			}
+		}
+		
+		ATR = { #Aterno
+			government = aristocratic_monarchy
+			primary_culture = romanian
+			religion = roman_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 106 #Aternum
+			
+			own_control_core = {
+				106 28 108
+			}
+		}
+		
+		ANC = { #Ancona
+			government = aristocratic_monarchy
+			primary_culture = romanian
+			religion = roman_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 117 #Ancona
+			
+			own_control_core = {
+				121 122
+				109 110 111 117 #Picenum
+			}
+		}
+		
+		SIE = { #Siena
+			government = aristocratic_monarchy
+			primary_culture = romanian
+			religion = roman_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 115 #Siena
+			
+			own_control_core = {
+				115 22 112 113 114 125 116 120
+			}
+		}
+		
+		FLO = { #Florence
+			government = aristocratic_monarchy
+			primary_culture = romanian
+			religion = roman_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 134 #Florence
+			
+			own_control_core = {
+				134 130 140 131 124 132
+			}
+		}
+		
+		PIS = { #Pisa
+			government = aristocratic_monarchy
+			primary_culture = romanian
+			religion = roman_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 136 #Pisa
+			
+			own_control_core = {
+				136 128 126 127
+				3507 3508 3509 3510 3511 3512 3513 3514 3515 3516 #Corsica
+			}
+		}
+		
+		VLT = { #Volterra
+			government = aristocratic_monarchy
+			primary_culture = romanian
+			religion = roman_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 129 #Volterra
+			
+			own_control_core = {
+				129
+			}
+		}
+		
+		PST = { #Pistoia
+			government = aristocratic_monarchy
+			primary_culture = romanian
+			religion = roman_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 139 #Pistoia
+			
+			own_control_core = {
+				139
+			}
+		}
+		
+		LUC = { #Lucca
+			government = aristocratic_monarchy
+			primary_culture = romanian
+			religion = roman_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 138 #Lucca
+			
+			own_control_core = {
+				138 135
+			}
+		}
+		
+		LAR = { #Lesser Armenia
+			government = aristocratic_monarchy
+			primary_culture = armenian
+			religion = zoroaster
+			diplomatic_stance=appeasement_stance
+			
+			capital = 7845 #Ani
+			
+			own_control_core = {
+				7845 1768 1767
+				483 4037
+				235 858 859 1855 1856 1857 8007 8008 8009 8010 #Sophene
+				1698 1744 1747 1759 1760 1761 1762 1763 1764 1765 1770 #Armenia Superioris
+			}
+		}
+		
+		PAR = { #Parthia
+			government = aristocratic_monarchy
+			primary_culture = parthian
+			religion = zoroaster
+			diplomatic_stance=appeasement_stance
+			
+			capital = 1571 #Artashat
+			
+			own_control_core = {
+				1607 1608 1609
+				1729 1730
+				1622
+				1565
+				1751
+				1612
+				1679 1685 1690
+				1663 1614 1616
+				1724 1723 1722
+				1571 1572 1573 1575 1577 1588 1589 1590 1591 1592 1605 1606 #Ayrarat
+				1586 1587 1610 1677 1686 1695 1696 1697 1699 1700 1702 #Gugark
+				1549 1568 1569 1570 1576 1579 1580 1581 1582 1583 1585 #Syracene
+				1701 1725 1726 1727 1728 1752 1753 1754 1755 1756 1757 1758 #Tayk
+				1500 1527 1528 1529 1530 1531 1532 1534 1539 1559 #Parsatunik
+				1501 1538 1540 1542 1550 1613 1615 1623 1668 1669 #Syunik
+				997 1502 1503 1504 1505 1506 1507 1508 1509 1519 #Parskahayk
+				846 987 988 989 991 995 996 998 999 1560 1561 #Vaspurakan
+				978 990 993 994 1562 1563 1564 1566 1567 1736 #Tarawn
+				1533 1535 1536 1537 1541 1543 1544 1545 1546 1547 1548 1551 #Soducene
+			}
+		}
+		
+		ALK = { #Aluank
+			government = aristocratic_monarchy
+			primary_culture = albanian
+			religion = zoroaster
+			diplomatic_stance=appeasement_stance
+			
+			capital = 1636 #Kabala
+			
+			own_control_core = {
+				1618 1638 1631 1632 1654
+				1634 1635 1636 1655 1662 #Caucasian Albania
+				1617 1639 1640 1650 1664 1665 1666 1667 1649 #Artshak
+				1584 1637 1651 1661 1670 1671 1672 1646 #Arran
+			}
+		}
+		
+		KSA = { #Kingdom of Serbs and Avars
+			government = aristocratic_monarchy
+			primary_culture = silver_avar
+			religion = roman_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 3653 #Vienna
+			
+			own_control_core = {
+				4866 4869
+				3653 3918 4145
+				3922 3930 3928 3932 3931
+				4131 3673 3674
+				3648 3649 3650 3651 3652 #Lauriacum
+				3916 3917 3921 3923 3933 #Naristia
+				3919 3920 3924 3925 3926 3929 4016 4017 #Arran
+			}
+		}
+		
+		POL = { #Poland
+			government = aristocratic_monarchy
+			primary_culture = polan
+			religion = roman_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 4761 #Poznan
+			
+			own_control_core = {
+				6280 6281
+				4014 4013 4012
+				4010 4007 4004 4003
+				3995 4000 3999 3984
+				3991 3992 3993 3997 3998 4001 4002 #Buria
+				4771 4772 4777 4778 4900 #Lugia
+				4761 4762 4767 4769 4770 4773 4774 4775 4776 #Elysia
+				3908 4758 4759 4763 4765 4766 4768 #Helveconia
+			}
+		}
+		
+		ZAO = { #Zaodra
+			government = aristocratic_monarchy
+			primary_culture = white_serb
+			religion = roman_church
+			diplomatic_stance=appeasement_stance
+			
+			capital = 3915 #temp
+			
+			own_control_core = {
+				3910 3979
+				4015 4011
+				4006 4005
+				3939
+				3911 3915 3940 3941 3942 3980 4008 4009 #Naharvalia
+			}
+		}
+	}
+}

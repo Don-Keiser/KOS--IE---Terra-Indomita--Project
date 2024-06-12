@@ -1,0 +1,53 @@
+﻿l_english:
+ ##War Saints
+ #Saint George
+ deity_saint_george:0 "$omen_saint_george$"
+ omen_saint_george:0 "Saint George of Lydda"
+ omen_saint_george_desc:0 "Saint George, the valiant warrior and dragon-slayer, blesses those who seek his protection in battle. His presence emboldens soldiers, granting them courage and strength to triumph over their foes. His sanctuaries are often found near battlefields, revered by those who fight for justice and righteousness."
+ #Michael the Archangel
+ deity_saint_michael_archangel:0 "$omen_saint_michael_archangel$"
+ omen_saint_michael_archangel:0 "Michael the Archangel"
+ omen_saint_michael_archangel_desc:0 "Saint Michael the Archangel, the celestial warrior and defender of faith, casts his radiant presence upon those in need of protection and guidance. With his flaming sword and unwavering resolve, he vanquishes darkness and evil, ensuring victory for the righteous. His intercession inspires courage and strength in the hearts of believers, shielding them from harm and leading them to triumph over adversity. His sanctuaries are beacons of hope and sanctuary, where the faithful find solace and divine protection in times of peril."
+ #Saint Maurice the Legionnaire
+ deity_saint_maurice:0 "$omen_saint_maurice$"
+ omen_saint_maurice:0 "Saint Maurice the Legionnaire"
+ omen_saint_maurice_desc:0 "Saint Maurice, the leader of the Theban Legion, embodies loyalty and valour in military service. His martyrdom for refusing to persecute fellow Christians inspires unity and resolve among soldiers. His patronage strengthens armies in righteous causes."
+ ##Economy Saints
+ #Saint Matthew
+ deity_saint_matthew:0 "$omen_saint_matthew$"
+ omen_saint_matthew:0 "Matthew the Apostle"
+ omen_saint_matthew_desc:0 "Saint Matthew, the former tax collector and apostle, inspires economic prosperity and fair trade. His wisdom guides merchants and financiers, ensuring honest dealings and profitable ventures. His chapels are frequented by those who seek success in commerce and stewardship of wealth."
+ #Saint Nicholas of Myra
+ deity_saint_nicholas_myra:0 "$omen_saint_nicholas_myra$"
+ omen_saint_nicholas_myra:0 "Saint Nicholas of Myra"
+ omen_saint_nicholas_myra_desc:0 "Saint Nicholas, the generous bishop, blesses merchants and traders with prosperity and fair fortune. His legend of selfless giving encourages charitable business practices. Markets and trading hubs honour his memory, seeking his favour for thriving commerce."
+ #Saint Joseph
+ deity_saint_joseph:0 "$omen_saint_joseph$"
+ omen_saint_joseph:0 "Saint Joseph"
+ omen_saint_joseph_desc:0 "Saint Joseph, the humble carpenter and guardian of the Holy Family, bestows his benevolent presence upon those in need of guidance and provision. With his steadfast devotion and diligent work ethic, he blesses families and labourers alike with stability and prosperity. His intercession ensures the fulfillment of needs and the nurturing of fruitful endeavors. His sanctuaries stand as pillars of familial love and industriousness, where the faithful find solace and abundance in his care."
+ ##Culture Saints
+ #Saint Benedict of Nursia
+ deity_saint_benedict_nursia:0 "$omen_saint_benedict_nursia$"
+ omen_saint_benedict_nursia:0 "Saint Benedict of Nursia"
+ omen_saint_benedict_nursia_desc:0 "Saint Benedict of Nursia, the father of Western monasticism, enriches the cultural and intellectual life of communities. His teachings foster learning, discipline, and spiritual growth. Monasteries dedicated to him are centres of knowledge, where scholars and artisans flourish under his divine guidance."
+ #Saint Cecilia of Rome
+ deity_saint_cecilia:0 "$omen_saint_cecilia$"
+ omen_saint_cecilia:0 "Saint Cecilia of Rome"
+ omen_saint_cecilia_desc:0 "Saint Benedict of Nursia, the father of Western monasticism, enriches the cultural and intellectual life of communities. His teachings foster learning, discipline, and spiritual growth. Monasteries dedicated to him are centres of knowledge, where scholars and artisans flourish under his divine guidance."
+ #Saint Jerome of Stridon
+ deity_saint_jerome:0 "$omen_saint_jerome$"
+ omen_saint_jerome:0 "Saint Jerome of Stridon"
+ omen_saint_jerome_desc:0 "Saint Benedict of Nursia, the father of Western monasticism, enriches the cultural and intellectual life of communities. His teachings foster learning, discipline, and spiritual growth. Monasteries dedicated to him are centres of knowledge, where scholars and artisans flourish under his divine guidance."
+ ##Fertility Saints
+ #Saint Anne
+ deity_saint_anne:0 "$omen_saint_anne$"
+ omen_saint_anne:0 "Saint Anne"
+ omen_saint_anne_desc:0 "Saint Anne, revered mother of the Virgin Mary, watches over mothers and families with loving care. Her blessings enhance fertility and safe childbirth, promoting the well-being of future generations. Shrines dedicated to her are places of hope and prayer for expectant mothers and families seeking her intercession."
+ #Virgin Marie
+ deity_virgin_mary:0 "$omen_virgin_mary$"
+ omen_virgin_mary:0 "Mary"
+ omen_virgin_mary_desc:0 "The Virgin Mary, Mother of God and Queen of Heaven, radiates her divine presence upon all who seek her intercession and grace. With her gentle embrace and maternal compassion, she enfolds the faithful in her loving protection and guidance. Her immaculate purity and unwavering faith inspire reverence and devotion in the hearts of believers, offering solace and hope in times of trial. Her sanctuaries are sanctified havens of peace and prayer, where the faithful find comfort and renewal in her maternal embrace."
+ #Saint Marina the Great Martyr
+ deity_saint_marina:0 "$omen_saint_marina$"
+ omen_saint_marina:0 "Saint Marina the Great Martyr"
+ omen_saint_marina_desc:0 "Saint Marina, the dragon-conqueror and martyr, is a powerful intercessor for childbirth and fertility. Her legend of overcoming great trials brings hope and courage. Expectant mothers seek her aid for a safe and blessed childbirth."

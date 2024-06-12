@@ -1,0 +1,75 @@
+family={
+	families={
+		#Numbers do not have to appear in numerical order but must be unique:
+		#Current first free ID is 90.
+		#Families on Start (AD 1320):
+		0={
+			key="Autissiodorenses"
+			owner=HRE
+			culture = neustrien
+			prestige=300
+			color = 0
+		}
+		1={
+			key="Karlingi"
+			owner=CHL
+			culture = frankish
+			prestige=150
+			color = 2
+		}
+		2={
+			key="Banu_hashim"
+			owner=CAL
+			culture = qurashi
+			prestige=500
+			color = 1
+		}
+		3={
+			key="Banu_umayya"
+			owner=UMY
+			culture = qurashi
+			prestige=200
+			color = 3
+		}
+		4={
+			key="Sasanids"
+			owner=SS1
+			culture=pasargadi
+			prestige=350
+			color = 4
+		}
+		5={
+			key="Bayanids"
+			owner=APA
+			culture=apar
+			prestige=200
+			color = 5
+		}
+		6={
+			key="Banu_taym"
+			owner=CAL
+			culture=qurashi
+			prestige=200
+			color = 6
+		}
+		7={
+			key="Banu_adi"
+			owner=CAL
+			culture=qurashi
+			prestige=200
+			color = 7
+		}
+		8={
+			key="Ispahbadhan"
+			owner=MAP
+			culture="pasargadi"
+			prestige=200
+		}
+		9={
+			key="Gundaharingi"
+			owner=BRG
+			culture="burgundian"
+			prestige=180
+		}
+	}
+}
