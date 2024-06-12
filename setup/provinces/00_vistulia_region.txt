@@ -87,7 +87,7 @@
 
 4889={ #Tantonum
 	terrain="hills"
-	culture="celtic_pannonian"
+	culture="magyar"
 	religion="druidism"
 	trade_goods="gems"
 	civilization_value=0
@@ -161,7 +161,7 @@
 
 4894={ #Arsonis
 	terrain="plains"
-	culture="cotinian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="base_metals"
 	civilization_value=0

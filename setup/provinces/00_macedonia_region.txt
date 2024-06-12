@@ -1,6 +1,6 @@
 ﻿356={ #Thasos
 	terrain="hills"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=24
@@ -19,7 +19,7 @@
 
 363={ #Neapolis Thrake
 	terrain="plains"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="stone"
 	civilization_value=26
@@ -43,7 +43,7 @@
 
 364={ #Philippoi
 	terrain="farmland"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="iron"
 	civilization_value=40
@@ -77,7 +77,7 @@
 
 365={ #Amphipolis
 	terrain="hills"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=33
@@ -97,7 +97,7 @@
 
 366={ #Tragilos
 	terrain="hills"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="olive"
 	civilization_value=24
@@ -119,7 +119,7 @@
 
 369={ #Sirra
 	terrain="plains"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="wine"
 	civilization_value=26
@@ -138,7 +138,7 @@
 
 371={ #Euporia
 	terrain="plains"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="glass"
 	civilization_value=26
@@ -157,7 +157,7 @@
 
 373={ #Thessalonica
 	terrain="hills"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="glass"
 	civilization_value=36
@@ -193,7 +193,7 @@
 
 374={ #Kalindoia
 	terrain="hills"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="olive"
 	civilization_value=24
@@ -212,7 +212,7 @@
 
 376={ #Poteidaia
 	terrain="plains"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=31
@@ -237,7 +237,7 @@
 
 377={ #Akanthos
 	terrain="hills"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="pearls"
 	civilization_value=24
@@ -259,7 +259,7 @@
 
 378={ #Torone
 	terrain="hills"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=24
@@ -285,7 +285,7 @@
 
 379={ #Pella
 	terrain="farmland"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="wine"
 	civilization_value=47
@@ -316,7 +316,7 @@
 
 380={ #Dion
 	terrain="hills"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="stone"
 	civilization_value=36
@@ -335,7 +335,7 @@
 
 381={ #Beroia
 	terrain="plains"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="cattle"
 	civilization_value=26
@@ -354,7 +354,7 @@
 
 382={ #Edessa
 	terrain="farmland"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="glass"
 	civilization_value=28
@@ -373,7 +373,7 @@
 
 383={ #Europos
 	terrain="farmland"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="olive"
 	civilization_value=28
@@ -392,7 +392,7 @@
 
 384={ #Gortynia
 	terrain="plains"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="citrus"
 	civilization_value=26
@@ -411,7 +411,7 @@
 
 385={ #Tauriana
 	terrain="plains"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="horses"
 	civilization_value=26
@@ -430,7 +430,7 @@
 
 386={ #Asseros
 	terrain="farmland"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="grain"
 	civilization_value=28
@@ -449,7 +449,7 @@
 
 388={ #Gonnoi
 	terrain="hills"
-	culture="thessalian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="hemp"
 	civilization_value=24
@@ -468,7 +468,7 @@
 
 389={ #Larissa
 	terrain="farmland"
-	culture="thessalian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="horses"
 	civilization_value=37
@@ -505,7 +505,7 @@
 
 390={ #Pherai
 	terrain="farmland"
-	culture="thessalian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="earthware"
 	civilization_value=37
@@ -524,7 +524,7 @@
 
 391={ #Pagasai
 	terrain="hills"
-	culture="thessalian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="grain"
 	civilization_value=24
@@ -544,7 +544,7 @@
 
 392={ #Kasthaneia
 	terrain="hills"
-	culture="thessalian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=24
@@ -563,7 +563,7 @@
 
 393={ #Pelagonia
 	terrain="forest"
-	culture="macedonian"
+	culture="red_croat"
 	religion="roman_pantheon"
 	trade_goods="vegetables"
 	civilization_value=24
@@ -585,7 +585,7 @@
 
 394={ #Pharsalos
 	terrain="farmland"
-	culture="thessalian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="cloth"
 	civilization_value=40
@@ -604,7 +604,7 @@
 
 395={ #Pialeia
 	terrain="farmland"
-	culture="thessalian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="wine"
 	civilization_value=38
@@ -623,7 +623,7 @@
 
 396={ #Pelinna
 	terrain="plains"
-	culture="thessalian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="vegetables"
 	civilization_value=26
@@ -642,7 +642,7 @@
 
 397={ #Stobi
 	terrain="hills"
-	culture="paeonian"
+	culture="red_croat"
 	religion="illyrian_pantheon"
 	trade_goods="leather"
 	civilization_value=23
@@ -672,7 +672,7 @@
 
 398={ #Nea Halos
 	terrain="marsh"
-	culture="thessalian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=22
@@ -691,7 +691,7 @@
 
 400={ #Elimia
 	terrain="farmland"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="leather"
 	civilization_value=28
@@ -707,7 +707,7 @@
 
 404={ #Olooson
 	terrain="plains"
-	culture="thessalian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="honey"
 	civilization_value=26
@@ -726,7 +726,7 @@
 
 405={ #Stuberra
 	terrain="forest"
-	culture="macedonian"
+	culture="red_croat"
 	religion="roman_pantheon"
 	trade_goods="cattle"
 	civilization_value=24
@@ -748,7 +748,7 @@
 
 408={ #Arnisa
 	terrain="forest"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="cattle"
 	civilization_value=24
@@ -764,7 +764,7 @@
 
 411={ #Herakleia Lynkestis
 	terrain="forest"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="grain"
 	civilization_value=24
@@ -812,7 +812,7 @@
 
 414={ #Keirpara
 	terrain="hills"
-	culture="paeonian"
+	culture="red_croat"
 	religion="illyrian_pantheon"
 	trade_goods="iron"
 	civilization_value=24
@@ -842,7 +842,7 @@
 
 415={ #Epidamnos
 	terrain="farmland"
-	culture="italiotian"
+	culture="taulantian"
 	religion="roman_pantheon"
 	trade_goods="salt"
 	civilization_value=27
@@ -862,7 +862,7 @@
 
 420={ #Peparethos
 	terrain="hills"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=24
@@ -881,7 +881,7 @@
 
 422={ #Apollonia
 	terrain="farmland"
-	culture="italiotian"
+	culture="taulantian"
 	religion="roman_pantheon"
 	trade_goods="earthware"
 	civilization_value=33
@@ -900,7 +900,7 @@
 
 428={ #Methone
 	terrain="plains"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="rice"
 	civilization_value=26
@@ -921,7 +921,7 @@
 
 455={ #Dimalion
 	terrain="farmland"
-	culture="epirote"
+	culture="taulantian"
 	religion="roman_pantheon"
 	trade_goods="olive"
 	civilization_value=22
@@ -940,7 +940,7 @@
 
 497={ #Herakleia Sintike
 	terrain="hills"
-	culture="paeonian"
+	culture="red_croat"
 	religion="illyrian_pantheon"
 	trade_goods="iron"
 	civilization_value=24
@@ -966,7 +966,7 @@
 
 498={ #Scaptopara
 	terrain="hills"
-	culture="paeonian"
+	culture="red_croat"
 	religion="illyrian_pantheon"
 	trade_goods="leather"
 	civilization_value=18
@@ -985,7 +985,7 @@
 
 499={ #Spinopara
 	terrain="farmland"
-	culture="triballoi"
+	culture="red_croat"
 	religion="shamanism"
 	trade_goods="leather"
 	civilization_value=13
@@ -1077,7 +1077,7 @@
 
 3125={ #Keletron
 	terrain="mountain"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="vegetables"
 	civilization_value=22
@@ -1099,7 +1099,7 @@
 
 3175={ #Eratyra
 	terrain="hills"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="cattle"
 	civilization_value=24
@@ -1147,7 +1147,7 @@
 
 4096={ #Scupi
 	terrain="farmland"
-	culture="dardanian"
+	culture="red_croat"
 	religion="illyrian_pantheon"
 	trade_goods="vegetables"
 	civilization_value=12
@@ -1167,7 +1167,7 @@
 
 4097={ #Helice
 	terrain="hills"
-	culture="triballoi"
+	culture="red_croat"
 	religion="shamanism"
 	trade_goods="base_metals"
 	civilization_value=9
@@ -1180,7 +1180,7 @@
 
 4117={ #Pautalia
 	terrain="hills"
-	culture="dardanian"
+	culture="red_croat"
 	religion="illyrian_pantheon"
 	trade_goods="base_metals"
 	civilization_value=8
@@ -1203,7 +1203,7 @@
 
 4152={ #Tranupara
 	terrain="farmland"
-	culture="dardanian"
+	culture="red_croat"
 	religion="illyrian_pantheon"
 	trade_goods="woad"
 	civilization_value=12
@@ -1225,7 +1225,7 @@
 
 4153={ #Paroikopolis
 	terrain="hills"
-	culture="paeonian"
+	culture="red_croat"
 	religion="illyrian_pantheon"
 	trade_goods="wood"
 	civilization_value=18
@@ -1241,7 +1241,7 @@
 
 4302={ #Doberos
 	terrain="hills"
-	culture="paeonian"
+	culture="red_croat"
 	religion="illyrian_pantheon"
 	trade_goods="wood"
 	civilization_value=24
@@ -1264,7 +1264,7 @@
 
 4303={ #Astraia
 	terrain="hills"
-	culture="paeonian"
+	culture="red_croat"
 	religion="illyrian_pantheon"
 	trade_goods="cattle"
 	civilization_value=18
@@ -1280,7 +1280,7 @@
 
 4304={ #Astibos
 	terrain="farmland"
-	culture="paeonian"
+	culture="red_croat"
 	religion="illyrian_pantheon"
 	trade_goods="vegetables"
 	civilization_value=22
@@ -1303,7 +1303,7 @@
 
 4305={ #Bylazora
 	terrain="hills"
-	culture="paeonian"
+	culture="red_croat"
 	religion="illyrian_pantheon"
 	trade_goods="vegetables"
 	civilization_value=18
@@ -1322,7 +1322,7 @@
 
 4306={ #Keirpara
 	terrain="mountain"
-	culture="paeonian"
+	culture="red_croat"
 	religion="illyrian_pantheon"
 	trade_goods="wood"
 	civilization_value=16
@@ -1338,7 +1338,7 @@
 
 6399={ #Pydna
 	terrain="plains"
-	culture="macedonian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="earthware"
 	civilization_value=33
@@ -1368,7 +1368,7 @@
 
 8024={ #Boloustana Pass
 	terrain="mountain"
-	culture="thessalian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0
@@ -1378,7 +1378,7 @@
 
 8025={ #Petra Pass
 	terrain="mountain"
-	culture="thessalian"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods=""
 	civilization_value=0

@@ -204,7 +204,7 @@
 
 254={ #Zeleia
 	terrain="forest"
-	culture="phrygian"
+	culture="bolghar"
 	religion="roman_pantheon"
 	trade_goods="marble"
 	civilization_value=24
@@ -251,7 +251,7 @@
 
 255={ #Parium
 	terrain="forest"
-	culture="troan"
+	culture="bolghar"
 	religion="roman_pantheon"
 	trade_goods="salt"
 	civilization_value=24
@@ -286,7 +286,7 @@
 
 256={ #Lampsakos
 	terrain="plains"
-	culture="troan"
+	culture="bolghar"
 	religion="roman_pantheon"
 	trade_goods="salt"
 	civilization_value=26
@@ -422,7 +422,7 @@
 
 260={ #Kebren
 	terrain="forest"
-	culture="troan"
+	culture="bolghar"
 	religion="roman_pantheon"
 	trade_goods="iron"
 	civilization_value=19
@@ -475,7 +475,7 @@
 
 262={ #Kolonai
 	terrain="hills"
-	culture="troan"
+	culture="bolghar"
 	religion="roman_pantheon"
 	trade_goods="cattle"
 	civilization_value=19
@@ -508,7 +508,7 @@
 
 264={ #Baris Mysias
 	terrain="hills"
-	culture="mysian"
+	culture="bolghar"
 	religion="anatolian_religion"
 	trade_goods="base_metals"
 	civilization_value=24
@@ -532,7 +532,7 @@
 
 265={ #Argiza
 	terrain="forest"
-	culture="mysian"
+	culture="bolghar"
 	religion="anatolian_religion"
 	trade_goods="horses"
 	civilization_value=24
@@ -605,7 +605,7 @@
 
 267={ #Kale Peuke
 	terrain="hills"
-	culture="troan"
+	culture="bolghar"
 	religion="roman_pantheon"
 	trade_goods="opium"
 	civilization_value=19
@@ -634,7 +634,7 @@
 
 268={ #Skepsis
 	terrain="hills"
-	culture="troan"
+	culture="bolghar"
 	religion="roman_pantheon"
 	trade_goods="wood"
 	civilization_value=19
@@ -2946,7 +2946,7 @@
 
 1996={ #Astypalaia
 	terrain="hills"
-	culture="aegean"
+	culture="romaioi"
 	religion="roman_pantheon"
 	trade_goods="marble"
 	civilization_value=24

@@ -1,8 +1,6 @@
 ﻿greekoid = {
-	
-	######## Torugu: Added namelist to Cyrenaica culture
 
-	color = hsv { 0.65  0.7  0.8 }
+	color = rgb { 90  152  181 }
 	
 	primary = archers
 	second = spearmen

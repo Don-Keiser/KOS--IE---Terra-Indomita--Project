@@ -1,6 +1,6 @@
 ﻿4077={ #Marsonia
 	terrain="plains"
-	culture="pannonian"
+	culture="golden_avar"
 	religion="illyrian_pantheon"
 	trade_goods="wood"
 	civilization_value=10
@@ -41,7 +41,7 @@
 
 4093={ #Siparanton
 	terrain="forest"
-	culture="dardanian"
+	culture="taulantian"
 	religion="illyrian_pantheon"
 	trade_goods="leather"
 	civilization_value=8
@@ -60,7 +60,7 @@
 
 4094={ #Gabouleion
 	terrain="forest"
-	culture="dardanian"
+	culture="taulantian"
 	religion="illyrian_pantheon"
 	trade_goods="fur"
 	civilization_value=18
@@ -79,7 +79,7 @@
 
 4095={ #Theranda
 	terrain="forest"
-	culture="dardanian"
+	culture="taulantian"
 	religion="illyrian_pantheon"
 	trade_goods="fur"
 	civilization_value=8
@@ -99,7 +99,7 @@
 
 4098={ #Oulipiana
 	terrain="hills"
-	culture="dardanian"
+	culture="taulantian"
 	religion="illyrian_pantheon"
 	trade_goods="hemp"
 	civilization_value=8
@@ -118,7 +118,7 @@
 
 4099={ #Ouikianon
 	terrain="forest"
-	culture="dardanian"
+	culture="taulantian"
 	religion="illyrian_pantheon"
 	trade_goods="cattle"
 	civilization_value=8
@@ -137,7 +137,7 @@
 
 4100={ #Dardaneia
 	terrain="farmland"
-	culture="dardanian"
+	culture="taulantian"
 	religion="illyrian_pantheon"
 	trade_goods="grain"
 	civilization_value=12
@@ -158,7 +158,7 @@
 
 4101={ #Arsia
 	terrain="hills"
-	culture="dardanian"
+	culture="patzinak"
 	religion="illyrian_pantheon"
 	trade_goods="horses"
 	civilization_value=8
@@ -193,7 +193,7 @@
 
 4103={ #Sevastum
 	terrain="mountain"
-	culture="deraemestian"
+	culture="patzinak"
 	religion="illyrian_pantheon"
 	trade_goods="horses"
 	civilization_value=6
@@ -209,7 +209,7 @@
 
 4106={ #Risetia
 	terrain="hills"
-	culture="deraemestian"
+	culture="patzinak"
 	religion="illyrian_pantheon"
 	trade_goods="wood"
 	civilization_value=8
@@ -228,7 +228,7 @@
 
 4108={ #Vizinia
 	terrain="hills"
-	culture="dardanian"
+	culture="red_croat"
 	religion="illyrian_pantheon"
 	trade_goods="stone"
 	civilization_value=8
@@ -247,7 +247,7 @@
 
 4109={ #Anausaro
 	terrain="hills"
-	culture="dardanian"
+	culture="red_croat"
 	religion="illyrian_pantheon"
 	trade_goods="stone"
 	civilization_value=8
@@ -266,7 +266,7 @@
 
 4110={ #Tauresium
 	terrain="hills"
-	culture="dardanian"
+	culture="moesogoth"
 	religion="illyrian_pantheon"
 	trade_goods="wood"
 	civilization_value=8
@@ -285,7 +285,7 @@
 
 4111={ #Hammeum
 	terrain="farmland"
-	culture="triballoi"
+	culture="moesogoth"
 	religion="shamanism"
 	trade_goods="hemp"
 	civilization_value=12
@@ -301,7 +301,7 @@
 
 4113={ #Ouindenis
 	terrain="hills"
-	culture="dardanian"
+	culture="moesogoth"
 	religion="illyrian_pantheon"
 	trade_goods="wood"
 	civilization_value=8
@@ -321,7 +321,7 @@
 
 4114={ #Ad Fines Dardaniae
 	terrain="hills"
-	culture="dardanian"
+	culture="moesogoth"
 	religion="illyrian_pantheon"
 	trade_goods="base_metals"
 	civilization_value=8
@@ -340,7 +340,7 @@
 
 4118={ #Gramrianae
 	terrain="plains"
-	culture="triballoi"
+	culture="moesogoth"
 	religion="shamanism"
 	trade_goods="precious_metals"
 	civilization_value=11
@@ -359,7 +359,7 @@
 
 4119={ #Celegerorum
 	terrain="hills"
-	culture="dardanian"
+	culture="moesogoth"
 	religion="illyrian_pantheon"
 	trade_goods="base_metals"
 	civilization_value=8
@@ -379,7 +379,7 @@
 
 4120={ #Praesidium Illyricum
 	terrain="plains"
-	culture="celtic_pannonian"
+	culture="moesogoth"
 	religion="druidism"
 	trade_goods="precious_metals"
 	civilization_value=11
@@ -399,7 +399,7 @@
 
 4121={ #Gradus
 	terrain="hills"
-	culture="celtic_pannonian"
+	culture="patzinak"
 	religion="druidism"
 	trade_goods="stone"
 	civilization_value=9
@@ -418,7 +418,7 @@
 
 4122={ #Parthinia
 	terrain="plains"
-	culture="celtic_pannonian"
+	culture="patzinak"
 	religion="druidism"
 	trade_goods="wood"
 	civilization_value=11
@@ -437,7 +437,7 @@
 
 4123={ #Salinae
 	terrain="hills"
-	culture="celtic_pannonian"
+	culture="patzinak"
 	religion="druidism"
 	trade_goods="horses"
 	civilization_value=8
@@ -467,7 +467,7 @@
 
 4124={ #Ad Drinum
 	terrain="plains"
-	culture="celtic_pannonian"
+	culture="patzinak"
 	religion="druidism"
 	trade_goods="wine"
 	civilization_value=11
@@ -487,7 +487,7 @@
 
 4125={ #Domavia
 	terrain="hills"
-	culture="celtic_pannonian"
+	culture="patzinak"
 	religion="druidism"
 	trade_goods="horses"
 	civilization_value=9
@@ -514,7 +514,7 @@
 
 4126={ #Drinum
 	terrain="plains"
-	culture="celtic_pannonian"
+	culture="patzinak"
 	religion="druidism"
 	trade_goods="wine"
 	civilization_value=11
@@ -537,7 +537,7 @@
 
 4127={ #Malvesia
 	terrain="hills"
-	culture="celtic_pannonian"
+	culture="patzinak"
 	religion="druidism"
 	trade_goods="precious_metals"
 	civilization_value=8
@@ -563,7 +563,7 @@
 
 4128={ #Sarviana
 	terrain="plains"
-	culture="pannonian"
+	culture="golden_avar"
 	religion="illyrian_pantheon"
 	trade_goods="stone"
 	civilization_value=10
@@ -579,7 +579,7 @@
 
 4129={ #Sarvia
 	terrain="forest"
-	culture="pannonian"
+	culture="golden_avar"
 	religion="illyrian_pantheon"
 	trade_goods="honey"
 	civilization_value=8
@@ -601,7 +601,7 @@
 
 4130={ #Saldia
 	terrain="plains"
-	culture="celtic_pannonian"
+	culture="golden_avar"
 	religion="druidism"
 	trade_goods="wood"
 	civilization_value=10
@@ -628,7 +628,7 @@
 
 4194={ #Gensis
 	terrain="plains"
-	culture="celtic_pannonian"
+	culture="patzinak"
 	religion="druidism"
 	trade_goods="horses"
 	civilization_value=11
@@ -648,7 +648,7 @@
 
 4195={ #Singidunum
 	terrain="plains"
-	culture="celtic_pannonian"
+	culture="patzinak"
 	religion="druidism"
 	trade_goods="cinnabar"
 	civilization_value=11
@@ -675,7 +675,7 @@
 
 4196={ #Siluvia
 	terrain="plains"
-	culture="celtic_pannonian"
+	culture="patzinak"
 	religion="druidism"
 	trade_goods="vegetables"
 	civilization_value=11
@@ -705,7 +705,7 @@
 
 4197={ #Moesiana
 	terrain="plains"
-	culture="celtic_pannonian"
+	culture="patzinak"
 	religion="druidism"
 	trade_goods="precious_metals"
 	civilization_value=11
@@ -732,7 +732,7 @@
 
 4198={ #Ad Sextum Miliarem
 	terrain="plains"
-	culture="celtic_pannonian"
+	culture="patzinak"
 	religion="druidism"
 	trade_goods="cattle"
 	civilization_value=11
@@ -755,7 +755,7 @@
 
 4199={ #Margum
 	terrain="farmland"
-	culture="celtic_pannonian"
+	culture="patzinak"
 	religion="druidism"
 	trade_goods="grain"
 	civilization_value=13
@@ -821,7 +821,7 @@
 
 4202={ #Dasminium
 	terrain="plains"
-	culture="triballoi"
+	culture="moesogoth"
 	religion="shamanism"
 	trade_goods="stone"
 	civilization_value=10
@@ -837,7 +837,7 @@
 
 4203={ #Horreum Margi
 	terrain="forest"
-	culture="triballoi"
+	culture="moesogoth"
 	religion="shamanism"
 	trade_goods="leather"
 	civilization_value=9
@@ -856,7 +856,7 @@
 
 4204={ #Idimum
 	terrain="forest"
-	culture="triballoi"
+	culture="moesogoth"
 	religion="shamanism"
 	trade_goods="hemp"
 	civilization_value=9
@@ -879,7 +879,7 @@
 
 4205={ #Aureus Mons
 	terrain="forest"
-	culture="celtic_pannonian"
+	culture="patzinak"
 	religion="druidism"
 	trade_goods="hemp"
 	civilization_value=9
@@ -902,7 +902,7 @@
 
 4206={ #Bannea
 	terrain="plains"
-	culture="celtic_pannonian"
+	culture="patzinak"
 	religion="druidism"
 	trade_goods="cloth"
 	civilization_value=11
@@ -968,7 +968,7 @@
 
 4213={ #Romuliana
 	terrain="hills"
-	culture="kunsag"
+	culture="moesogoth"
 	religion="shamanism"
 	trade_goods="leather"
 	civilization_value=8

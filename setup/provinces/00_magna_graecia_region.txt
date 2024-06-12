@@ -664,7 +664,7 @@
 
 54={ #Heraclea
 	terrain="farmland"
-	culture="napulitan"
+	culture="romaioi"
 	religion="thessalonian_orthodox"
 	trade_goods="hemp"
 	civilization_value=33
@@ -724,7 +724,7 @@
 
 56={ #Tarentum
 	terrain="farmland"
-	culture="napulitan"
+	culture="romaioi"
 	religion="thessalonian_orthodox"
 	trade_goods="horses"
 	civilization_value=33
@@ -1030,7 +1030,7 @@
 
 66={ #Barium
 	terrain="farmland"
-	culture="napulitan"
+	culture="romaioi"
 	religion="thessalonian_orthodox"
 	trade_goods="olive"
 	civilization_value=18
@@ -1553,7 +1553,7 @@
 
 84={ #Syracusae
 	terrain="plains"
-	culture="siceliote"
+	culture="romaioi"
 	religion="roman_church"
 	trade_goods="wine"
 	civilization_value=31
