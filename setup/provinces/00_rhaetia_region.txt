@@ -791,7 +791,7 @@
 
 3648={ #Lauriacum
 	terrain="hills"
-	culture="boarisch"
+	culture="silver_avar"
 	religion="roman_church"
 	trade_goods="leather"
 	civilization_value=9
@@ -810,7 +810,7 @@
 
 3649={ #Loacus Felicis
 	terrain="hills"
-	culture="boarisch"
+	culture="silver_avar"
 	religion="roman_church"
 	trade_goods="horses"
 	civilization_value=9
@@ -832,7 +832,7 @@
 
 3650={ #Namare
 	terrain="hills"
-	culture="boarisch"
+	culture="silver_avar"
 	religion="roman_church"
 	trade_goods="horses"
 	civilization_value=9
@@ -851,7 +851,7 @@
 
 3651={ #Faviana
 	terrain="hills"
-	culture="boarisch"
+	culture="silver_avar"
 	religion="roman_church"
 	trade_goods="cloth"
 	civilization_value=9
@@ -864,7 +864,7 @@
 
 3652={ #Augustinia
 	terrain="hills"
-	culture="boarisch"
+	culture="silver_avar"
 	religion="roman_church"
 	trade_goods="vegetables"
 	civilization_value=9
@@ -1193,7 +1193,7 @@
 
 3672={ #Noreia
 	terrain="mountain"
-	culture="boarisch"
+	culture="silver_avar"
 	religion="roman_church"
 	trade_goods="iron"
 	civilization_value=7
@@ -1212,7 +1212,7 @@
 
 3673={ #Sabatinca
 	terrain="mountain"
-	culture="boarisch"
+	culture="silver_avar"
 	religion="roman_church"
 	trade_goods="fur"
 	civilization_value=7
@@ -1231,7 +1231,7 @@
 
 3674={ #Gabramagus
 	terrain="mountain"
-	culture="boarisch"
+	culture="silver_avar"
 	religion="roman_church"
 	trade_goods="wood"
 	civilization_value=7

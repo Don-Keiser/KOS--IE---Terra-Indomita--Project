@@ -744,7 +744,7 @@
 
 239={ #Artanes
 	terrain="plains"
-	culture="bithynian"
+	culture="bolghar"
 	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=26
@@ -797,7 +797,7 @@
 
 241={ #Rhebas
 	terrain="plains"
-	culture="thracian"
+	culture="bolghar"
 	religion="roman_pantheon"
 	trade_goods="earthware"
 	civilization_value=26
@@ -829,7 +829,7 @@
 
 242={ #Libyssa
 	terrain="plains"
-	culture="bithynian"
+	culture="bolghar"
 	religion="roman_pantheon"
 	trade_goods="vegetables"
 	civilization_value=26

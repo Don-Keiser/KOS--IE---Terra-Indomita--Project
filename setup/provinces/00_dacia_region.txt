@@ -1741,7 +1741,7 @@
 
 4875={ #Antia
 	terrain="hills"
-	culture="eravisci"
+	culture="magyar"
 	religion="druidism"
 	trade_goods="wood"
 	civilization_value=0
@@ -1780,7 +1780,7 @@
 
 4878={ #Aborisia
 	terrain="hills"
-	culture="eravisci"
+	culture="magyar"
 	religion="druidism"
 	trade_goods="leather"
 	civilization_value=0
@@ -1793,7 +1793,7 @@
 
 4879={ #Mabatorum
 	terrain="hills"
-	culture="eravisci"
+	culture="magyar"
 	religion="druidism"
 	trade_goods="leather"
 	civilization_value=0
@@ -1832,7 +1832,7 @@
 
 4882={ #Olate
 	terrain="forest"
-	culture="costoboci"
+	culture="szekely"
 	religion="shamanism"
 	trade_goods="cattle"
 	civilization_value=0
@@ -1845,7 +1845,7 @@
 
 4883={ #Voconis
 	terrain="plains"
-	culture="costoboci"
+	culture="szekely"
 	religion="shamanism"
 	trade_goods="wood"
 	civilization_value=0
@@ -1858,7 +1858,7 @@
 
 4884={ #Acronodumia
 	terrain="plains"
-	culture="costoboci"
+	culture="magyar"
 	religion="shamanism"
 	trade_goods="woad"
 	civilization_value=0
@@ -1871,7 +1871,7 @@
 
 4885={ #Tolitum
 	terrain="plains"
-	culture="costoboci"
+	culture="szekely"
 	religion="shamanism"
 	trade_goods="grain"
 	civilization_value=0
@@ -1887,7 +1887,7 @@
 
 4886={ #Obutora
 	terrain="hills"
-	culture="costoboci"
+	culture="magyar"
 	religion="shamanism"
 	trade_goods="wood"
 	civilization_value=0
@@ -1900,7 +1900,7 @@
 
 4888={ #Dolum
 	terrain="hills"
-	culture="eravisci"
+	culture="magyar"
 	religion="druidism"
 	trade_goods="precious_metals"
 	civilization_value=0
@@ -1913,7 +1913,7 @@
 
 4905={ #Patridava
 	terrain="hills"
-	culture="costoboci"
+	culture="szekely"
 	religion="shamanism"
 	trade_goods="stone"
 	civilization_value=0
@@ -2023,7 +2023,7 @@
 
 4926={ #Dure
 	terrain="hills"
-	culture="costoboci"
+	culture="magyar"
 	religion="shamanism"
 	trade_goods="base_metals"
 	civilization_value=0
@@ -2036,7 +2036,7 @@
 
 4927={ #Mittarium
 	terrain="hills"
-	culture="costoboci"
+	culture="szekely"
 	religion="shamanism"
 	trade_goods="stone"
 	civilization_value=0

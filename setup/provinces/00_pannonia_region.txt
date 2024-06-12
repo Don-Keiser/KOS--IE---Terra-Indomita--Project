@@ -1,6 +1,6 @@
 ﻿3653={ #Quadriburgium
 	terrain="hills"
-	culture="eravisci"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="wood"
 	civilization_value=9
@@ -22,7 +22,7 @@
 
 3918={ #Carnuntum
 	terrain="forest"
-	culture="eravisci"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="hemp"
 	civilization_value=9
@@ -180,7 +180,7 @@
 
 4031={ #Flavia Solva
 	terrain="forest"
-	culture="carnian"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="stone"
 	civilization_value=8
@@ -256,7 +256,7 @@
 
 4131={ #Poedicum
 	terrain="mountain"
-	culture="noric"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="iron"
 	civilization_value=7
@@ -316,7 +316,7 @@
 
 4134={ #Ad Vicessimum
 	terrain="forest"
-	culture="magyar"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="grain"
 	civilization_value=8
@@ -338,7 +338,7 @@
 
 4135={ #Arraboa
 	terrain="forest"
-	culture="carnian"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="horses"
 	civilization_value=8
@@ -354,7 +354,7 @@
 
 4136={ #Halicanum
 	terrain="farmland"
-	culture="magyar"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="stone"
 	civilization_value=12
@@ -446,7 +446,7 @@
 
 4141={ #Sabaria
 	terrain="forest"
-	culture="magyar"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="marble"
 	civilization_value=9
@@ -459,7 +459,7 @@
 
 4142={ #Bassena
 	terrain="forest"
-	culture="magyar"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="grain"
 	civilization_value=9
@@ -478,7 +478,7 @@
 
 4143={ #Confluentia Latobicorum
 	terrain="forest"
-	culture="magyar"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="stone"
 	civilization_value=8
@@ -494,7 +494,7 @@
 
 4144={ #Scarbantia
 	terrain="forest"
-	culture="magyar"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="grain"
 	civilization_value=9
@@ -516,7 +516,7 @@
 
 4145={ #Muteno
 	terrain="forest"
-	culture="eravisci"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="stone"
 	civilization_value=9
@@ -535,7 +535,7 @@
 
 4146={ #Mursella Prima
 	terrain="forest"
-	culture="magyar"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="vegetables"
 	civilization_value=9
@@ -551,7 +551,7 @@
 
 4147={ #Quadrata
 	terrain="forest"
-	culture="magyar"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="leather"
 	civilization_value=9
@@ -1022,7 +1022,7 @@
 
 4176={ #Pyrri
 	terrain="hills"
-	culture="magyar"
+	culture="golden_avar"
 	religion="illyrian_pantheon"
 	trade_goods="horses"
 	civilization_value=8
@@ -1041,7 +1041,7 @@
 
 4177={ #Varianis
 	terrain="plains"
-	culture="catari"
+	culture="golden_avar"
 	religion="illyrian_pantheon"
 	trade_goods="woad"
 	civilization_value=10
@@ -1057,7 +1057,7 @@
 
 4178={ #Iassorum
 	terrain="plains"
-	culture="catari"
+	culture="golden_avar"
 	religion="illyrian_pantheon"
 	trade_goods="grain"
 	civilization_value=10
@@ -1076,7 +1076,7 @@
 
 4179={ #Serota
 	terrain="forest"
-	culture="catari"
+	culture="golden_avar"
 	religion="illyrian_pantheon"
 	trade_goods="woad"
 	civilization_value=9
@@ -1092,7 +1092,7 @@
 
 4180={ #Lentulis
 	terrain="forest"
-	culture="catari"
+	culture="golden_avar"
 	religion="illyrian_pantheon"
 	trade_goods="fur"
 	civilization_value=9
@@ -1111,7 +1111,7 @@
 
 4181={ #Savia
 	terrain="plains"
-	culture="catari"
+	culture="golden_avar"
 	religion="illyrian_pantheon"
 	trade_goods="horses"
 	civilization_value=10
@@ -1130,7 +1130,7 @@
 
 4182={ #Claudia
 	terrain="plains"
-	culture="magyar"
+	culture="golden_avar"
 	religion="illyrian_pantheon"
 	trade_goods="fur"
 	civilization_value=11
@@ -1146,7 +1146,7 @@
 
 4183={ #Incero
 	terrain="plains"
-	culture="pannonian"
+	culture="golden_avar"
 	religion="illyrian_pantheon"
 	trade_goods="grain"
 	civilization_value=10
@@ -1165,7 +1165,7 @@
 
 4184={ #Dravia
 	terrain="hills"
-	culture="pannonian"
+	culture="golden_avar"
 	religion="illyrian_pantheon"
 	trade_goods="vegetables"
 	civilization_value=9
@@ -1184,7 +1184,7 @@
 
 4185={ #Stravianis
 	terrain="hills"
-	culture="pannonian"
+	culture="golden_avar"
 	religion="illyrian_pantheon"
 	trade_goods="cattle"
 	civilization_value=9
@@ -1203,7 +1203,7 @@
 
 4186={ #Picentino
 	terrain="farmland"
-	culture="pannonian"
+	culture="golden_avar"
 	religion="illyrian_pantheon"
 	trade_goods="fur"
 	civilization_value=13
@@ -1219,7 +1219,7 @@
 
 4187={ #Mursella
 	terrain="plains"
-	culture="pannonian"
+	culture="golden_avar"
 	religion="illyrian_pantheon"
 	trade_goods="cattle"
 	civilization_value=11
@@ -1232,7 +1232,7 @@
 
 4188={ #Cibalae
 	terrain="farmland"
-	culture="pannonian"
+	culture="golden_avar"
 	religion="illyrian_pantheon"
 	trade_goods="hemp"
 	civilization_value=13
@@ -1248,7 +1248,7 @@
 
 4189={ #Sirmium
 	terrain="hills"
-	culture="celtic_pannonian"
+	culture="golden_avar"
 	religion="druidism"
 	trade_goods="wood"
 	civilization_value=9
@@ -1264,7 +1264,7 @@
 
 4190={ #Bassiana
 	terrain="farmland"
-	culture="celtic_pannonian"
+	culture="golden_avar"
 	religion="druidism"
 	trade_goods="wood"
 	civilization_value=13
@@ -1280,7 +1280,7 @@
 
 4191={ #Causilena
 	terrain="plains"
-	culture="pannonian"
+	culture="golden_avar"
 	religion="illyrian_pantheon"
 	trade_goods="hemp"
 	civilization_value=11
@@ -1302,7 +1302,7 @@
 
 4192={ #Spaneta
 	terrain="plains"
-	culture="pannonian"
+	culture="golden_avar"
 	religion="illyrian_pantheon"
 	trade_goods="woad"
 	civilization_value=11
@@ -1318,7 +1318,7 @@
 
 4193={ #Altina
 	terrain="plains"
-	culture="celtic_pannonian"
+	culture="golden_avar"
 	religion="druidism"
 	trade_goods="fur"
 	civilization_value=11
@@ -1541,7 +1541,7 @@
 
 4866={ #Laugaricio
 	terrain="hills"
-	culture="cotinian"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="grain"
 	civilization_value=0
@@ -1573,7 +1573,7 @@
 
 4868={ #Brocasta
 	terrain="forest"
-	culture="eravisci"
+	culture="magyar"
 	religion="druidism"
 	trade_goods="grain"
 	civilization_value=0
@@ -1586,7 +1586,7 @@
 
 4869={ #Marrica
 	terrain="plains"
-	culture="eravisci"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -1599,7 +1599,7 @@
 
 4870={ #Maronis
 	terrain="hills"
-	culture="cotinian"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="iron"
 	civilization_value=0
@@ -1615,7 +1615,7 @@
 
 4871={ #Bekum
 	terrain="hills"
-	culture="cotinian"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -1628,7 +1628,7 @@
 
 4872={ #Amatria
 	terrain="plains"
-	culture="eravisci"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="cattle"
 	civilization_value=0
@@ -1644,7 +1644,7 @@
 
 4873={ #Collata
 	terrain="hills"
-	culture="cotinian"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="wood"
 	civilization_value=0

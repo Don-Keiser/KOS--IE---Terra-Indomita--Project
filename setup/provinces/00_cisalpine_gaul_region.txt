@@ -1908,7 +1908,7 @@
 
 3603={ #Opitergium
 	terrain="forest"
-	culture="venetian"
+	culture="vaskedzyte"
 	religion="roman_church"
 	trade_goods="wine"
 	civilization_value=8
@@ -1931,7 +1931,7 @@
 
 3604={ #Reunia
 	terrain="forest"
-	culture="venetian"
+	culture="vaskedzyte"
 	religion="roman_church"
 	trade_goods="base_metals"
 	civilization_value=8
@@ -1958,7 +1958,7 @@
 
 3605={ #Forum Iulii
 	terrain="forest"
-	culture="venetian"
+	culture="vaskedzyte"
 	religion="roman_church"
 	trade_goods="woad"
 	civilization_value=8
@@ -2125,7 +2125,7 @@
 
 12886={ #Feltrini
 	terrain="hills"
-	culture="venetian"
+	culture="vaskedzyte"
 	religion="roman_church"
 	trade_goods="fur"
 	civilization_value=9

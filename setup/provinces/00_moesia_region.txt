@@ -1,6 +1,6 @@
 ﻿477={ #Serdica
 	terrain="hills"
-	culture="triballoi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="wood"
 	civilization_value=9
@@ -22,7 +22,7 @@
 
 4112={ #Navissos
 	terrain="farmland"
-	culture="triballoi"
+	culture="moesogoth"
 	religion="shamanism"
 	trade_goods="cattle"
 	civilization_value=12
@@ -41,7 +41,7 @@
 
 4115={ #Remesiana
 	terrain="hills"
-	culture="triballoi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="honey"
 	civilization_value=8
@@ -63,7 +63,7 @@
 
 4116={ #Ballanstra
 	terrain="hills"
-	culture="triballoi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="stone"
 	civilization_value=8
@@ -227,7 +227,7 @@
 
 4219={ #Timacum
 	terrain="plains"
-	culture="triballoi"
+	culture="moesogoth"
 	religion="shamanism"
 	trade_goods="woad"
 	civilization_value=10
@@ -265,7 +265,7 @@
 
 4221={ #Montana
 	terrain="hills"
-	culture="triballoi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="stone"
 	civilization_value=8
@@ -281,7 +281,7 @@
 
 4222={ #Turres
 	terrain="hills"
-	culture="triballoi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="wood"
 	civilization_value=8
@@ -300,7 +300,7 @@
 
 4223={ #Almus
 	terrain="plains"
-	culture="triballoi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="wood"
 	civilization_value=10
@@ -322,7 +322,7 @@
 
 4224={ #Cebrus
 	terrain="plains"
-	culture="triballoi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="earthware"
 	civilization_value=10
@@ -338,7 +338,7 @@
 
 4225={ #Tautiomosis
 	terrain="hills"
-	culture="triballoi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="vegetables"
 	civilization_value=8
@@ -357,7 +357,7 @@
 
 4226={ #Vicus Siamus
 	terrain="forest"
-	culture="triballoi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="cattle"
 	civilization_value=8
@@ -376,7 +376,7 @@
 
 4227={ #Oescus
 	terrain="forest"
-	culture="triballoi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="grain"
 	civilization_value=8
@@ -395,7 +395,7 @@
 
 4228={ #Trullensium
 	terrain="forest"
-	culture="triballoi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="horses"
 	civilization_value=8
@@ -411,7 +411,7 @@
 
 4229={ #Longinopara
 	terrain="plains"
-	culture="triballoi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="wood"
 	civilization_value=10
@@ -430,7 +430,7 @@
 
 4230={ #Scretisca
 	terrain="hills"
-	culture="triballoi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="wood"
 	civilization_value=8
@@ -449,7 +449,7 @@
 
 4231={ #Asamus
 	terrain="forest"
-	culture="triballoi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="leather"
 	civilization_value=8
@@ -465,7 +465,7 @@
 
 4232={ #Ad Putea
 	terrain="plains"
-	culture="triballoi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -478,7 +478,7 @@
 
 4233={ #Storgosia
 	terrain="forest"
-	culture="triballoi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="vegetables"
 	civilization_value=8
@@ -494,7 +494,7 @@
 
 4234={ #Melta
 	terrain="plains"
-	culture="triballoi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="wood"
 	civilization_value=10
@@ -516,7 +516,7 @@
 
 4235={ #Sostra
 	terrain="hills"
-	culture="odrysi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="stone"
 	civilization_value=8
@@ -538,7 +538,7 @@
 
 4236={ #Emporium Discoduraterae
 	terrain="hills"
-	culture="triballoi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="stone"
 	civilization_value=8
@@ -551,7 +551,7 @@
 
 4237={ #Nikopolis
 	terrain="forest"
-	culture="moesi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="wood"
 	civilization_value=8
@@ -567,7 +567,7 @@
 
 4238={ #Novae
 	terrain="forest"
-	culture="triballoi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="cattle"
 	civilization_value=8
@@ -586,7 +586,7 @@
 
 4239={ #Trimammium
 	terrain="plains"
-	culture="moesi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="grain"
 	civilization_value=10
@@ -605,7 +605,7 @@
 
 4240={ #Prista
 	terrain="forest"
-	culture="moesi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="vegetables"
 	civilization_value=8
@@ -627,7 +627,7 @@
 
 4241={ #Appiara
 	terrain="forest"
-	culture="moesi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="vegetables"
 	civilization_value=8
@@ -649,7 +649,7 @@
 
 4242={ #Transmarisca
 	terrain="forest"
-	culture="moesi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="cattle"
 	civilization_value=8
@@ -668,7 +668,7 @@
 
 4243={ #Abritus
 	terrain="plains"
-	culture="moesi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -687,7 +687,7 @@
 
 4244={ #Tylis
 	terrain="plains"
-	culture="moesi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="wood"
 	civilization_value=10
@@ -703,7 +703,7 @@
 
 4245={ #Haemiana
 	terrain="hills"
-	culture="moesi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="leather"
 	civilization_value=8
@@ -725,7 +725,7 @@
 
 4246={ #Silistra
 	terrain="forest"
-	culture="moesi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="earthware"
 	civilization_value=8
@@ -741,7 +741,7 @@
 
 4247={ #Erite
 	terrain="plains"
-	culture="moesi"
+	culture="rughan"
 	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=26
@@ -762,7 +762,7 @@
 
 4248={ #Odessus
 	terrain="plains"
-	culture="bosporan"
+	culture="rughan"
 	religion="roman_pantheon"
 	trade_goods="earthware"
 	civilization_value=31
@@ -796,7 +796,7 @@
 
 4249={ #Krounoi
 	terrain="plains"
-	culture="moesi"
+	culture="rughan"
 	religion="roman_pantheon"
 	trade_goods="leather"
 	civilization_value=31
@@ -821,7 +821,7 @@
 
 4250={ #Tirizis
 	terrain="plains"
-	culture="moesi"
+	culture="rughan"
 	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=26
@@ -842,7 +842,7 @@
 
 4251={ #Parthenopolis
 	terrain="plains"
-	culture="moesi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="horses"
 	civilization_value=10
@@ -861,7 +861,7 @@
 
 4252={ #Helis
 	terrain="forest"
-	culture="moesi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="grain"
 	civilization_value=8
@@ -877,7 +877,7 @@
 
 4253={ #Palmatis
 	terrain="forest"
-	culture="moesi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="cattle"
 	civilization_value=8
@@ -896,7 +896,7 @@
 
 4254={ #Callatis
 	terrain="plains"
-	culture="bosporan"
+	culture="rughan"
 	religion="roman_pantheon"
 	trade_goods="leather"
 	civilization_value=31
@@ -928,7 +928,7 @@
 
 4255={ #Tomis
 	terrain="plains"
-	culture="bosporan"
+	culture="rughan"
 	religion="roman_pantheon"
 	trade_goods="salt"
 	civilization_value=31
@@ -953,7 +953,7 @@
 
 4256={ #Tropaeum
 	terrain="forest"
-	culture="moesi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="leather"
 	civilization_value=8
@@ -972,7 +972,7 @@
 
 4257={ #Sacidava
 	terrain="forest"
-	culture="moesi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="vegetables"
 	civilization_value=8
@@ -991,7 +991,7 @@
 
 4258={ #Panisus
 	terrain="hills"
-	culture="moesi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="stone"
 	civilization_value=8
@@ -1007,7 +1007,7 @@
 
 4259={ #Zikideba
 	terrain="plains"
-	culture="moesi"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="earthware"
 	civilization_value=10
@@ -1029,7 +1029,7 @@
 
 4512={ #Axiopolis
 	terrain="forest"
-	culture="getian"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="cattle"
 	civilization_value=24
@@ -1042,7 +1042,7 @@
 
 4513={ #Histria
 	terrain="plains"
-	culture="bosporan"
+	culture="rughan"
 	religion="roman_pantheon"
 	trade_goods="earthware"
 	civilization_value=31
@@ -1075,7 +1075,7 @@
 
 4514={ #Carsium
 	terrain="marsh"
-	culture="getian"
+	culture="rughan"
 	religion="roman_pantheon"
 	trade_goods="honey"
 	civilization_value=22
@@ -1089,7 +1089,7 @@
 
 4515={ #Capidava
 	terrain="forest"
-	culture="getian"
+	culture="rughan"
 	religion="roman_pantheon"
 	trade_goods="vegetables"
 	civilization_value=24
@@ -1106,7 +1106,7 @@
 
 4516={ #Argamum
 	terrain="forest"
-	culture="getian"
+	culture="rughan"
 	religion="roman_pantheon"
 	trade_goods="hemp"
 	civilization_value=29
@@ -1131,7 +1131,7 @@
 
 4517={ #Libida
 	terrain="forest"
-	culture="getian"
+	culture="rughan"
 	religion="roman_pantheon"
 	trade_goods="vegetables"
 	civilization_value=24
@@ -1151,7 +1151,7 @@
 
 4518={ #Troismis
 	terrain="marsh"
-	culture="getian"
+	culture="rughan"
 	religion="roman_pantheon"
 	trade_goods="grain"
 	civilization_value=22
@@ -1173,7 +1173,7 @@
 
 4519={ #Halmyris
 	terrain="forest"
-	culture="getian"
+	culture="rughan"
 	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=24
@@ -1197,7 +1197,7 @@
 
 4520={ #Troesmis
 	terrain="marsh"
-	culture="getian"
+	culture="rughan"
 	religion="roman_pantheon"
 	trade_goods="vegetables"
 	civilization_value=22

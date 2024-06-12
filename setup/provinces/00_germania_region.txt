@@ -1170,7 +1170,7 @@
 
 3910={ #Susidaea
 	terrain="plains"
-	culture="irminonic"
+	culture="white_serb"
 	religion="germanic_religion"
 	trade_goods="cattle"
 	civilization_value=0
@@ -1671,7 +1671,7 @@
 
 3979={ #Colancorum
 	terrain="plains"
-	culture="irminonic"
+	culture="white_serb"
 	religion="germanic_religion"
 	trade_goods="wood"
 	civilization_value=0

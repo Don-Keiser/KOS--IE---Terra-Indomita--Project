@@ -150,7 +150,7 @@
 
 3816={ #Marcomannia
 	terrain="forest"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="cattle"
 	civilization_value=0
@@ -268,7 +268,7 @@
 
 3911={ #Nomisterium
 	terrain="hills"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="fur"
 	civilization_value=0
@@ -284,7 +284,7 @@
 
 3912={ #Redintuinum
 	terrain="forest"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="fur"
 	civilization_value=0
@@ -300,7 +300,7 @@
 
 3913={ #Marobudum
 	terrain="forest"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="earthware"
 	civilization_value=0
@@ -319,7 +319,7 @@
 
 3914={ #Coridorgis
 	terrain="forest"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="cattle"
 	civilization_value=3
@@ -338,7 +338,7 @@
 
 3915={ #Meliodunum
 	terrain="forest"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="cloth"
 	civilization_value=0
@@ -357,7 +357,7 @@
 
 3916={ #Abilunum
 	terrain="hills"
-	culture="boian"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="cattle"
 	civilization_value=3
@@ -373,7 +373,7 @@
 
 3917={ #Adrabae
 	terrain="plains"
-	culture="boian"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="wood"
 	civilization_value=5
@@ -389,7 +389,7 @@
 
 3919={ #Anduetium
 	terrain="plains"
-	culture="eravisci"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="leather"
 	civilization_value=0
@@ -402,7 +402,7 @@
 
 3920={ #Regnia Prima
 	terrain="plains"
-	culture="boian"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="fish"
 	civilization_value=0
@@ -415,7 +415,7 @@
 
 3921={ #Regnia Secunda
 	terrain="plains"
-	culture="boian"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="cattle"
 	civilization_value=0
@@ -431,7 +431,7 @@
 
 3922={ #Medioslanium
 	terrain="forest"
-	culture="boian"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="wood"
 	civilization_value=0
@@ -444,7 +444,7 @@
 
 3923={ #Teracatriae
 	terrain="forest"
-	culture="boian"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="wood"
 	civilization_value=3
@@ -457,7 +457,7 @@
 
 3924={ #Rhacatia
 	terrain="plains"
-	culture="eravisci"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="horses"
 	civilization_value=0
@@ -470,7 +470,7 @@
 
 3925={ #Felicia
 	terrain="hills"
-	culture="eravisci"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="fur"
 	civilization_value=0
@@ -486,7 +486,7 @@
 
 3926={ #Eburodunum Carnuntii
 	terrain="forest"
-	culture="boian"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="horses"
 	civilization_value=0
@@ -499,7 +499,7 @@
 
 3927={ #Celamantia
 	terrain="forest"
-	culture="eravisci"
+	culture="magyar"
 	religion="druidism"
 	trade_goods="cattle"
 	civilization_value=0
@@ -515,7 +515,7 @@
 
 3928={ #Felicia Boioa
 	terrain="hills"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="wood"
 	civilization_value=0
@@ -534,7 +534,7 @@
 
 3929={ #Auchia
 	terrain="plains"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="fur"
 	civilization_value=0
@@ -547,7 +547,7 @@
 
 3930={ #Phargisatus
 	terrain="forest"
-	culture="boian"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="leather"
 	civilization_value=0
@@ -563,7 +563,7 @@
 
 3931={ #Tavia
 	terrain="forest"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="hemp"
 	civilization_value=3
@@ -585,7 +585,7 @@
 
 3932={ #Hercyniana
 	terrain="plains"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="wood"
 	civilization_value=0
@@ -604,7 +604,7 @@
 
 3933={ #Quadia
 	terrain="forest"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="vegetables"
 	civilization_value=3
@@ -623,7 +623,7 @@
 
 3934={ #Ad Periam
 	terrain="forest"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="fur"
 	civilization_value=3
@@ -642,7 +642,7 @@
 
 3935={ #Ad Limen
 	terrain="forest"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="grain"
 	civilization_value=3
@@ -658,7 +658,7 @@
 
 3936={ #Sylvaria Prima
 	terrain="forest"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="fur"
 	civilization_value=3
@@ -674,7 +674,7 @@
 
 3937={ #Baemia
 	terrain="forest"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="wood"
 	civilization_value=3
@@ -687,7 +687,7 @@
 
 3938={ #Boioa
 	terrain="forest"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="grain"
 	civilization_value=3
@@ -703,7 +703,7 @@
 
 3939={ #Budorgis
 	terrain="plains"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="fish"
 	civilization_value=5
@@ -722,7 +722,7 @@
 
 3940={ #Corcontia
 	terrain="plains"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="wood"
 	civilization_value=0
@@ -738,7 +738,7 @@
 
 3941={ #Vandalicia
 	terrain="plains"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="stone"
 	civilization_value=0
@@ -754,7 +754,7 @@
 
 3942={ #Hegetmatia
 	terrain="plains"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="cattle"
 	civilization_value=0
@@ -773,7 +773,7 @@
 
 3943={ #Butonia
 	terrain="plains"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="wood"
 	civilization_value=0
@@ -786,7 +786,7 @@
 
 3944={ #Extremadura
 	terrain="plains"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="wood"
 	civilization_value=0
@@ -860,7 +860,7 @@
 
 3980={ #Ad Fines Boiohaemi
 	terrain="hills"
-	culture="irminonic"
+	culture="white_serb"
 	religion="germanic_religion"
 	trade_goods="woad"
 	civilization_value=0
@@ -902,7 +902,7 @@
 
 4005={ #Stragona
 	terrain="plains"
-	culture="vandal"
+	culture="white_serb"
 	religion="germanic_religion"
 	trade_goods="leather"
 	civilization_value=0
@@ -920,7 +920,7 @@
 
 4006={ #Marsignia
 	terrain="hills"
-	culture="vandal"
+	culture="white_serb"
 	religion="germanic_religion"
 	trade_goods="stone"
 	civilization_value=0
@@ -957,7 +957,7 @@
 
 4008={ #Asciburgia
 	terrain="forest"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="cloth"
 	civilization_value=0
@@ -973,7 +973,7 @@
 
 4009={ #Galaegia
 	terrain="forest"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="wood"
 	civilization_value=0
@@ -1008,7 +1008,7 @@
 
 4011={ #Cognia
 	terrain="hills"
-	culture="vandal"
+	culture="white_serb"
 	religion="germanic_religion"
 	trade_goods="fur"
 	civilization_value=0
@@ -1040,7 +1040,7 @@
 
 4013={ #Carredunum
 	terrain="plains"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="fur"
 	civilization_value=0
@@ -1053,7 +1053,7 @@
 
 4014={ #Eburum
 	terrain="plains"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="fish"
 	civilization_value=0
@@ -1066,7 +1066,7 @@
 
 4015={ #Gothinia
 	terrain="hills"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="stone"
 	civilization_value=0
@@ -1085,7 +1085,7 @@
 
 4016={ #Oreinia
 	terrain="plains"
-	culture="boian"
+	culture="white_serb"
 	religion="druidism"
 	trade_goods="horses"
 	civilization_value=0
@@ -1101,7 +1101,7 @@
 
 4017={ #Asanca
 	terrain="hills"
-	culture="cotinian"
+	culture="silver_avar"
 	religion="druidism"
 	trade_goods="wood"
 	civilization_value=0

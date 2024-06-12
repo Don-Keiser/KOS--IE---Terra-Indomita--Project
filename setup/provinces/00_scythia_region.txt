@@ -1,6 +1,6 @@
 ﻿4521={ #Nobiodounos
 	terrain="marsh"
-	culture="getian"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="salt"
 	civilization_value=1
@@ -22,7 +22,7 @@
 
 4522={ #Ta Antiphilou
 	terrain="forest"
-	culture="getian"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="fish"
 	civilization_value=3
@@ -36,7 +36,7 @@
 
 4523={ #Kremniskoi
 	terrain="forest"
-	culture="getian"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="fish"
 	civilization_value=3
@@ -52,7 +52,7 @@
 
 4524={ #Aipolion
 	terrain="forest"
-	culture="getian"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="wild_game"
 	civilization_value=3
@@ -68,7 +68,7 @@
 
 4525={ #Tyras
 	terrain="marsh"
-	culture="bosporan"
+	culture="rughan"
 	religion="roman_pantheon"
 	trade_goods="salt"
 	civilization_value=22
@@ -182,7 +182,7 @@
 
 4800={ #Dinogetia
 	terrain="forest"
-	culture="getian"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="wood"
 	civilization_value=3
@@ -294,7 +294,7 @@
 
 4916={ #Mirum
 	terrain="forest"
-	culture="harpii"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="leather"
 	civilization_value=3
@@ -313,7 +313,7 @@
 
 4917={ #Alitora
 	terrain="forest"
-	culture="getian"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="leather"
 	civilization_value=3
@@ -326,7 +326,7 @@
 
 4918={ #Lepton
 	terrain="forest"
-	culture="getian"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="cattle"
 	civilization_value=3
@@ -342,7 +342,7 @@
 
 4919={ #Olitis
 	terrain="plains"
-	culture="getian"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="horses"
 	civilization_value=5
@@ -355,7 +355,7 @@
 
 4920={ #Agrana
 	terrain="farmland"
-	culture="getian"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="base_metals"
 	civilization_value=7
@@ -368,7 +368,7 @@
 
 4921={ #Bridava
 	terrain="plains"
-	culture="getian"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="vegetables"
 	civilization_value=5
@@ -387,7 +387,7 @@
 
 4922={ #Aikronon
 	terrain="forest"
-	culture="getian"
+	culture="rughan"
 	religion="shamanism"
 	trade_goods="fur"
 	civilization_value=3
