@@ -605,6 +605,7 @@ fezzan_region = { #11 areas
 		soda_area
 		soffegin_area
 		zamzam_area
+		tigzirtia_area
 	}
 }
 

@@ -1736,3 +1736,55 @@
 	province_rank=""
 }
 
+12900={ #Uatigzirt
+	terrain="plains"
+	culture="garamantic"
+	religion="berber_religion"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+
+12901={ #Azewtami
+	terrain="plains"
+	culture="garamantic"
+	religion="berber_religion"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+
+12902={ #Tawinet
+	terrain="plains"
+	culture="garamantic"
+	religion="berber_religion"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+
+12903={ #Ariadeg
+	terrain="plains"
+	culture="garamantic"
+	religion="berber_religion"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+
