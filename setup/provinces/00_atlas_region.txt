@@ -1404,10 +1404,13 @@
 	terrain="mountain"
 	culture="canarian"
 	religion="african_church"
-	trade_goods=""
-	civilization_value=0
+	trade_goods="base_metals"
+	civilization_value=5
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
 }
 
 10170={ #Sfissifa
@@ -1456,49 +1459,64 @@
 	terrain="desert"
 	culture="canarian"
 	religion="african_church"
-	trade_goods=""
-	civilization_value=0
+	trade_goods="base_metals"
+	civilization_value=5
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
 }
 
 10177={ #Timlilt
 	terrain="desert"
 	culture="canarian"
 	religion="african_church"
-	trade_goods=""
-	civilization_value=0
+	trade_goods="base_metals"
+	civilization_value=5
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
 }
 
 10178={ #Atlas Pass
 	terrain="mountain"
 	culture="perorsian"
 	religion="african_church"
-	trade_goods=""
-	civilization_value=0
+	trade_goods="base_metals"
+	civilization_value=5
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
 }
 
 10179={ #Atlas Pass
 	terrain="mountain"
 	culture="canarian"
 	religion="african_church"
-	trade_goods=""
-	civilization_value=0
+	trade_goods="base_metals"
+	civilization_value=5
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
 }
 
 10180={ #Atlas Pass
 	terrain="mountain"
 	culture="canarian"
 	religion="african_church"
-	trade_goods=""
-	civilization_value=0
+	trade_goods="base_metals"
+	civilization_value=5
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
 }
 

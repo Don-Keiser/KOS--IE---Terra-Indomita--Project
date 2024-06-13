@@ -2,20 +2,26 @@
 	terrain="desert"
 	culture="nasamonian"
 	religion="egyptian_pantheon"
-	trade_goods=""
-	civilization_value=0
+	trade_goods="wild_game"
+	civilization_value=10
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
 }
 
 9945={ #Qabr
 	terrain="desert"
 	culture="nasamonian"
 	religion="egyptian_pantheon"
-	trade_goods=""
-	civilization_value=0
+	trade_goods="wild_game"
+	civilization_value=10
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
 }
 
 9946={ #Mawahi
@@ -409,10 +415,13 @@
 	terrain="desert"
 	culture="psyllic"
 	religion="berber_religion"
-	trade_goods=""
-	civilization_value=0
+	trade_goods="wild_game"
+	civilization_value=10
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
 }
 
 9971={ #Umm Abid
@@ -780,30 +789,39 @@
 	terrain="desert"
 	culture="macaean"
 	religion="berber_religion"
-	trade_goods=""
-	civilization_value=0
+	trade_goods="wild_game"
+	civilization_value=10
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
 }
 
 9988={ #Daydaban
 	terrain="desert"
 	culture="garamantic"
 	religion="berber_religion"
-	trade_goods=""
-	civilization_value=0
+	trade_goods="wild_game"
+	civilization_value=10
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
 }
 
 9989={ #Harakat
 	terrain="desert"
 	culture="phazani"
 	religion="berber_religion"
-	trade_goods=""
-	civilization_value=0
+	trade_goods="wild_game"
+	civilization_value=10
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
 }
 
 9990={ #Tmessa
@@ -1720,20 +1738,26 @@
 	terrain="desert"
 	culture="phazani"
 	religion="berber_religion"
-	trade_goods=""
-	civilization_value=0
+	trade_goods="wild_game"
+	civilization_value=10
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
 }
 
 10049={ #Jebil
 	terrain="desert"
 	culture="phazani"
 	religion="berber_religion"
-	trade_goods=""
-	civilization_value=0
+	trade_goods="wild_game"
+	civilization_value=10
 	barbarian_power=0
-	province_rank=""
+	province_rank="settlement"
+	tribesmen={
+		amount=2
+	}
 }
 
 12900={ #Uatigzirt
@@ -1776,6 +1800,45 @@
 }
 
 12903={ #Ariadeg
+	terrain="plains"
+	culture="garamantic"
+	religion="berber_religion"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+	
+12904={ #Aryana
+	terrain="plains"
+	culture="garamantic"
+	religion="berber_religion"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+	
+12905={ #Zarathusia
+	terrain="plains"
+	culture="garamantic"
+	religion="berber_religion"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+	
+12906={ #Nubilae
 	terrain="plains"
 	culture="garamantic"
 	religion="berber_religion"

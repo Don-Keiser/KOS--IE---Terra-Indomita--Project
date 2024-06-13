@@ -1371,7 +1371,7 @@ hawad_area = { #8
 }
 
 hayaa_area = { #8
-	provinces = { 9981 9982 9983 9984 9985 }
+	provinces = { 9981 9982 9983 9984 9985 12904 12905 12906 }
 }
 
 hedong_area = { #12
