@@ -3699,7 +3699,7 @@
 }
 
 5367={ #Tritonis
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -8259,7 +8259,7 @@
 }
 
 8090={ #Bazensis
-	terrain="ocean"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
