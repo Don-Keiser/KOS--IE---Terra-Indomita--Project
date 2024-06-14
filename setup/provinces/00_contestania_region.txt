@@ -1,6 +1,6 @@
 ﻿1023={ #Mantua Carpetania
 	terrain="plains"
-	culture="toledu"
+	culture="vacchaian"
 	religion="african_church"
 	trade_goods="wine"
 	civilization_value=11
@@ -79,7 +79,7 @@
 
 1027={ #Libisosa
 	terrain="plains"
-	culture="ispannian"
+	culture="toledu"
 	religion="african_church"
 	trade_goods="cattle"
 	civilization_value=11
@@ -350,7 +350,7 @@
 
 1195={ #Miaccum
 	terrain="hills"
-	culture="toledu"
+	culture="vacchaian"
 	religion="african_church"
 	trade_goods="base_metals"
 	civilization_value=9
@@ -407,7 +407,7 @@
 
 1205={ #Carpetana Luga
 	terrain="hills"
-	culture="toledu"
+	culture="vacchaian"
 	religion="african_church"
 	trade_goods="base_metals"
 	civilization_value=9
@@ -423,7 +423,7 @@
 
 1206={ #Complutum
 	terrain="plains"
-	culture="toledu"
+	culture="vacchaian"
 	religion="african_church"
 	trade_goods="wine"
 	civilization_value=11
@@ -785,7 +785,7 @@
 
 1254={ #Salika
 	terrain="plains"
-	culture="cartagenu"
+	culture="toledu"
 	religion="african_church"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -801,7 +801,7 @@
 
 1255={ #Saltigi
 	terrain="plains"
-	culture="cartagenu"
+	culture="toledu"
 	religion="african_church"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -817,7 +817,7 @@
 
 1256={ #Parietinae
 	terrain="plains"
-	culture="ispannian"
+	culture="toledu"
 	religion="african_church"
 	trade_goods="grain"
 	civilization_value=11
@@ -833,7 +833,7 @@
 
 1257={ #Mentesa
 	terrain="plains"
-	culture="ispannian"
+	culture="toledu"
 	religion="african_church"
 	trade_goods="base_metals"
 	civilization_value=10
@@ -897,7 +897,7 @@
 
 1261={ #Ad Putea
 	terrain="plains"
-	culture="cartagenu"
+	culture="toledu"
 	religion="african_church"
 	trade_goods="grain"
 	civilization_value=11
@@ -1031,7 +1031,7 @@
 
 1269={ #Pons Rugio
 	terrain="plains"
-	culture="ispannian"
+	culture="toledu"
 	religion="african_church"
 	trade_goods="wine"
 	civilization_value=11
@@ -1069,7 +1069,7 @@
 
 1271={ #Caput
 	terrain="plains"
-	culture="ispannian"
+	culture="toledu"
 	religion="african_church"
 	trade_goods="horses"
 	civilization_value=11
@@ -1085,7 +1085,7 @@
 
 1272={ #Domum
 	terrain="plains"
-	culture="ispannian"
+	culture="toledu"
 	religion="african_church"
 	trade_goods="wine"
 	civilization_value=11
@@ -1169,7 +1169,7 @@
 
 1279={ #Tutugi
 	terrain="hills"
-	culture="cartagenu"
+	culture="ispannian"
 	religion="african_church"
 	trade_goods="wine"
 	civilization_value=8
@@ -1185,7 +1185,7 @@
 
 1280={ #Tagili
 	terrain="hills"
-	culture="cartagenu"
+	culture="ispannian"
 	religion="african_church"
 	trade_goods="stone"
 	civilization_value=8
@@ -1201,7 +1201,7 @@
 
 1281={ #Basti
 	terrain="hills"
-	culture="cartagenu"
+	culture="ispannian"
 	religion="african_church"
 	trade_goods="fur"
 	civilization_value=8
@@ -1313,7 +1313,7 @@
 
 1464={ #Ebusus
 	terrain="plains"
-	culture="carthaginian"
+	culture="cartagenu"
 	religion="carthaginian_pantheon"
 	trade_goods="fish"
 	civilization_value=25
@@ -1329,7 +1329,7 @@
 
 1465={ #Palma
 	terrain="hills"
-	culture="talaiotic"
+	culture="cartagenu"
 	religion="nuragic_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=18
@@ -1353,7 +1353,7 @@
 
 1466={ #Guium
 	terrain="farmland"
-	culture="talaiotic"
+	culture="cartagenu"
 	religion="nuragic_pantheon"
 	trade_goods="hemp"
 	civilization_value=17
@@ -1375,7 +1375,7 @@
 
 1467={ #Pollentia
 	terrain="hills"
-	culture="talaiotic"
+	culture="cartagenu"
 	religion="nuragic_pantheon"
 	trade_goods="salt"
 	civilization_value=13
@@ -1394,7 +1394,7 @@
 
 1468={ #Tuci
 	terrain="plains"
-	culture="talaiotic"
+	culture="cartagenu"
 	religion="nuragic_pantheon"
 	trade_goods="glass"
 	civilization_value=15
@@ -1410,7 +1410,7 @@
 
 1469={ #Mago
 	terrain="plains"
-	culture="talaiotic"
+	culture="cartagenu"
 	religion="nuragic_pantheon"
 	trade_goods="fish"
 	civilization_value=15

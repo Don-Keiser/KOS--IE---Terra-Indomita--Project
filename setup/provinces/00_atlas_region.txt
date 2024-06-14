@@ -54,7 +54,7 @@
 
 10068={ #Ouassay
 	terrain="plains"
-	culture="perorsian"
+	culture="muretannian"
 	religion="african_church"
 	trade_goods="stone"
 	civilization_value=5
@@ -67,7 +67,7 @@
 
 10069={ #Iligh
 	terrain="desert_hills"
-	culture="lixitoi"
+	culture="muretannian"
 	religion="african_church"
 	trade_goods="precious_metals"
 	civilization_value=7
@@ -85,7 +85,7 @@
 
 10070={ #Aglou
 	terrain="desert"
-	culture="lixitoi"
+	culture="muretannian"
 	religion="african_church"
 	trade_goods="fish"
 	civilization_value=5
@@ -98,7 +98,7 @@
 
 10071={ #Baha
 	terrain="plains"
-	culture="lixitoi"
+	culture="muretannian"
 	religion="african_church"
 	trade_goods="cattle"
 	civilization_value=5
@@ -111,7 +111,7 @@
 
 10072={ #Imighzer
 	terrain="plains"
-	culture="lixitoi"
+	culture="muretannian"
 	religion="african_church"
 	trade_goods="horses"
 	civilization_value=5
@@ -124,7 +124,7 @@
 
 10073={ #Teima
 	terrain="hills"
-	culture="lixitoi"
+	culture="muretannian"
 	religion="african_church"
 	trade_goods="base_metals"
 	civilization_value=5
@@ -142,7 +142,7 @@
 
 10074={ #Taroudant
 	terrain="plains"
-	culture="lixitoi"
+	culture="muretannian"
 	religion="african_church"
 	trade_goods="cattle"
 	civilization_value=5
@@ -1402,7 +1402,7 @@
 
 10169={ #Atlas Pass
 	terrain="mountain"
-	culture="canarian"
+	culture="muretannian"
 	religion="african_church"
 	trade_goods="base_metals"
 	civilization_value=5
@@ -1483,7 +1483,7 @@
 
 10178={ #Atlas Pass
 	terrain="mountain"
-	culture="perorsian"
+	culture="muretannian"
 	religion="african_church"
 	trade_goods="base_metals"
 	civilization_value=5
@@ -1496,7 +1496,7 @@
 
 10179={ #Atlas Pass
 	terrain="mountain"
-	culture="canarian"
+	culture="muretannian"
 	religion="african_church"
 	trade_goods="base_metals"
 	civilization_value=5
@@ -1509,7 +1509,7 @@
 
 10180={ #Atlas Pass
 	terrain="mountain"
-	culture="canarian"
+	culture="muretannian"
 	religion="african_church"
 	trade_goods="base_metals"
 	civilization_value=5

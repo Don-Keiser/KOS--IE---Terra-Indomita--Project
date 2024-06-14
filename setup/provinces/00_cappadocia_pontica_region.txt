@@ -42,7 +42,7 @@
 
 1731={ #Ophis
 	terrain="hills"
-	culture="colchian"
+	culture="trapezuntine"
 	religion="caucasian_religion"
 	trade_goods="fish"
 	civilization_value=18
@@ -69,7 +69,7 @@
 
 1732={ #Hyssos
 	terrain="forest"
-	culture="greco_pontic"
+	culture="trapezuntine"
 	religion="roman_pantheon"
 	trade_goods="hemp"
 	civilization_value=24
@@ -111,7 +111,7 @@
 
 1734={ #Trapezous
 	terrain="forest"
-	culture="greco_pontic"
+	culture="trapezuntine"
 	religion="roman_pantheon"
 	trade_goods="cloth"
 	civilization_value=29
@@ -258,7 +258,7 @@
 
 1772={ #Sediska
 	terrain="hills"
-	culture="colchian"
+	culture="trapezuntine"
 	religion="anahitic_religion"
 	trade_goods="wood"
 	civilization_value=18
@@ -283,7 +283,7 @@
 
 1773={ #Zigana
 	terrain="hills"
-	culture="colchian"
+	culture="trapezuntine"
 	religion="roman_pantheon"
 	trade_goods="stone"
 	civilization_value=18
@@ -306,7 +306,7 @@
 
 1775={ #Magnana
 	terrain="hills"
-	culture="colchian"
+	culture="trapezuntine"
 	religion="roman_pantheon"
 	trade_goods="wood"
 	civilization_value=18
@@ -329,7 +329,7 @@
 
 1776={ #Arauraka
 	terrain="hills"
-	culture="cappadocian"
+	culture="trapezuntine"
 	religion="anahitic_religion"
 	trade_goods="cattle"
 	civilization_value=18
@@ -399,7 +399,7 @@
 
 1781={ #Basgoedariza
 	terrain="hills"
-	culture="cappadocian"
+	culture="trapezuntine"
 	religion="anahitic_religion"
 	trade_goods="stone"
 	civilization_value=18
@@ -448,7 +448,7 @@
 
 1783={ #Anniaka
 	terrain="hills"
-	culture="cappadocian"
+	culture="trapezuntine"
 	religion="anahitic_religion"
 	trade_goods="earthware"
 	civilization_value=18
@@ -465,7 +465,7 @@
 
 1786={ #Sauronisena
 	terrain="hills"
-	culture="cappadocian"
+	culture="trapezuntine"
 	religion="anatolian_religion"
 	trade_goods="stone"
 	civilization_value=9
@@ -484,7 +484,7 @@
 
 1787={ #Danai
 	terrain="forest"
-	culture="cappadocian"
+	culture="trapezuntine"
 	religion="anatolian_religion"
 	trade_goods="fruits"
 	civilization_value=9
@@ -581,7 +581,7 @@
 
 1791={ #Ibora
 	terrain="forest"
-	culture="cappadocian"
+	culture="trapezuntine"
 	religion="anatolian_religion"
 	trade_goods="leather"
 	civilization_value=9
@@ -608,7 +608,7 @@
 
 1792={ #Kabeira
 	terrain="hills"
-	culture="cappadocian"
+	culture="trapezuntine"
 	religion="anatolian_religion"
 	trade_goods="wood"
 	civilization_value=14
@@ -652,7 +652,7 @@
 
 1793={ #Side Pontike
 	terrain="forest"
-	culture="greco_pontic"
+	culture="trapezuntine"
 	religion="roman_pantheon"
 	trade_goods="wood"
 	civilization_value=9
@@ -677,7 +677,7 @@
 
 1795={ #Kotyora
 	terrain="forest"
-	culture="greco_pontic"
+	culture="trapezuntine"
 	religion="roman_pantheon"
 	trade_goods="salt"
 	civilization_value=24
@@ -704,7 +704,7 @@
 
 1797={ #Koralla
 	terrain="forest"
-	culture="greco_pontic"
+	culture="trapezuntine"
 	religion="roman_pantheon"
 	trade_goods="stone"
 	civilization_value=24
@@ -723,7 +723,7 @@
 
 1798={ #Kerasous
 	terrain="forest"
-	culture="greco_pontic"
+	culture="trapezuntine"
 	religion="roman_pantheon"
 	trade_goods="fruits"
 	civilization_value=24
@@ -747,7 +747,7 @@
 
 1801={ #Matouasko
 	terrain="hills"
-	culture="cappadocian"
+	culture="trapezuntine"
 	religion="anatolian_religion"
 	trade_goods="wine"
 	civilization_value=9
@@ -770,7 +770,7 @@
 
 1804={ #Boinasa
 	terrain="hills"
-	culture="cappadocian"
+	culture="trapezuntine"
 	religion="anatolian_religion"
 	trade_goods="fruits"
 	civilization_value=9

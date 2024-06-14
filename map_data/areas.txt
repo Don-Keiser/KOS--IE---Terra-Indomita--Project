@@ -3631,7 +3631,7 @@ upper_jaxartia_area = { #10
 }
 
 upper_macedonia_area = { #10
-	provinces = { 393 397 400 405 408 411 412 3125 3175 3356 }
+	provinces = { 393 397 400 405 408 411 412 3125 3175 3356 12907 }
 }
 
 upper_mesopotamia_area = { #12

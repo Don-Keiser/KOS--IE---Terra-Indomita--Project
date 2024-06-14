@@ -302,7 +302,7 @@
 
 9961={ #Fuqaha
 	terrain="desert"
-	culture="macaean"
+	culture="uandil"
 	religion="egyptian_pantheon"
 	trade_goods="leather"
 	civilization_value=10
@@ -387,7 +387,7 @@
 
 9966={ #Tamshin
 	terrain="desert"
-	culture="macaean"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="leather"
 	civilization_value=10
@@ -400,7 +400,7 @@
 
 9967={ #Mughattah
 	terrain="desert"
-	culture="macaean"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -426,7 +426,7 @@
 
 9971={ #Umm Abid
 	terrain="desert"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -439,7 +439,7 @@
 
 9972={ #Brak
 	terrain="oasis"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="salt"
 	civilization_value=10
@@ -472,7 +472,7 @@
 
 9973={ #Mahruqah
 	terrain="desert"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -495,7 +495,7 @@
 
 9974={ #Bergin
 	terrain="oasis"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="dates"
 	civilization_value=10
@@ -523,7 +523,7 @@
 
 9975={ #Dedris
 	terrain="oasis"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="horses"
 	civilization_value=10
@@ -541,7 +541,7 @@
 
 9976={ #Adri
 	terrain="desert"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="camel"
 	civilization_value=10
@@ -559,7 +559,7 @@
 
 9977={ #Adwesa
 	terrain="desert"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="leather"
 	civilization_value=10
@@ -572,7 +572,7 @@
 
 9978={ #Wanin
 	terrain="desert"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="leather"
 	civilization_value=10
@@ -583,9 +583,9 @@
 	}
 }
 
-9979={ #Samnu
+9979={ #Idjitigzirt
 	terrain="desert"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="cattle"
 	civilization_value=10
@@ -603,7 +603,7 @@
 
 9980={ #Sabha
 	terrain="oasis"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="horses"
 	civilization_value=10
@@ -621,7 +621,7 @@
 
 9981={ #Chlef
 	terrain="desert"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -637,7 +637,7 @@
 
 9982={ #Gelah
 	terrain="desert"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="grain"
 	civilization_value=10
@@ -653,7 +653,7 @@
 
 9983={ #Lecksair
 	terrain="oasis"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="dates"
 	civilization_value=10
@@ -686,7 +686,7 @@
 
 9984={ #Garama
 	terrain="oasis"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="earthware"
 	civilization_value=10
@@ -734,7 +734,7 @@
 
 9985={ #Zinchekra
 	terrain="oasis"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="gems"
 	civilization_value=10
@@ -769,7 +769,7 @@
 
 9986={ #Gadduwah
 	terrain="desert"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -800,7 +800,7 @@
 
 9988={ #Daydaban
 	terrain="desert"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -826,7 +826,7 @@
 
 9990={ #Tmessa
 	terrain="oasis"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="dates"
 	civilization_value=10
@@ -849,7 +849,7 @@
 
 9991={ #Zuwila
 	terrain="oasis"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="dates"
 	civilization_value=10
@@ -870,7 +870,7 @@
 
 9992={ #Traghen
 	terrain="desert"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -891,7 +891,7 @@
 
 9993={ #Murzuq
 	terrain="oasis"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="horses"
 	civilization_value=10
@@ -918,7 +918,7 @@
 
 9994={ #Dujal
 	terrain="oasis"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="grain"
 	civilization_value=10
@@ -939,7 +939,7 @@
 
 9995={ #Sharraba
 	terrain="desert"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="leather"
 	civilization_value=10
@@ -957,7 +957,7 @@
 
 9996={ #Baghira
 	terrain="desert"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="camel"
 	civilization_value=10
@@ -975,7 +975,7 @@
 
 9997={ #Tisit
 	terrain="desert"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -988,7 +988,7 @@
 
 9998={ #Majdul
 	terrain="desert"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="camel"
 	civilization_value=10
@@ -1001,7 +1001,7 @@
 
 9999={ #Terbu
 	terrain="oasis"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -1017,7 +1017,7 @@
 
 10000={ #Izam
 	terrain="desert"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -1030,7 +1030,7 @@
 
 10001={ #Qatrun
 	terrain="oasis"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="cattle"
 	civilization_value=10
@@ -1043,7 +1043,7 @@
 
 10002={ #Tajhiri
 	terrain="desert"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="horses"
 	civilization_value=10
@@ -1056,7 +1056,7 @@
 
 10003={ #Mastutah
 	terrain="desert"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="leather"
 	civilization_value=10
@@ -1762,7 +1762,7 @@
 
 12900={ #Uatigzirt
 	terrain="plains"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -1773,9 +1773,9 @@
 	}
 }
 
-12901={ #Azewtami
+12901={ #Azeutami
 	terrain="plains"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -1788,7 +1788,7 @@
 
 12902={ #Tawinet
 	terrain="plains"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -1801,7 +1801,7 @@
 
 12903={ #Ariadeg
 	terrain="plains"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -1811,10 +1811,10 @@
 		amount=2
 	}
 }
-	
+
 12904={ #Aryana
 	terrain="plains"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -1824,10 +1824,10 @@
 		amount=2
 	}
 }
-	
+
 12905={ #Zarathusia
 	terrain="plains"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="vegetables"
 	civilization_value=0
@@ -1837,10 +1837,10 @@
 		amount=2
 	}
 }
-	
+
 12906={ #Nubilae
 	terrain="plains"
-	culture="garamantic"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="vegetables"
 	civilization_value=0

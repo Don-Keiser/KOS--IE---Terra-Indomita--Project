@@ -1,4 +1,4 @@
-﻿east_germanic = {
+﻿low_germanic = {
 
 	primary = light_infantry
 	second = archers

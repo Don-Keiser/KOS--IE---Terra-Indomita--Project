@@ -1,6 +1,6 @@
 ﻿445={ #Dyme
 	terrain="desert"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="fish"
 	civilization_value=28
@@ -23,7 +23,7 @@
 
 453={ #Taposiris
 	terrain="desert"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="salt"
 	civilization_value=33
@@ -49,7 +49,7 @@
 
 500={ #Memphis
 	terrain="flood_plain"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="papyrus"
 	civilization_value=48
@@ -96,7 +96,7 @@
 
 501={ #Heliopolis
 	terrain="flood_plain"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="cloth"
 	civilization_value=42
@@ -138,7 +138,7 @@
 
 502={ #Heroopolis
 	terrain="desert"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="cloth"
 	civilization_value=28
@@ -157,7 +157,7 @@
 
 503={ #Bubastis
 	terrain="flood_plain"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="cattle"
 	civilization_value=33
@@ -177,7 +177,7 @@
 
 504={ #Leontopolis
 	terrain="flood_plain"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="papyrus"
 	civilization_value=38
@@ -205,7 +205,7 @@
 
 505={ #Klysma
 	terrain="desert"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="cloth"
 	civilization_value=33
@@ -225,7 +225,7 @@
 
 506={ #Cleopatris
 	terrain="desert"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="leather"
 	civilization_value=28
@@ -250,7 +250,7 @@
 
 507={ #Leonton Polis
 	terrain="flood_plain"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="papyrus"
 	civilization_value=33
@@ -280,7 +280,7 @@
 
 508={ #Tanis
 	terrain="marsh"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="papyrus"
 	civilization_value=27
@@ -299,7 +299,7 @@
 
 509={ #Pelusium
 	terrain="marsh"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="cloth"
 	civilization_value=32
@@ -332,7 +332,7 @@
 
 510={ #Daphnai
 	terrain="flood_plain"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="papyrus"
 	civilization_value=33
@@ -356,7 +356,7 @@
 
 511={ #Phakoussai
 	terrain="flood_plain"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="grain"
 	civilization_value=33
@@ -379,7 +379,7 @@
 
 512={ #Letopolis
 	terrain="flood_plain"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="cattle"
 	civilization_value=33
@@ -408,7 +408,7 @@
 
 513={ #Athribis
 	terrain="flood_plain"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="grain"
 	civilization_value=33
@@ -432,7 +432,7 @@
 
 514={ #Nikiou
 	terrain="flood_plain"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="grain"
 	civilization_value=33
@@ -452,7 +452,7 @@
 
 515={ #Naukratis
 	terrain="flood_plain"
-	culture="macedonian"
+	culture="khemetine"
 	religion="roman_pantheon"
 	trade_goods="glass"
 	civilization_value=38
@@ -483,7 +483,7 @@
 
 516={ #Alexandria
 	terrain="flood_plain"
-	culture="macedonian"
+	culture="khemetine"
 	religion="roman_pantheon"
 	trade_goods="glass"
 	civilization_value=61
@@ -540,7 +540,7 @@
 
 517={ #Hermopolis Mikra
 	terrain="flood_plain"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="earthware"
 	civilization_value=38
@@ -560,7 +560,7 @@
 
 518={ #Buto
 	terrain="marsh"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="papyrus"
 	civilization_value=32
@@ -580,7 +580,7 @@
 
 519={ #Sais
 	terrain="flood_plain"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="wine"
 	civilization_value=38
@@ -605,7 +605,7 @@
 
 520={ #Xois
 	terrain="flood_plain"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="grain"
 	civilization_value=33
@@ -624,7 +624,7 @@
 
 521={ #Sebennytos
 	terrain="flood_plain"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="hemp"
 	civilization_value=38
@@ -644,7 +644,7 @@
 
 522={ #Diospolis Kato
 	terrain="marsh"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="papyrus"
 	civilization_value=27
@@ -664,7 +664,7 @@
 
 523={ #Pakhnemounis
 	terrain="marsh"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="fish"
 	civilization_value=27
@@ -683,7 +683,7 @@
 
 524={ #Pharbaithos
 	terrain="flood_plain"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="grain"
 	civilization_value=33
@@ -702,7 +702,7 @@
 
 525={ #Sile
 	terrain="desert"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="vegetables"
 	civilization_value=28
@@ -721,7 +721,7 @@
 
 526={ #Onouphis Ano
 	terrain="flood_plain"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="dates"
 	civilization_value=33
@@ -740,7 +740,7 @@
 
 527={ #Atarbechis-Aphroditopolis
 	terrain="flood_plain"
-	culture="macedonian"
+	culture="khemetine"
 	religion="roman_pantheon"
 	trade_goods="grain"
 	civilization_value=33
@@ -759,7 +759,7 @@
 
 528={ #Isieion
 	terrain="flood_plain"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="grain"
 	civilization_value=33
@@ -778,7 +778,7 @@
 
 529={ #Kanopos
 	terrain="flood_plain"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="dye"
 	civilization_value=33
@@ -798,7 +798,7 @@
 
 530={ #Bolbitine
 	terrain="marsh"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="fish"
 	civilization_value=27
@@ -817,7 +817,7 @@
 
 531={ #Psenemphaia
 	terrain="flood_plain"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="dates"
 	civilization_value=33
@@ -836,7 +836,7 @@
 
 532={ #Chaireon
 	terrain="flood_plain"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="vegetables"
 	civilization_value=33
@@ -860,7 +860,7 @@
 
 533={ #Chemmis
 	terrain="marsh"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="fish"
 	civilization_value=27
@@ -879,7 +879,7 @@
 
 534={ #Mendes
 	terrain="flood_plain"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="earthware"
 	civilization_value=38
@@ -940,7 +940,7 @@
 
 536={ #Babylon
 	terrain="flood_plain"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="stone"
 	civilization_value=38
@@ -979,7 +979,7 @@
 
 537={ #Panarachthis
 	terrain="flood_plain"
-	culture="middle_egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="cloth"
 	civilization_value=33
@@ -998,7 +998,7 @@
 
 538={ #Aphroditopolis
 	terrain="flood_plain"
-	culture="middle_egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="cloth"
 	civilization_value=38
@@ -1020,7 +1020,7 @@
 
 539={ #Krokodilopolis
 	terrain="oasis"
-	culture="middle_egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="marble"
 	civilization_value=40
@@ -1062,7 +1062,7 @@
 
 540={ #Dionysias
 	terrain="oasis"
-	culture="macedonian"
+	culture="khemetine"
 	religion="roman_pantheon"
 	trade_goods="grain"
 	civilization_value=33
@@ -1100,7 +1100,7 @@
 
 541={ #Karanis
 	terrain="oasis"
-	culture="middle_egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="grain"
 	civilization_value=33
@@ -1121,7 +1121,7 @@
 
 542={ #Ankyronpolis
 	terrain="flood_plain"
-	culture="middle_egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="grain"
 	civilization_value=31
@@ -1140,7 +1140,7 @@
 
 543={ #Neiloupolis
 	terrain="flood_plain"
-	culture="middle_egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="wine"
 	civilization_value=36
@@ -1159,7 +1159,7 @@
 
 544={ #Herakleopolis
 	terrain="flood_plain"
-	culture="middle_egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="grain"
 	civilization_value=31
@@ -1183,7 +1183,7 @@
 
 545={ #Oxyrhynchus
 	terrain="flood_plain"
-	culture="middle_egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="grain"
 	civilization_value=31
@@ -1210,7 +1210,7 @@
 
 546={ #Kynopolis
 	terrain="flood_plain"
-	culture="middle_egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="stone"
 	civilization_value=31
@@ -1226,7 +1226,7 @@
 
 547={ #Chysis
 	terrain="flood_plain"
-	culture="middle_egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="grain"
 	civilization_value=31
@@ -1245,7 +1245,7 @@
 
 548={ #Alabastronpolis
 	terrain="flood_plain"
-	culture="middle_egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="precious_metals"
 	civilization_value=31
@@ -1264,7 +1264,7 @@
 
 550={ #Thynis
 	terrain="flood_plain"
-	culture="middle_egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="grain"
 	civilization_value=31
@@ -1286,7 +1286,7 @@
 
 655={ #Serapieion
 	terrain="desert"
-	culture="macedonian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="cattle"
 	civilization_value=28
@@ -1539,7 +1539,7 @@
 
 5532={ #Kom Namrud
 	terrain="desert"
-	culture="middle_egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="dates"
 	civilization_value=28
@@ -1555,7 +1555,7 @@
 
 5533={ #Berku
 	terrain="desert"
-	culture="middle_egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="camel"
 	civilization_value=28
@@ -1655,7 +1655,7 @@
 
 5546={ #Pseneros
 	terrain="desert"
-	culture="middle_egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="dates"
 	civilization_value=28
@@ -1668,7 +1668,7 @@
 
 5547={ #Philoteris
 	terrain="oasis"
-	culture="middle_egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="dates"
 	civilization_value=31
@@ -1688,7 +1688,7 @@
 
 5548={ #Kerkethoris
 	terrain="desert"
-	culture="middle_egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="wild_game"
 	civilization_value=28
@@ -1701,7 +1701,7 @@
 
 5549={ #Takyris
 	terrain="flood_plain"
-	culture="middle_egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="grain"
 	civilization_value=31
@@ -1720,7 +1720,7 @@
 
 7668={ #Bilbeis
 	terrain="flood_plain"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="earthware"
 	civilization_value=33
@@ -1739,7 +1739,7 @@
 
 7688={ #Thenessos
 	terrain="marsh"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="cloth"
 	civilization_value=27
@@ -1758,7 +1758,7 @@
 
 7689={ #Hermopolis
 	terrain="flood_plain"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="vegetables"
 	civilization_value=33
@@ -1777,7 +1777,7 @@
 
 7690={ #Tamiathis
 	terrain="marsh"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="papyrus"
 	civilization_value=27
@@ -1796,7 +1796,7 @@
 
 7691={ #Perseos Skope
 	terrain="marsh"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="papyrus"
 	civilization_value=27

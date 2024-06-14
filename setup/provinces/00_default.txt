@@ -1580,7 +1580,7 @@
 
 5154={ #
 	terrain="impassable_terrain"
-	culture="massaesylian"
+	culture="numidu"
 	religion="berber_religion"
 	trade_goods=""
 	civilization_value=0
@@ -3692,16 +3692,6 @@
 	terrain="impassable_terrain"
 	culture="gaetulian"
 	religion="berber_religion"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-5367={ #Tritonis
-	terrain="coastal_terrain"
-	culture=""
-	religion=""
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -8258,16 +8248,6 @@
 	province_rank=""
 }
 
-8090={ #Bazensis
-	terrain="coastal_terrain"
-	culture=""
-	religion=""
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
 8091={ #Biyar
 	terrain="impassable_terrain"
 	culture="garamantic"
@@ -11780,96 +11760,6 @@
 
 12884={ #
 	terrain="riverine_terrain"
-	culture=""
-	religion=""
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-12891={ # 
-	terrain="coastal_terrain"
-	culture=""
-	religion=""
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-12892={ # 
-	terrain="coastal_terrain"
-	culture=""
-	religion=""
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-12893={ # 
-	terrain="coastal_terrain"
-	culture=""
-	religion=""
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-12894={ # 
-	terrain="coastal_terrain"
-	culture=""
-	religion=""
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-12895={ # 
-	terrain="coastal_terrain"
-	culture=""
-	religion=""
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-12896={ # 
-	terrain="coastal_terrain"
-	culture=""
-	religion=""
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-12897={ # 
-	terrain="coastal_terrain"
-	culture=""
-	religion=""
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-12898={ # 
-	terrain="coastal_terrain"
-	culture=""
-	religion=""
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-12899={ # 
-	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""

@@ -1,7 +1,7 @@
 ﻿1144={ #Skodra
 	terrain="forest"
 	culture="taulantian"
-	religion="illyrian_pantheon"
+	religion="mithra_zalmos"
 	trade_goods="olive"
 	civilization_value=18
 	barbarian_power=0
@@ -17,34 +17,33 @@
 4018={ #Tergeste
 	terrain="plains"
 	culture="istrian"
-	religion="illyrian_pantheon"
+	religion="roman_church"
 	trade_goods="wine"
-	civilization_value=10
+	civilization_value=40
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=2
+	}
 	citizen={
-		amount=2
+		amount=5
 	}
 	freemen={
-		amount=1
+		amount=8
 	}
 	freemen={
-		religion="italic_pantheon"
-		amount=1
+		religion="thessalonian_orthodox"
+		amount=4
 	}
-	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		religion="italic_pantheon"
-		amount=1
+	slaves={
+		amount=5
 	}
 }
 
 4019={ #Parentium
 	terrain="farmland"
 	culture="istrian"
-	religion="illyrian_pantheon"
+	religion="roman_church"
 	trade_goods="fish"
 	civilization_value=12
 	barbarian_power=0
@@ -53,24 +52,17 @@
 		amount=1
 	}
 	freemen={
-		amount=1
+		amount=5
 	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		religion="italic_pantheon"
-		amount=2
 	}
 }
 
 4020={ #Pola
 	terrain="farmland"
 	culture="istrian"
-	religion="illyrian_pantheon"
+	religion="roman_church"
 	trade_goods="wine"
 	civilization_value=12
 	barbarian_power=0
@@ -79,18 +71,11 @@
 		amount=2
 	}
 	freemen={
-		amount=1
+		amount=3
 	}
 	freemen={
-		religion="roman_pantheon"
-		amount=1
-	}
-	tribesmen={
+		religion="thessalonian_orthodox"
 		amount=2
-	}
-	tribesmen={
-		religion="italic_pantheon"
-		amount=1
 	}
 	holy_site=omen_histria
 	port_building=1
@@ -99,7 +84,7 @@
 4021={ #Flanona
 	terrain="forest"
 	culture="istrian"
-	religion="illyrian_pantheon"
+	religion="roman_church"
 	trade_goods="wine"
 	civilization_value=8
 	barbarian_power=0
@@ -108,13 +93,10 @@
 		amount=2
 	}
 	freemen={
-		amount=2
+		amount=3
 	}
 	freemen={
-		religion="italic_pantheon"
-		amount=1
-	}
-	tribesmen={
+		religion="thessalonian_orthodox"
 		amount=2
 	}
 	holy_site=omen_ica
@@ -123,7 +105,7 @@
 4022={ #Piquentum
 	terrain="hills"
 	culture="istrian"
-	religion="illyrian_pantheon"
+	religion="roman_church"
 	trade_goods="olive"
 	civilization_value=8
 	barbarian_power=0
@@ -132,42 +114,35 @@
 		amount=2
 	}
 	freemen={
-		amount=1
+		amount=3
+	}
+	freemen={
+		religion="thessalonian_orthodox"
+		amount=2
 	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		religion="italic_pantheon"
-		amount=2
 	}
 }
 
 4023={ #Tarsatica
 	terrain="hills"
 	culture="istrian"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="cloth"
 	civilization_value=8
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
 	citizen={
 		amount=3
 	}
 	freemen={
-		amount=2
+		amount=3
+	}
+	freemen={
+		amount=4
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		religion="italic_pantheon"
 		amount=1
 	}
 }
@@ -175,7 +150,7 @@
 4032={ #Curicum
 	terrain="hills"
 	culture="istrian"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="fish"
 	civilization_value=8
 	barbarian_power=0
@@ -184,16 +159,13 @@
 		amount=2
 	}
 	freemen={
-		amount=1
+		amount=4
+	}
+	freemen={
+		religion="roman_church"
+		amount=2
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=3
-	}
-	tribesmen={
-		religion="italic_pantheon"
 		amount=1
 	}
 }
@@ -201,41 +173,30 @@
 4033={ #Senia
 	terrain="hills"
 	culture="istrian"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="vegetables"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
-	}
-	freemen={
-		amount=1
-	}
-	slaves={
 		amount=3
 	}
-	slaves={
-		religion="italic_pantheon"
+	freemen={
+		amount=6
+	}
+	freemen={
+		culture="magyar"
 		amount=2
 	}
 	slaves={
-		religion="roman_pantheon"
-		amount=2
-	}
-	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		religion="italic_pantheon"
-		amount=1
+		amount=4
 	}
 }
 
 4034={ #Apsaros
 	terrain="hills"
 	culture="istrian"
-	religion="roman_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -244,20 +205,9 @@
 		amount=1
 	}
 	freemen={
-		amount=2
-	}
-	tribesmen={
-		culture="histrian"
-		amount=1
-	}
-	tribesmen={
-		culture="histrian"
-		religion="italic_pantheon"
-		amount=1
+		amount=4
 	}
 	slaves={
-		culture="histrian"
-		religion="illyrian_pantheon"
 		amount=1
 	}
 }
@@ -265,7 +215,7 @@
 4035={ #Ortopla
 	terrain="hills"
 	culture="magyar"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="salt"
 	civilization_value=8
 	barbarian_power=0
@@ -274,86 +224,58 @@
 		amount=2
 	}
 	freemen={
-		amount=1
+		amount=4
 	}
 	slaves={
 		amount=2
-	}
-	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		religion="italic_pantheon"
-		amount=1
 	}
 }
 
 4036={ #Metulum
 	terrain="forest"
 	culture="golden_avar"
-	religion="illyrian_pantheon"
+	religion="avar_church"
 	trade_goods="fur"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount=3
 	}
 	slaves={
 		amount=2
-	}
-	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		religion="italic_pantheon"
-		amount=1
 	}
 }
 
 4038={ #Andautonia
 	terrain="hills"
 	culture="istrian"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="wood"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount=3
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		religion="italic_pantheon"
-		amount=1
 	}
 }
 
 4040={ #Ad Fines Catariae
 	terrain="forest"
 	culture="golden_avar"
-	religion="illyrian_pantheon"
+	religion="avar_church"
 	trade_goods="vegetables"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount=5
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		religion="italic_pantheon"
-		amount=1
 	}
 	holy_site=omen_vidasus
 }
@@ -361,77 +283,79 @@
 4041={ #Segestica
 	terrain="hills"
 	culture="golden_avar"
-	religion="illyrian_pantheon"
+	religion="avar_church"
 	trade_goods="cattle"
-	civilization_value=8
+	civilization_value=40
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=2
 	}
-	tribesmen={
-		amount=1
+	citizen={
+		amount=7
+	}
+	freemen={
+		amount=9
+	}
+	freemen={
+		culture="magyar"
+		religion="thessalonian_orthodox"
+		amount=4
+	}
+	slaves={
+		amount=6
 	}
 }
 
 4042={ #Raetinium
 	terrain="forest"
 	culture="golden_avar"
-	religion="illyrian_pantheon"
+	religion="avar_church"
 	trade_goods="wood"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount=3
 	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		amount=2
 	}
 }
 
 4043={ #Clandate
 	terrain="forest"
 	culture="golden_avar"
-	religion="illyrian_pantheon"
+	religion="avar_church"
 	trade_goods="horses"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount=4
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=3
+		amount=2
 	}
 }
 
 4044={ #Crucium
 	terrain="hills"
 	culture="istrian"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="wood"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
-	}
-	tribesmen={
-		amount=2
+		amount=4
 	}
 }
 
 4045={ #Colapia
 	terrain="forest"
 	culture="golden_avar"
-	religion="illyrian_pantheon"
+	religion="avar_church"
 	trade_goods="fur"
 	civilization_value=8
 	barbarian_power=0
@@ -443,6 +367,8 @@
 		amount=1
 	}
 	slaves={
+		culture="istrian"
+		religion="thessalonian_orthodox"
 		amount=1
 	}
 }
@@ -450,89 +376,72 @@
 4046={ #Valdasus
 	terrain="farmland"
 	culture="golden_avar"
-	religion="illyrian_pantheon"
+	religion="avar_church"
 	trade_goods="horses"
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount=5
 	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		amount=3
 	}
 }
 
 4049={ #Vegium
 	terrain="hills"
 	culture="magyar"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="olive"
 	civilization_value=8
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=4
+	}
 	freemen={
-		amount=1
+		amount=8
 	}
-	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		religion="italic_pantheon"
-		amount=1
+	slaves={
+		amount=5
 	}
 }
 
 4050={ #Arupium
 	terrain="hills"
 	culture="magyar"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="leather"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount=4
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		religion="italic_pantheon"
-		amount=1
+		culture="istrian"
+		amount=2
 	}
 }
 
 4051={ #Ancus
 	terrain="forest"
 	culture="magyar"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="wood"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
-	}
-	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		religion="italic_pantheon"
-		amount=1
+		amount=4
 	}
 }
 
 4052={ #Kissa
 	terrain="plains"
 	culture="magyar"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -541,24 +450,17 @@
 		amount=2
 	}
 	freemen={
-		amount=1
+		amount=4
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		religion="italic_pantheon"
-		amount=1
+		amount=2
 	}
 }
 
 4053={ #Ainona
 	terrain="farmland"
 	culture="romaioi"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="fish"
 	civilization_value=12
 	barbarian_power=0
@@ -567,13 +469,10 @@
 		amount=2
 	}
 	freemen={
-		amount=1
+		amount=5
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=5
+		amount=2
 	}
 	holy_site=omen_latra
 }
@@ -581,23 +480,16 @@
 4054={ #Idassa
 	terrain="plains"
 	culture="romaioi"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="fish"
 	civilization_value=15
 	barbarian_power=0
 	province_rank="city"
 	freemen={
-		amount=1
+		amount=8
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=3
-	}
-	tribesmen={
-		religion="roman_pantheon"
-		amount=1
+		amount=2
 	}
 	port_building=1
 }
@@ -605,7 +497,7 @@
 4055={ #Argyruntum
 	terrain="hills"
 	culture="romaioi"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="leather"
 	civilization_value=8
 	barbarian_power=0
@@ -614,39 +506,25 @@
 		amount=1
 	}
 	freemen={
-		amount=1
+		amount=5
 	}
 	slaves={
 		amount=2
-	}
-	tribesmen={
-		amount=3
-	}
-	tribesmen={
-		religion="italic_pantheon"
-		amount=1
 	}
 }
 
 4056={ #Asseria
 	terrain="farmland"
 	culture="romaioi"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="grain"
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount=5
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		religion="italic_pantheon"
 		amount=1
 	}
 }
@@ -654,61 +532,44 @@
 4057={ #Bournion
 	terrain="farmland"
 	culture="romaioi"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="cattle"
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount=4
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=4
+		amount=2
 	}
 }
 
 4058={ #Skardon
 	terrain="plains"
 	culture="romaioi"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
-	}
-	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		religion="italic_pantheon"
-		amount=1
+		amount=4
 	}
 }
 
 4059={ #Synodion
 	terrain="farmland"
 	culture="romaioi"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="olive"
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount=4
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		religion="italic_pantheon"
 		amount=1
 	}
 }
@@ -716,20 +577,13 @@
 4060={ #Tragourion
 	terrain="farmland"
 	culture="romaioi"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="hemp"
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=2
-	}
-	tribesmen={
-		religion="roman_pantheon"
-		amount=1
+		amount=4
 	}
 	port_building=1
 }
@@ -737,23 +591,20 @@
 4061={ #Splonum
 	terrain="mountain"
 	culture="patzinak"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="fur"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=2
+		amount=3
 	}
 }
 
 4062={ #Salona
 	terrain="hills"
 	culture="romaioi"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="marble"
 	civilization_value=8
 	barbarian_power=0
@@ -762,35 +613,25 @@
 		amount=1
 	}
 	freemen={
-		amount=1
+		amount=5
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		religion="italic_pantheon"
-		amount=1
 	}
 }
 
 4063={ #Osinion
 	terrain="forest"
 	culture="romaioi"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="cattle"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount=4
 	}
 	slaves={
-		amount=2
-	}
-	tribesmen={
 		amount=2
 	}
 }
@@ -798,57 +639,48 @@
 4064={ #Pelva
 	terrain="forest"
 	culture="patzinak"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="vegetables"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount=5
 	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		amount=2
 	}
 }
 
 4065={ #Salvium
 	terrain="hills"
 	culture="patzinak"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="vegetables"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount=5
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=3
+		amount=2
 	}
 }
 
 4066={ #Delminion
 	terrain="forest"
 	culture="romaioi"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="cattle"
 	civilization_value=8
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
 	freemen={
-		amount=1
+		amount=8
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=4
+		amount=2
 	}
 	holy_site=omen_tadenus
 }
@@ -856,7 +688,7 @@
 4067={ #Bariduum
 	terrain="forest"
 	culture="patzinak"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="cattle"
 	civilization_value=8
 	barbarian_power=0
@@ -865,58 +697,49 @@
 		amount=1
 	}
 	freemen={
-		amount=2
+		amount=5
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=3
+		amount=2
 	}
 }
 
 4068={ #Bistua Nova
 	terrain="forest"
 	culture="patzinak"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="wood"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount=6
 	}
 	slaves={
 		amount=3
-	}
-	tribesmen={
-		amount=5
 	}
 }
 
 4069={ #Ad Matricem
 	terrain="forest"
 	culture="patzinak"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="wood"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount=3
 	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		amount=2
 	}
 }
 
 4070={ #Baloia
 	terrain="hills"
 	culture="patzinak"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="wood"
 	civilization_value=8
 	barbarian_power=0
@@ -925,12 +748,9 @@
 		amount=1
 	}
 	freemen={
-		amount=1
+		amount=5
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
 		amount=3
 	}
 }
@@ -938,26 +758,23 @@
 4071={ #Leusaba
 	terrain="hills"
 	culture="golden_avar"
-	religion="illyrian_pantheon"
+	religion="avar_church"
 	trade_goods="vegetables"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount=6
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=3
+		amount=2
 	}
 }
 
 4072={ #Aemate
 	terrain="forest"
 	culture="golden_avar"
-	religion="illyrian_pantheon"
+	religion="avar_church"
 	trade_goods="woad"
 	civilization_value=8
 	barbarian_power=0
@@ -966,39 +783,33 @@
 		amount=1
 	}
 	freemen={
-		amount=1
+		amount=3
 	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		amount=2
 	}
 }
 
 4073={ #Ad Praetorium
 	terrain="forest"
 	culture="golden_avar"
-	religion="illyrian_pantheon"
+	religion="avar_church"
 	trade_goods="stone"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount=5
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=5
+		amount=2
 	}
 }
 
 4074={ #Servitium
 	terrain="hills"
 	culture="golden_avar"
-	religion="illyrian_pantheon"
+	religion="avar_church"
 	trade_goods="stone"
 	civilization_value=8
 	barbarian_power=0
@@ -1007,39 +818,33 @@
 		amount=1
 	}
 	freemen={
-		amount=3
+		amount=7
 	}
 	slaves={
 		amount=2
-	}
-	tribesmen={
-		amount=4
 	}
 }
 
 4075={ #Castra
 	terrain="plains"
 	culture="golden_avar"
-	religion="illyrian_pantheon"
+	religion="avar_church"
 	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount=4
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=4
+		amount=2
 	}
 }
 
 4076={ #Urbate
 	terrain="forest"
 	culture="golden_avar"
-	religion="illyrian_pantheon"
+	religion="avar_church"
 	trade_goods="wood"
 	civilization_value=8
 	barbarian_power=0
@@ -1048,71 +853,59 @@
 		amount=1
 	}
 	freemen={
-		amount=2
+		amount=6
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=4
+		amount=2
 	}
 }
 
 4078={ #Bercellum
 	terrain="hills"
 	culture="patzinak"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="horses"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
-	}
-	tribesmen={
-		amount=3
+		amount=5
 	}
 }
 
 4079={ #Stanecli
 	terrain="forest"
 	culture="patzinak"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="wood"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=2
+		amount=4
 	}
 }
 
 4080={ #Aquae Sulphurae
 	terrain="forest"
 	culture="patzinak"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="cattle"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount=4
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=3
+		amount=2
 	}
 }
 
 4081={ #Angeliai
 	terrain="hills"
 	culture="romaioi"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="grain"
 	civilization_value=8
 	barbarian_power=0
@@ -1121,43 +914,33 @@
 		amount=1
 	}
 	freemen={
-		amount=1
+		amount=5
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=3
-	}
-	tribesmen={
-		religion="italic_pantheon"
-		amount=1
+		amount=2
 	}
 }
 
 4082={ #Narona
 	terrain="farmland"
 	culture="romaioi"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="fish"
 	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount=3
 	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		amount=2
 	}
 }
 
 4083={ #Dilenton
 	terrain="farmland"
 	culture="romaioi"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="olive"
 	civilization_value=12
 	barbarian_power=0
@@ -1166,20 +949,17 @@
 		amount=1
 	}
 	freemen={
-		amount=1
+		amount=3
 	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		amount=2
 	}
 }
 
 4084={ #Pharos
 	terrain="hills"
 	culture="romaioi"
-	religion="roman_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -1188,15 +968,9 @@
 		amount=1
 	}
 	freemen={
-		amount=3
-	}
-	tribesmen={
-		culture="greco_illyrian"
-		amount=2
+		amount=5
 	}
 	slaves={
-		culture="greco_illyrian"
-		religion="illyrian_pantheon"
 		amount=2
 	}
 	port_building=1
@@ -1205,32 +979,19 @@
 4085={ #Epidauros Illyrikos
 	terrain="hills"
 	culture="romaioi"
-	religion="roman_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="salt"
-	civilization_value=29
+	civilization_value=30
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=1
+		amount=5
 	}
 	freemen={
-		amount=2
+		amount=8
 	}
 	slaves={
-		amount=1
-	}
-	slaves={
-		culture="taulantian"
-		amount=1
-	}
-	tribesmen={
-		culture="taulantian"
-		amount=1
-	}
-	tribesmen={
-		culture="greco_illyrian"
-		religion="illyrian_pantheon"
-		amount=2
+		amount=4
 	}
 	port_building=1
 }
@@ -1238,42 +999,36 @@
 4086={ #Salthua
 	terrain="forest"
 	culture="romaioi"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="wine"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=2
+		amount=3
 	}
 }
 
 4087={ #Anderba
 	terrain="forest"
 	culture="romaioi"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="olive"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount=3
 	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		amount=2
 	}
 }
 
 4088={ #Rhizon
 	terrain="hills"
 	culture="romaioi"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="fish"
 	civilization_value=8
 	barbarian_power=0
@@ -1290,7 +1045,7 @@
 4089={ #Meteon
 	terrain="forest"
 	culture="taulantian"
-	religion="illyrian_pantheon"
+	religion="mithra_zalmos"
 	trade_goods="earthware"
 	civilization_value=8
 	barbarian_power=0
@@ -1309,7 +1064,7 @@
 4090={ #Bouthoe
 	terrain="hills"
 	culture="taulantian"
-	religion="illyrian_pantheon"
+	religion="mithra_zalmos"
 	trade_goods="salt"
 	civilization_value=8
 	barbarian_power=0
@@ -1326,7 +1081,7 @@
 4091={ #Askrebion
 	terrain="hills"
 	culture="romaioi"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="wine"
 	civilization_value=8
 	barbarian_power=0
@@ -1342,64 +1097,55 @@
 4104={ #Leusinium
 	terrain="mountain"
 	culture="romaioi"
-	religion="illyrian_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="stone"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount=4
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=3
+		amount=2
 	}
 }
 
 4105={ #Pecina
 	terrain="mountain"
 	culture="patzinak"
-	religion="illyrian_pantheon"
+	religion="jayayan_zalmukh"
 	trade_goods="wood"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount=7
 	}
 	slaves={
 		amount=2
-	}
-	tribesmen={
-		amount=4
 	}
 }
 
 4107={ #Haedum
 	terrain="forest"
 	culture="patzinak"
-	religion="illyrian_pantheon"
+	religion="jayayan_zalmukh"
 	trade_goods="woad"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount=5
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=3
+		amount=2
 	}
 }
 
 8026={ #Issa
 	terrain="hills"
 	culture="romaioi"
-	religion="roman_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="wine"
 	civilization_value=29
 	barbarian_power=0
@@ -1408,14 +1154,9 @@
 		amount=2
 	}
 	freemen={
-		amount=3
-	}
-	tribesmen={
-		culture="greco_illyrian"
-		amount=1
+		amount=4
 	}
 	slaves={
-		culture="greco_illyrian"
 		amount=3
 	}
 	port_building=1
@@ -1424,7 +1165,7 @@
 8027={ #Korkyra Melaina
 	terrain="hills"
 	culture="romaioi"
-	religion="roman_pantheon"
+	religion="thessalonian_orthodox"
 	trade_goods="olive"
 	civilization_value=24
 	barbarian_power=0
@@ -1433,14 +1174,9 @@
 		amount=1
 	}
 	freemen={
-		amount=2
-	}
-	tribesmen={
-		culture="greco_illyrian"
-		amount=2
+		amount=4
 	}
 	slaves={
-		culture="greco_illyrian"
 		amount=1
 	}
 	port_building=1

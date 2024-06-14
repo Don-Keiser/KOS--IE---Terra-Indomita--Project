@@ -1,6 +1,6 @@
 ﻿1019={ #Clunia
 	terrain="plains"
-	culture="toledu"
+	culture="vacchaian"
 	religion="arian_church"
 	trade_goods="wine"
 	civilization_value=11
@@ -32,7 +32,7 @@
 
 1021={ #Palantia
 	terrain="plains"
-	culture="toledu"
+	culture="asturianu"
 	religion="arian_church"
 	trade_goods="wood"
 	civilization_value=11
@@ -51,7 +51,7 @@
 
 1022={ #Segovia
 	terrain="plains"
-	culture="toledu"
+	culture="vacchaian"
 	religion="arian_church"
 	trade_goods="fur"
 	civilization_value=11
@@ -67,7 +67,7 @@
 
 1041={ #Intercatia
 	terrain="plains"
-	culture="toledu"
+	culture="asturianu"
 	religion="arian_church"
 	trade_goods="woad"
 	civilization_value=11
@@ -175,7 +175,7 @@
 
 1093={ #Nova Augusta
 	terrain="plains"
-	culture="toledu"
+	culture="asturianu"
 	religion="arian_church"
 	trade_goods="cloth"
 	civilization_value=11
@@ -464,7 +464,7 @@
 
 1123={ #Mons Rubeum
 	terrain="forest"
-	culture="asturianu"
+	culture="galetzian"
 	religion="arian_church"
 	trade_goods="precious_metals"
 	civilization_value=9
@@ -483,7 +483,7 @@
 
 1124={ #Paesicia
 	terrain="hills"
-	culture="asturianu"
+	culture="galetzian"
 	religion="arian_church"
 	trade_goods="grain"
 	civilization_value=9
@@ -499,7 +499,7 @@
 
 1125={ #Villadonga
 	terrain="hills"
-	culture="asturianu"
+	culture="galetzian"
 	religion="arian_church"
 	trade_goods="steppe_horses"
 	civilization_value=9
@@ -531,7 +531,7 @@
 
 1127={ #Bergidum Flavium
 	terrain="forest"
-	culture="asturianu"
+	culture="galetzian"
 	religion="arian_church"
 	trade_goods="stone"
 	civilization_value=9
@@ -547,7 +547,7 @@
 
 1128={ #Uttaris
 	terrain="farmland"
-	culture="asturianu"
+	culture="galetzian"
 	religion="arian_church"
 	trade_goods="fur"
 	civilization_value=13
@@ -814,7 +814,7 @@
 
 1145={ #Gemestarum
 	terrain="forest"
-	culture="asturianu"
+	culture="galetzian"
 	religion="arian_church"
 	trade_goods="precious_metals"
 	civilization_value=9
@@ -976,7 +976,7 @@
 
 1165={ #Nemetobriga
 	terrain="plains"
-	culture="asturianu"
+	culture="galetzian"
 	religion="arian_church"
 	trade_goods="fur"
 	civilization_value=11
@@ -992,7 +992,7 @@
 
 1166={ #Gigurria
 	terrain="plains"
-	culture="asturianu"
+	culture="galetzian"
 	religion="arian_church"
 	trade_goods="cattle"
 	civilization_value=11
@@ -1072,7 +1072,7 @@
 
 1174={ #Amallobriga
 	terrain="forest"
-	culture="toledu"
+	culture="vacchaian"
 	religion="arian_church"
 	trade_goods="wood"
 	civilization_value=9
@@ -1088,7 +1088,7 @@
 
 1175={ #Septimanca
 	terrain="plains"
-	culture="toledu"
+	culture="vacchaian"
 	religion="arian_church"
 	trade_goods="cattle"
 	civilization_value=11
@@ -1104,7 +1104,7 @@
 
 1177={ #Cauca
 	terrain="plains"
-	culture="toledu"
+	culture="vacchaian"
 	religion="arian_church"
 	trade_goods="marble"
 	civilization_value=11
@@ -1136,7 +1136,7 @@
 
 1181={ #Gella
 	terrain="plains"
-	culture="toledu"
+	culture="asturianu"
 	religion="arian_church"
 	trade_goods="leather"
 	civilization_value=11
@@ -1152,7 +1152,7 @@
 
 1182={ #Balneos
 	terrain="plains"
-	culture="toledu"
+	culture="vacchaian"
 	religion="arian_church"
 	trade_goods="wood"
 	civilization_value=11
@@ -1168,7 +1168,7 @@
 
 1183={ #Vaccaeia Deserta
 	terrain="plains"
-	culture="toledu"
+	culture="vacchaian"
 	religion="arian_church"
 	trade_goods="leather"
 	civilization_value=11
@@ -1184,7 +1184,7 @@
 
 1184={ #Vaccaeia Relicta
 	terrain="plains"
-	culture="toledu"
+	culture="vacchaian"
 	religion="arian_church"
 	trade_goods="marble"
 	civilization_value=11
@@ -1213,7 +1213,7 @@
 
 1186={ #Viminacium
 	terrain="plains"
-	culture="toledu"
+	culture="asturianu"
 	religion="arian_church"
 	trade_goods="precious_metals"
 	civilization_value=11
@@ -1229,7 +1229,7 @@
 
 1187={ #Lacobriga
 	terrain="plains"
-	culture="toledu"
+	culture="asturianu"
 	religion="arian_church"
 	trade_goods="olive"
 	civilization_value=11
@@ -1245,7 +1245,7 @@
 
 1189={ #Lateremum
 	terrain="plains"
-	culture="toledu"
+	culture="asturianu"
 	religion="arian_church"
 	trade_goods="precious_metals"
 	civilization_value=11
@@ -1261,7 +1261,7 @@
 
 1190={ #Pampligua
 	terrain="plains"
-	culture="toledu"
+	culture="asturianu"
 	religion="arian_church"
 	trade_goods="wood"
 	civilization_value=11
@@ -1277,7 +1277,7 @@
 
 1191={ #Rauda
 	terrain="plains"
-	culture="toledu"
+	culture="vacchaian"
 	religion="arian_church"
 	trade_goods="wine"
 	civilization_value=11
@@ -1293,7 +1293,7 @@
 
 1192={ #Pintia
 	terrain="plains"
-	culture="toledu"
+	culture="vacchaian"
 	religion="arian_church"
 	trade_goods="wine"
 	civilization_value=11
@@ -1309,7 +1309,7 @@
 
 1193={ #Confluentia
 	terrain="plains"
-	culture="toledu"
+	culture="vacchaian"
 	religion="arian_church"
 	trade_goods="fur"
 	civilization_value=11

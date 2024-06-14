@@ -307,7 +307,7 @@
 
 6140={ #Tahent
 	terrain="steppes"
-	culture="sarmatian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="grain"
 	civilization_value=0
@@ -323,7 +323,7 @@
 
 6143={ #Aghonor
 	terrain="steppes"
-	culture="sarmatian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="grain"
 	civilization_value=0
@@ -336,7 +336,7 @@
 
 6148={ #Nynt
 	terrain="steppes"
-	culture="sarmatian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -355,7 +355,7 @@
 
 6149={ #Ghahko
 	terrain="steppes"
-	culture="sarmatian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="wood"
 	civilization_value=0
@@ -374,7 +374,7 @@
 
 6150={ #Kihkyengra
 	terrain="steppes"
-	culture="sarmatian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="wild_game"
 	civilization_value=0
@@ -387,7 +387,7 @@
 
 6151={ #Alkhyent
 	terrain="steppes"
-	culture="sarmatian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="woad"
 	civilization_value=0
@@ -400,7 +400,7 @@
 
 6152={ #Kilgad
 	terrain="steppes"
-	culture="sarmatian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="woad"
 	civilization_value=0
@@ -413,7 +413,7 @@
 
 6153={ #Uldan
 	terrain="steppes"
-	culture="sarmatian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="cattle"
 	civilization_value=0
@@ -435,7 +435,7 @@
 
 6154={ #Rynek
 	terrain="steppes"
-	culture="sarmatian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="steppe_horses"
 	civilization_value=0
@@ -451,7 +451,7 @@
 
 6155={ #Kisko
 	terrain="steppes"
-	culture="sarmatian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="steppe_horses"
 	civilization_value=0
@@ -464,7 +464,7 @@
 
 6156={ #Aihkohna
 	terrain="steppes"
-	culture="sarmatian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="cattle"
 	civilization_value=0
@@ -477,7 +477,7 @@
 
 6157={ #Shgaritat
 	terrain="steppes"
-	culture="sarmatian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="hemp"
 	civilization_value=0
@@ -493,7 +493,7 @@
 
 6158={ #Unige
 	terrain="steppes"
-	culture="sarmatian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="steppe_horses"
 	civilization_value=0
@@ -506,7 +506,7 @@
 
 6159={ #Stat
 	terrain="steppes"
-	culture="sarmatian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="woad"
 	civilization_value=0
@@ -558,7 +558,7 @@
 
 6163={ #Vyonots
 	terrain="steppes"
-	culture="sarmatian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="grain"
 	civilization_value=0
@@ -574,7 +574,7 @@
 
 6164={ #Shchor
 	terrain="steppes"
-	culture="sarmatian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="hemp"
 	civilization_value=0

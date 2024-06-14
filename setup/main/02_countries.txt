@@ -369,6 +369,7 @@ country = {
 			capital = 4152 #Tranoupara	
 			
 			own_control_core = {
+				12907
 				393 397 405 4108 4109
 				497 4303 4304 4305 4153 498 4152 4117 499 4096 4097 4306 4302 #Paeonia
 			}

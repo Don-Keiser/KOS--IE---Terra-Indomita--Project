@@ -1202,7 +1202,7 @@
 
 3476={ #Pnigeus
 	terrain="desert"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="cattle"
 	civilization_value=28
@@ -1219,7 +1219,7 @@
 
 3477={ #Pedonia
 	terrain="desert"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="fish"
 	civilization_value=28
@@ -1235,7 +1235,7 @@
 
 3478={ #Derras
 	terrain="desert"
-	culture="egyptian"
+	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="fish"
 	civilization_value=28

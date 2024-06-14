@@ -259,7 +259,7 @@
 
 1013={ #Salduba
 	terrain="plains"
-	culture="toledu"
+	culture="tarragones"
 	religion="roman_church"
 	trade_goods="wine"
 	civilization_value=11
@@ -291,7 +291,7 @@
 
 1015={ #Bilbilis
 	terrain="hills"
-	culture="toledu"
+	culture="tarragones"
 	religion="roman_church"
 	trade_goods="wine"
 	civilization_value=9
@@ -344,7 +344,7 @@
 
 1018={ #Numantia
 	terrain="plains"
-	culture="toledu"
+	culture="vacchaian"
 	religion="roman_church"
 	trade_goods="stone"
 	civilization_value=11
@@ -699,7 +699,7 @@
 
 1072={ #Gallicum
 	terrain="plains"
-	culture="vasconian"
+	culture="tarragones"
 	religion="roman_church"
 	trade_goods="marble"
 	civilization_value=11
@@ -939,7 +939,7 @@
 
 1088={ #Ilurcis
 	terrain="forest"
-	culture="vasconian"
+	culture="tarragones"
 	religion="roman_church"
 	trade_goods="fur"
 	civilization_value=9
@@ -955,7 +955,7 @@
 
 1089={ #Cascantum
 	terrain="hills"
-	culture="toledu"
+	culture="tarragones"
 	religion="roman_church"
 	trade_goods="stone"
 	civilization_value=9
@@ -971,7 +971,7 @@
 
 1090={ #Tertakom
 	terrain="hills"
-	culture="toledu"
+	culture="tarragones"
 	religion="roman_church"
 	trade_goods="cloth"
 	civilization_value=9
@@ -993,7 +993,7 @@
 
 1091={ #Augustobriga
 	terrain="plains"
-	culture="toledu"
+	culture="vacchaian"
 	religion="roman_church"
 	trade_goods="earthware"
 	civilization_value=11
@@ -1012,7 +1012,7 @@
 
 1092={ #Ouisontion
 	terrain="plains"
-	culture="toledu"
+	culture="vacchaian"
 	religion="roman_church"
 	trade_goods="stone"
 	civilization_value=11
@@ -1245,7 +1245,7 @@
 
 1188={ #Autraca
 	terrain="plains"
-	culture="toledu"
+	culture="asturianu"
 	religion="roman_church"
 	trade_goods="cloth"
 	civilization_value=11
@@ -1267,7 +1267,7 @@
 
 1212={ #Sermonae
 	terrain="plains"
-	culture="toledu"
+	culture="tarragones"
 	religion="roman_church"
 	trade_goods="precious_metals"
 	civilization_value=11
@@ -1286,7 +1286,7 @@
 
 1213={ #Segeda
 	terrain="hills"
-	culture="toledu"
+	culture="tarragones"
 	religion="roman_church"
 	trade_goods="wood"
 	civilization_value=14
@@ -1305,7 +1305,7 @@
 
 1214={ #Carae
 	terrain="plains"
-	culture="toledu"
+	culture="tarragones"
 	religion="roman_church"
 	trade_goods="stone"
 	civilization_value=11
@@ -1337,7 +1337,7 @@
 
 1218={ #Voluca
 	terrain="plains"
-	culture="toledu"
+	culture="vacchaian"
 	religion="roman_church"
 	trade_goods="stone"
 	civilization_value=15
@@ -1356,7 +1356,7 @@
 
 1219={ #Uxama Argaela
 	terrain="hills"
-	culture="toledu"
+	culture="vacchaian"
 	religion="roman_church"
 	trade_goods="base_metals"
 	civilization_value=9
@@ -1448,7 +1448,7 @@
 
 1225={ #Tucris
 	terrain="plains"
-	culture="toledu"
+	culture="vacchaian"
 	religion="roman_church"
 	trade_goods="fur"
 	civilization_value=11
@@ -1464,7 +1464,7 @@
 
 1226={ #Mallia
 	terrain="plains"
-	culture="toledu"
+	culture="vacchaian"
 	religion="roman_church"
 	trade_goods="earthware"
 	civilization_value=11
@@ -1483,7 +1483,7 @@
 
 1227={ #Lagni
 	terrain="plains"
-	culture="toledu"
+	culture="vacchaian"
 	religion="roman_church"
 	trade_goods="cattle"
 	civilization_value=11
@@ -1588,7 +1588,7 @@
 
 1240={ #Etobesa
 	terrain="plains"
-	culture="tarragones"
+	culture="cartagenu"
 	religion="roman_church"
 	trade_goods="hemp"
 	civilization_value=10
@@ -1675,7 +1675,7 @@
 
 1245={ #Rubium
 	terrain="plains"
-	culture="tarragones"
+	culture="cartagenu"
 	religion="roman_church"
 	trade_goods="olive"
 	civilization_value=10
@@ -1691,7 +1691,7 @@
 
 1246={ #Dentum
 	terrain="plains"
-	culture="tarragones"
+	culture="cartagenu"
 	religion="roman_church"
 	trade_goods="wine"
 	civilization_value=10
