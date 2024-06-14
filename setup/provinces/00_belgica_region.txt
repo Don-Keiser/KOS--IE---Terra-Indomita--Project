@@ -1741,7 +1741,7 @@
 
 3728={ #Icorigium
 	terrain="forest"
-	culture="gruttfrysk"
+	culture="ostrisch"
 	religion="roman_church"
 	trade_goods="earthware"
 	civilization_value=9

@@ -21,7 +21,7 @@ sea_zones = RANGE { 5670 5865 }
 sea_zones = RANGE { 4589 4599 }
 sea_zones = RANGE { 7743 7750 }
 sea_zones = RANGE { 7847 7860 } # New Impassable Seazones
-sea_zones = LIST { 6418 6436 6437 7906 7907 8019 8020 }
+sea_zones = LIST { 5367 6418 6436 6437 7906 7907 8019 8020 8090 }
 sea_zones = LIST { 12891 12892 12893 12894 12895 12896 12897 12898 12899 }
 
 #Wastelands, List:
@@ -134,10 +134,9 @@ sea_zones = RANGE { 9852 9864 }
 sea_zones = RANGE { 9865 9870 }
 
 #Uninhabitables, TI:
-uninhabitable = RANGE { 10176 10180 }
 uninhabitable = RANGE { 10498 10501 }
 uninhabitable = RANGE { 12726 12730 }
-uninhabitable = LIST { 9311 9944 9945 9968 9969 9970 9987 9988 9989 10048 10049 10169 11203 11204 11258 11259 }
+uninhabitable = LIST { 9311 11203 11204 11258 11259 }
 
 #Impassables, TI:
 impassable_terrain = LIST { 3292 6354 9387 11057 11058 11059 12881 12882 }
@@ -152,7 +151,7 @@ impassable_terrain = RANGE { 12668 12677 }
 #Lakes, TI:
 lakes = RANGE { 11136 11196 }
 lakes = RANGE { 11545 11550 }
-lakes = LIST { 5320 5367 8090 10644 11135 }
+lakes = LIST { 5320 10644 11135 }
 
 #Seazones, TI:
 sea_zones = RANGE { 10512 10527 }

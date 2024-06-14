@@ -1,6 +1,6 @@
 ﻿4530={ #Hippolaou Akra
 	terrain="forest"
-	culture="bosporan"
+	culture="etelkozi"
 	religion="roman_pantheon"
 	trade_goods="steppe_horses"
 	civilization_value=19
@@ -18,7 +18,7 @@
 
 4531={ #Borystheneia
 	terrain="forest"
-	culture="bosporan"
+	culture="etelkozi"
 	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=21
@@ -42,7 +42,7 @@
 
 4532={ #Hylaia
 	terrain="forest"
-	culture="scythian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="wild_game"
 	civilization_value=12
@@ -71,7 +71,7 @@
 
 4533={ #Taphros
 	terrain="forest"
-	culture="scythian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="salt"
 	civilization_value=15
@@ -591,7 +591,7 @@
 
 4551={ #Coretia
 	terrain="forest"
-	culture="scythian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="wine"
 	civilization_value=12
@@ -615,7 +615,7 @@
 
 4552={ #Limnaioi
 	terrain="forest"
-	culture="scythian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="steppe_horses"
 	civilization_value=12
@@ -651,7 +651,7 @@
 
 4553={ #Kremnoi
 	terrain="plains"
-	culture="sarmatian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="steppe_horses"
 	civilization_value=12
@@ -680,7 +680,7 @@
 
 4554={ #Halieuma Theou
 	terrain="plains"
-	culture="sarmatian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="fur"
 	civilization_value=12
@@ -707,7 +707,7 @@
 
 4555={ #Hygreis
 	terrain="marsh"
-	culture="sarmatian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="wild_game"
 	civilization_value=12
@@ -1572,7 +1572,7 @@
 
 6124={ #Syti
 	terrain="plains"
-	culture="scythian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="cattle"
 	civilization_value=13
@@ -1606,7 +1606,7 @@
 
 6144={ #Borysthenia
 	terrain="plains"
-	culture="scythian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="steppe_horses"
 	civilization_value=21
@@ -1668,7 +1668,7 @@
 
 6146={ #Aegha
 	terrain="steppes"
-	culture="scythian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="fur"
 	civilization_value=13
@@ -1681,7 +1681,7 @@
 
 6147={ #Ruti
 	terrain="steppes"
-	culture="scythian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="iron"
 	civilization_value=13
@@ -1697,7 +1697,7 @@
 
 7190={ #Kanit
 	terrain="forest"
-	culture="scythian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="cattle"
 	civilization_value=11
@@ -1723,7 +1723,7 @@
 
 7192={ #Sarmapolis
 	terrain="forest"
-	culture="scythian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="wood"
 	civilization_value=9
@@ -1755,7 +1755,7 @@
 
 7193={ #Settina
 	terrain="steppes"
-	culture="sarmatian"
+	culture="etelkozi"
 	religion="indo_iranian_religion"
 	trade_goods="grain"
 	civilization_value=11

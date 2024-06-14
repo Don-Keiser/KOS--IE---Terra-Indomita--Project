@@ -1371,7 +1371,7 @@ hawad_area = { #8
 }
 
 hayaa_area = { #8
-	provinces = { 9979 9980 9981 9982 9983 9984 9985 9986 }
+	provinces = { 9981 9982 9983 9984 9985 12904 12905 12906 }
 }
 
 hedong_area = { #12
@@ -1459,7 +1459,7 @@ hibernia_septentrionalis_area = { #14
 }
 
 himka_area = { #6
-	provinces = { 9998 9999 10000 10001 10002 10003 }
+	provinces = { 9999 10000 10001 10002 10003 }
 }
 
 histria_area = { #8
@@ -2423,7 +2423,7 @@ muradava_area = { #7
 }
 
 murzuq_area = { #8
-	provinces = { 9990 9991 9992 9993 9994 9995 9996 9997 }
+	provinces = { 9993 9994 9995 9996 9997 }
 }
 
 musasi_area = { #10
@@ -3631,7 +3631,7 @@ upper_jaxartia_area = { #10
 }
 
 upper_macedonia_area = { #10
-	provinces = { 393 397 400 405 408 411 412 3125 3175 3356 }
+	provinces = { 393 397 400 405 408 411 412 3125 3175 3356 12907 }
 }
 
 upper_mesopotamia_area = { #12
@@ -3976,5 +3976,13 @@ liaodong_area = { #10
 
 lacus_phazanus_area = { #???
 	provinces = { 12891 12892 12893 12894 12895 12896 12897 12898 12899 }
+}
+
+lacus_tritonis_area = { #???
+	provinces = { 5367 8090 }
+}
+
+tigzirtia_area = { #???
+	provinces = { 9979 9980 9986 9990 9991 9992 9998 12900 12901 12902 12903 }
 }
 

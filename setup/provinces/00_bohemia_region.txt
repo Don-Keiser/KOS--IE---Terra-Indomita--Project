@@ -35,7 +35,7 @@
 
 3808={ #Vandulia
 	terrain="plains"
-	culture="vindelician"
+	culture="boarisch"
 	religion="druidism"
 	trade_goods="fur"
 	civilization_value=0
@@ -51,7 +51,7 @@
 
 3809={ #Bibacum
 	terrain="plains"
-	culture="vindelician"
+	culture="boarisch"
 	religion="druidism"
 	trade_goods="grain"
 	civilization_value=0
@@ -67,7 +67,7 @@
 
 3811={ #Brodentia
 	terrain="plains"
-	culture="ubian"
+	culture="dieringisch"
 	religion="druidism"
 	trade_goods="fur"
 	civilization_value=0
@@ -83,7 +83,7 @@
 
 3812={ #Strevinta
 	terrain="plains"
-	culture="boian"
+	culture="boarisch"
 	religion="druidism"
 	trade_goods="wood"
 	civilization_value=0
@@ -99,7 +99,7 @@
 
 3813={ #Reganus
 	terrain="hills"
-	culture="boian"
+	culture="boarisch"
 	religion="druidism"
 	trade_goods="leather"
 	civilization_value=0
@@ -115,7 +115,7 @@
 
 3814={ #Parmacampia
 	terrain="hills"
-	culture="boian"
+	culture="boarisch"
 	religion="druidism"
 	trade_goods="cloth"
 	civilization_value=0
@@ -134,7 +134,7 @@
 
 3815={ #Augustania
 	terrain="hills"
-	culture="boian"
+	culture="boarisch"
 	religion="druidism"
 	trade_goods="hemp"
 	civilization_value=0
@@ -169,7 +169,7 @@
 
 3817={ #Brodentica
 	terrain="plains"
-	culture="noric"
+	culture="boarisch"
 	religion="druidism"
 	trade_goods="grain"
 	civilization_value=5
@@ -182,7 +182,7 @@
 
 3818={ #Setuacatum
 	terrain="plains"
-	culture="boian"
+	culture="boarisch"
 	religion="druidism"
 	trade_goods="wood"
 	civilization_value=5
@@ -201,7 +201,7 @@
 
 3819={ #Furgisatis
 	terrain="plains"
-	culture="noric"
+	culture="boarisch"
 	religion="druidism"
 	trade_goods="hemp"
 	civilization_value=5
@@ -217,7 +217,7 @@
 
 3820={ #Cantiabis
 	terrain="plains"
-	culture="ubian"
+	culture="dieringisch"
 	religion="druidism"
 	trade_goods="wood"
 	civilization_value=0
@@ -236,7 +236,7 @@
 
 3821={ #Moenosgadia
 	terrain="forest"
-	culture="ubian"
+	culture="dieringisch"
 	religion="druidism"
 	trade_goods="fur"
 	civilization_value=0
@@ -252,7 +252,7 @@
 
 3822={ #Devona
 	terrain="plains"
-	culture="ubian"
+	culture="alamannisch"
 	religion="druidism"
 	trade_goods="leather"
 	civilization_value=0
@@ -799,7 +799,7 @@
 
 3945={ #Sudetiana
 	terrain="forest"
-	culture="boian"
+	culture="dieringisch"
 	religion="druidism"
 	trade_goods="leather"
 	civilization_value=0
@@ -815,7 +815,7 @@
 
 3946={ #Sudetica Planus
 	terrain="forest"
-	culture="ubian"
+	culture="dieringisch"
 	religion="druidism"
 	trade_goods="cattle"
 	civilization_value=0
@@ -831,7 +831,7 @@
 
 3948={ #Turoniana
 	terrain="forest"
-	culture="ubian"
+	culture="dieringisch"
 	religion="druidism"
 	trade_goods="leather"
 	civilization_value=0
@@ -844,7 +844,7 @@
 
 3952={ #Sudetia
 	terrain="hills"
-	culture="teurian"
+	culture="dieringisch"
 	religion="druidism"
 	trade_goods="cattle"
 	civilization_value=0
@@ -876,7 +876,7 @@
 
 4003={ #Lugidunum
 	terrain="forest"
-	culture="vandal"
+	culture="polan"
 	religion="germanic_religion"
 	trade_goods="fish"
 	civilization_value=0
@@ -889,7 +889,7 @@
 
 4004={ #Didunia
 	terrain="plains"
-	culture="vandal"
+	culture="polan"
 	religion="germanic_religion"
 	trade_goods="fish"
 	civilization_value=0
@@ -939,7 +939,7 @@
 
 4007={ #Leucara
 	terrain="plains"
-	culture="vandal"
+	culture="polan"
 	religion="germanic_religion"
 	trade_goods="cattle"
 	civilization_value=0
@@ -989,7 +989,7 @@
 
 4010={ #Casurgis
 	terrain="plains"
-	culture="vandal"
+	culture="polan"
 	religion="germanic_religion"
 	trade_goods="grain"
 	civilization_value=0
@@ -1021,7 +1021,7 @@
 
 4012={ #Viadria
 	terrain="plains"
-	culture="vandal"
+	culture="polan"
 	religion="germanic_religion"
 	trade_goods="grain"
 	civilization_value=0

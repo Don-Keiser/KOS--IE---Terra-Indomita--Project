@@ -14,7 +14,7 @@
 
 1278={ #Urci
 	terrain="hills"
-	culture="muretannian"
+	culture="ispannian"
 	religion="african_church"
 	trade_goods="precious_metals"
 	civilization_value=29
@@ -24,25 +24,17 @@
 		amount=1
 	}
 	freemen={
-		amount=5
-	}
-	freemen={
-		culture="massaesylian"
-		religion="berber_religion"
-		amount=1
+		amount=6
 	}
 	slaves={
 		amount=2
 	}
 	tribesmen={
-		culture="ispannian"
-		religion="african_church"
-		amount=8
+		culture="muretannian"
+		amount=6
 	}
 	tribesmen={
-		culture="ispannian"
-		religion="african_church"
-		amount=2
+		amount=4
 	}
 	port_building=1
 }
@@ -77,8 +69,6 @@
 		amount=1
 	}
 	tribesmen={
-		culture="ispannian"
-		religion="african_church"
 		amount=3
 	}
 	port_building=1
@@ -148,7 +138,7 @@
 
 1324={ #Mirobriga Couneia
 	terrain="plains"
-	culture="ispannian"
+	culture="lusitanu"
 	religion="african_church"
 	trade_goods="iron"
 	civilization_value=11
@@ -164,7 +154,7 @@
 
 1330={ #Patulus Portus
 	terrain="plains"
-	culture="ispannian"
+	culture="lusitanu"
 	religion="african_church"
 	trade_goods="salt"
 	civilization_value=11
@@ -295,14 +285,7 @@
 		amount=2
 	}
 	tribesmen={
-		culture="ispannian"
-		religion="african_church"
-		amount=1
-	}
-	tribesmen={
-		culture="lusitanu"
-		religion="african_church"
-		amount=1
+		amount=2
 	}
 	tribesmen={
 		amount=3
@@ -476,24 +459,14 @@
 		amount=6
 	}
 	freemen={
-		amount=3
+		amount=4
 	}
 	freemen={
 		culture="ispannian"
 		amount=3
 	}
-	freemen={
-		culture="socossian"
-		amount=1
-	}
 	tribesmen={
-		culture="ispannian"
-		amount=3
-	}
-	tribesmen={
-		culture="socossian"
-		religion="berber_religion"
-		amount=2
+		amount=5
 	}
 	slaves={
 		culture="ispannian"
@@ -512,11 +485,7 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
-	}
-	freemen={
-		culture="ispannian"
-		amount=2
+		amount=5
 	}
 	tribesmen={
 		culture="ispannian"
@@ -565,12 +534,7 @@
 		amount=1
 	}
 	freemen={
-		amount=1
-	}
-	freemen={
-		culture="socossian"
-		religion="berber_religion"
-		amount=1
+		amount=2
 	}
 	tribesmen={
 		culture="ispannian"
@@ -592,25 +556,17 @@
 		amount=1
 	}
 	freemen={
-		amount=3
+		amount=4
 	}
 	freemen={
 		culture="ispannian"
 		amount=2
-	}
-	freemen={
-		culture="socossian"
-		religion="berber_religion"
-		amount=1
 	}
 	slaves={
 		culture="ispannian"
-		religion="african_church"
 		amount=2
 	}
 	tribesmen={
-		culture="ispannian"
-		religion="african_church"
 		amount=6
 	}
 	port_building=1
@@ -915,34 +871,20 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
-	}
-	citizen={
-		culture="massalian"
-		religion="roman_pantheon"
-		amount=1
+		amount=3
 	}
 	freemen={
-		amount=2
-	}
-	freemen={
-		culture="socossian"
-		religion="berber_religion"
-		amount=1
+		amount=3
 	}
 	freemen={
 		culture="ispannian"
-		religion="african_church"
 		amount=1
 	}
 	tribesmen={
-		culture="ispannian"
-		religion="african_church"
 		amount=3
 	}
 	tribesmen={
 		culture="ispannian"
-		religion="african_church"
 		amount=2
 	}
 	port_building=1
@@ -998,7 +940,7 @@
 
 1366={ #Menova
 	terrain="hills"
-	culture="ispannian"
+	culture="muretannian"
 	religion="african_church"
 	trade_goods="fish"
 	civilization_value=24
@@ -1023,19 +965,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	freemen={
-		culture="massaesylian"
-		religion="berber_religion"
-		amount=1
+		amount=2
 	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
 		culture="ispannian"
-		religion="african_church"
 		amount=2
 	}
 }
@@ -1786,17 +1722,7 @@
 		amount=3
 	}
 	tribesmen={
-		culture="lusitanu"
-		religion="african_church"
-		amount=1
-	}
-	tribesmen={
-		culture="ispannian"
-		religion="african_church"
-		amount=1
-	}
-	tribesmen={
-		amount=2
+		amount=4
 	}
 }
 
@@ -1974,7 +1900,7 @@
 
 1458={ #Dunites
 	terrain="plains"
-	culture="ispannian"
+	culture="toledu"
 	religion="african_church"
 	trade_goods="horses"
 	civilization_value=11
@@ -1990,7 +1916,7 @@
 
 1459={ #Messicia
 	terrain="plains"
-	culture="ispannian"
+	culture="toledu"
 	religion="african_church"
 	trade_goods="horses"
 	civilization_value=11
@@ -2006,7 +1932,7 @@
 
 1460={ #Sattalicia
 	terrain="plains"
-	culture="ispannian"
+	culture="toledu"
 	religion="african_church"
 	trade_goods="cloth"
 	civilization_value=11
@@ -2028,7 +1954,7 @@
 
 1463={ #Solorbes
 	terrain="plains"
-	culture="ispannian"
+	culture="toledu"
 	religion="african_church"
 	trade_goods="fur"
 	civilization_value=11

@@ -48,6 +48,7 @@
 	culture = {
 		alani = {}
 		red_croat = {}
+		black_croat = {}
 		rughan = {}
 		vaskedzyte = {}
 		akvitadzyte = {}

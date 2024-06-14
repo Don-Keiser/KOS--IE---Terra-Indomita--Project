@@ -972,7 +972,7 @@
 
 4803={ #Rhamidava
 	terrain="forest"
-	culture="getian"
+	culture="black_croat"
 	religion="shamanism"
 	trade_goods="grain"
 	civilization_value=8
@@ -991,7 +991,7 @@
 
 4804={ #Britolagia
 	terrain="forest"
-	culture="getian"
+	culture="black_croat"
 	religion="shamanism"
 	trade_goods="grain"
 	civilization_value=8
@@ -1004,7 +1004,7 @@
 
 4805={ #Cotesia
 	terrain="forest"
-	culture="getian"
+	culture="black_croat"
 	religion="shamanism"
 	trade_goods="stone"
 	civilization_value=8
@@ -1020,7 +1020,7 @@
 
 4806={ #Cotesiana
 	terrain="marsh"
-	culture="getian"
+	culture="black_croat"
 	religion="shamanism"
 	trade_goods="cattle"
 	civilization_value=6
@@ -1042,7 +1042,7 @@
 
 4807={ #Isteria
 	terrain="forest"
-	culture="getian"
+	culture="black_croat"
 	religion="shamanism"
 	trade_goods="woad"
 	civilization_value=8
@@ -1058,7 +1058,7 @@
 
 4808={ #Isteriana
 	terrain="marsh"
-	culture="getian"
+	culture="black_croat"
 	religion="shamanism"
 	trade_goods="fur"
 	civilization_value=6
@@ -1074,7 +1074,7 @@
 
 4809={ #Piephigia
 	terrain="forest"
-	culture="getian"
+	culture="black_croat"
 	religion="shamanism"
 	trade_goods="vegetables"
 	civilization_value=8
@@ -1087,7 +1087,7 @@
 
 4810={ #Piephigiana
 	terrain="farmland"
-	culture="getian"
+	culture="black_croat"
 	religion="shamanism"
 	trade_goods="wood"
 	civilization_value=12
@@ -1100,7 +1100,7 @@
 
 4811={ #Sornus
 	terrain="farmland"
-	culture="getian"
+	culture="black_croat"
 	religion="shamanism"
 	trade_goods="honey"
 	civilization_value=12
@@ -1119,7 +1119,7 @@
 
 4812={ #Sensia
 	terrain="plains"
-	culture="getian"
+	culture="black_croat"
 	religion="shamanism"
 	trade_goods="grain"
 	civilization_value=10
@@ -1138,7 +1138,7 @@
 
 4813={ #Sensiana
 	terrain="forest"
-	culture="getian"
+	culture="black_croat"
 	religion="shamanism"
 	trade_goods="vegetables"
 	civilization_value=8
@@ -1154,7 +1154,7 @@
 
 4814={ #Netindava
 	terrain="forest"
-	culture="getian"
+	culture="black_croat"
 	religion="shamanism"
 	trade_goods="woad"
 	civilization_value=8
@@ -1167,7 +1167,7 @@
 
 4815={ #Pirum
 	terrain="forest"
-	culture="getian"
+	culture="black_croat"
 	religion="shamanism"
 	trade_goods="fur"
 	civilization_value=8
@@ -1180,7 +1180,7 @@
 
 4816={ #Napuca
 	terrain="plains"
-	culture="getian"
+	culture="black_croat"
 	religion="shamanism"
 	trade_goods="grain"
 	civilization_value=10
@@ -1199,7 +1199,7 @@
 
 4817={ #Tiasum
 	terrain="plains"
-	culture="getian"
+	culture="black_croat"
 	religion="shamanism"
 	trade_goods="wood"
 	civilization_value=10
@@ -1218,7 +1218,7 @@
 
 4818={ #Pinion
 	terrain="forest"
-	culture="getian"
+	culture="black_croat"
 	religion="shamanism"
 	trade_goods="cattle"
 	civilization_value=8
@@ -1231,7 +1231,7 @@
 
 4819={ #Ordessia
 	terrain="forest"
-	culture="getian"
+	culture="black_croat"
 	religion="shamanism"
 	trade_goods="grain"
 	civilization_value=8
@@ -1250,7 +1250,7 @@
 
 4820={ #Ciagisia
 	terrain="forest"
-	culture="getian"
+	culture="black_croat"
 	religion="shamanism"
 	trade_goods="leather"
 	civilization_value=8
@@ -1266,7 +1266,7 @@
 
 4821={ #Ardeiscus
 	terrain="hills"
-	culture="getian"
+	culture="black_croat"
 	religion="shamanism"
 	trade_goods="fur"
 	civilization_value=8
@@ -1285,7 +1285,7 @@
 
 4822={ #Ciagisiana
 	terrain="forest"
-	culture="getian"
+	culture="black_croat"
 	religion="shamanism"
 	trade_goods="wood"
 	civilization_value=8
@@ -1304,7 +1304,7 @@
 
 4823={ #Tiriscum
 	terrain="forest"
-	culture="getian"
+	culture="black_croat"
 	religion="shamanism"
 	trade_goods="leather"
 	civilization_value=8
@@ -1317,7 +1317,7 @@
 
 4824={ #Confluentia Roxolania
 	terrain="hills"
-	culture="getian"
+	culture="black_croat"
 	religion="shamanism"
 	trade_goods="cattle"
 	civilization_value=8
@@ -1333,7 +1333,7 @@
 
 4825={ #Montibus
 	terrain="hills"
-	culture="getian"
+	culture="black_croat"
 	religion="shamanism"
 	trade_goods="leather"
 	civilization_value=8
@@ -2006,7 +2006,7 @@
 
 4911={ #Tamasidava
 	terrain="hills"
-	culture="getian"
+	culture="black_croat"
 	religion="shamanism"
 	trade_goods="leather"
 	civilization_value=8

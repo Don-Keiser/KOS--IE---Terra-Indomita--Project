@@ -1,7 +1,7 @@
 ﻿477={ #Serdica
 	terrain="hills"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="wood"
 	civilization_value=9
 	barbarian_power=0
@@ -16,6 +16,8 @@
 		amount=3
 	}
 	tribesmen={
+		culture="red_croat"
+		religion="mithra_zalmos"
 		amount=3
 	}
 }
@@ -23,7 +25,7 @@
 4112={ #Navissos
 	terrain="farmland"
 	culture="moesogoth"
-	religion="shamanism"
+	religion="avar_church"
 	trade_goods="cattle"
 	civilization_value=12
 	barbarian_power=0
@@ -42,7 +44,7 @@
 4115={ #Remesiana
 	terrain="hills"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="honey"
 	civilization_value=8
 	barbarian_power=0
@@ -64,7 +66,7 @@
 4116={ #Ballanstra
 	terrain="hills"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="stone"
 	civilization_value=8
 	barbarian_power=0
@@ -86,7 +88,7 @@
 4208={ #Taliata
 	terrain="plains"
 	culture="kunsag"
-	religion="druidism"
+	religion="jayayan_zalmukh"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -98,7 +100,7 @@
 		amount=6
 	}
 	slaves={
-		religion="shamanism"
+		religion="mithra_zalmos"
 		amount=2
 	}
 	tribesmen={
@@ -109,7 +111,7 @@
 4209={ #Egeta
 	terrain="plains"
 	culture="kunsag"
-	religion="druidism"
+	religion="jayayan_zalmukh"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -124,7 +126,7 @@
 		amount=1
 	}
 	tribesmen={
-		religion="shamanism"
+		religion="mithra_zalmos"
 		amount=1
 	}
 }
@@ -132,7 +134,7 @@
 4214={ #Clevora
 	terrain="plains"
 	culture="kunsag"
-	religion="druidism"
+	religion="jayayan_zalmukh"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -147,7 +149,7 @@
 		amount=2
 	}
 	tribesmen={
-		religion="shamanism"
+		religion="mithra_zalmos"
 		amount=1
 	}
 }
@@ -155,7 +157,7 @@
 4215={ #Dortium
 	terrain="farmland"
 	culture="kunsag"
-	religion="shamanism"
+	religion="jayayan_zalmukh"
 	trade_goods="vegetables"
 	civilization_value=12
 	barbarian_power=0
@@ -174,7 +176,7 @@
 4216={ #Bononia Moesiaca
 	terrain="farmland"
 	culture="kunsag"
-	religion="shamanism"
+	religion="jayayan_zalmukh"
 	trade_goods="vegetables"
 	civilization_value=12
 	barbarian_power=0
@@ -193,7 +195,7 @@
 4217={ #Ratiaria
 	terrain="plains"
 	culture="kunsag"
-	religion="shamanism"
+	religion="jayayan_zalmukh"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -209,7 +211,7 @@
 4218={ #Castra Martis
 	terrain="plains"
 	culture="kunsag"
-	religion="shamanism"
+	religion="jayayan_zalmukh"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -228,7 +230,7 @@
 4219={ #Timacum
 	terrain="plains"
 	culture="moesogoth"
-	religion="shamanism"
+	religion="avar_church"
 	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
@@ -247,7 +249,7 @@
 4220={ #Combustica
 	terrain="plains"
 	culture="kunsag"
-	religion="shamanism"
+	religion="jayayan_zalmukh"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -266,7 +268,7 @@
 4221={ #Montana
 	terrain="hills"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="stone"
 	civilization_value=8
 	barbarian_power=0
@@ -282,7 +284,7 @@
 4222={ #Turres
 	terrain="hills"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="wood"
 	civilization_value=8
 	barbarian_power=0
@@ -301,7 +303,7 @@
 4223={ #Almus
 	terrain="plains"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -323,7 +325,7 @@
 4224={ #Cebrus
 	terrain="plains"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +341,7 @@
 4225={ #Tautiomosis
 	terrain="hills"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="vegetables"
 	civilization_value=8
 	barbarian_power=0
@@ -358,7 +360,7 @@
 4226={ #Vicus Siamus
 	terrain="forest"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="cattle"
 	civilization_value=8
 	barbarian_power=0
@@ -377,7 +379,7 @@
 4227={ #Oescus
 	terrain="forest"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="grain"
 	civilization_value=8
 	barbarian_power=0
@@ -396,7 +398,7 @@
 4228={ #Trullensium
 	terrain="forest"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="horses"
 	civilization_value=8
 	barbarian_power=0
@@ -412,7 +414,7 @@
 4229={ #Longinopara
 	terrain="plains"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -431,7 +433,7 @@
 4230={ #Scretisca
 	terrain="hills"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="wood"
 	civilization_value=8
 	barbarian_power=0
@@ -450,7 +452,7 @@
 4231={ #Asamus
 	terrain="forest"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="leather"
 	civilization_value=8
 	barbarian_power=0
@@ -466,7 +468,7 @@
 4232={ #Ad Putea
 	terrain="plains"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -479,7 +481,7 @@
 4233={ #Storgosia
 	terrain="forest"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="vegetables"
 	civilization_value=8
 	barbarian_power=0
@@ -495,7 +497,7 @@
 4234={ #Melta
 	terrain="plains"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -517,7 +519,7 @@
 4235={ #Sostra
 	terrain="hills"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="stone"
 	civilization_value=8
 	barbarian_power=0
@@ -539,7 +541,7 @@
 4236={ #Emporium Discoduraterae
 	terrain="hills"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="stone"
 	civilization_value=8
 	barbarian_power=0
@@ -552,7 +554,7 @@
 4237={ #Nikopolis
 	terrain="forest"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="wood"
 	civilization_value=8
 	barbarian_power=0
@@ -568,7 +570,7 @@
 4238={ #Novae
 	terrain="forest"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="cattle"
 	civilization_value=8
 	barbarian_power=0
@@ -587,7 +589,7 @@
 4239={ #Trimammium
 	terrain="plains"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -606,7 +608,7 @@
 4240={ #Prista
 	terrain="forest"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="vegetables"
 	civilization_value=8
 	barbarian_power=0
@@ -628,7 +630,7 @@
 4241={ #Appiara
 	terrain="forest"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="vegetables"
 	civilization_value=8
 	barbarian_power=0
@@ -650,7 +652,7 @@
 4242={ #Transmarisca
 	terrain="forest"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="cattle"
 	civilization_value=8
 	barbarian_power=0
@@ -669,7 +671,7 @@
 4243={ #Abritus
 	terrain="plains"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -688,7 +690,7 @@
 4244={ #Tylis
 	terrain="plains"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -704,7 +706,7 @@
 4245={ #Haemiana
 	terrain="hills"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="leather"
 	civilization_value=8
 	barbarian_power=0
@@ -726,7 +728,7 @@
 4246={ #Silistra
 	terrain="forest"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="earthware"
 	civilization_value=8
 	barbarian_power=0
@@ -742,28 +744,28 @@
 4247={ #Erite
 	terrain="plains"
 	culture="rughan"
-	religion="roman_pantheon"
+	religion="mithra_zalmos"
 	trade_goods="fish"
 	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		culture="bosporan"
 		amount=1
 	}
 	slaves={
 		amount=1
 	}
 	tribesmen={
-		religion="shamanism"
-		amount=3
+		culture="bolghar"
+		religion="jayayan_zalmukh"
+		amount=2
 	}
 }
 
 4248={ #Odessus
 	terrain="plains"
 	culture="rughan"
-	religion="roman_pantheon"
+	religion="mithra_zalmos"
 	trade_goods="earthware"
 	civilization_value=31
 	barbarian_power=0
@@ -775,19 +777,12 @@
 		amount=3
 	}
 	freemen={
-		amount=2
-	}
-	freemen={
-		culture="moesi"
-		amount=1
+		amount=3
 	}
 	slaves={
-		culture="moesi"
 		amount=1
 	}
 	tribesmen={
-		culture="moesi"
-		religion="shamanism"
 		amount=6
 	}
 	holy_site=omen_derzelas
@@ -797,24 +792,18 @@
 4249={ #Krounoi
 	terrain="plains"
 	culture="rughan"
-	religion="roman_pantheon"
+	religion="mithra_zalmos"
 	trade_goods="leather"
 	civilization_value=31
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		culture="bosporan"
 		amount=2
 	}
 	freemen={
-		culture="bosporan"
-		amount=2
-	}
-	freemen={
-		amount=1
+		amount=3
 	}
 	tribesmen={
-		religion="shamanism"
 		amount=3
 	}
 }
@@ -822,7 +811,7 @@
 4250={ #Tirizis
 	terrain="plains"
 	culture="rughan"
-	religion="roman_pantheon"
+	religion="mithra_zalmos"
 	trade_goods="fish"
 	civilization_value=26
 	barbarian_power=0
@@ -834,7 +823,6 @@
 		amount=1
 	}
 	tribesmen={
-		religion="shamanism"
 		amount=2
 	}
 	holy_site=omen_thrax
@@ -843,7 +831,7 @@
 4251={ #Parthenopolis
 	terrain="plains"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -862,7 +850,7 @@
 4252={ #Helis
 	terrain="forest"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="grain"
 	civilization_value=8
 	barbarian_power=0
@@ -878,7 +866,7 @@
 4253={ #Palmatis
 	terrain="forest"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="cattle"
 	civilization_value=8
 	barbarian_power=0
@@ -897,7 +885,7 @@
 4254={ #Callatis
 	terrain="plains"
 	culture="rughan"
-	religion="roman_pantheon"
+	religion="mithra_zalmos"
 	trade_goods="leather"
 	civilization_value=31
 	barbarian_power=0
@@ -912,15 +900,9 @@
 		amount=5
 	}
 	slaves={
-		amount=1
-	}
-	slaves={
-		culture="getian"
-		amount=2
+		amount=3
 	}
 	tribesmen={
-		culture="getian"
-		religion="shamanism"
 		amount=6
 	}
 	port_building=1
@@ -929,7 +911,7 @@
 4255={ #Tomis
 	terrain="plains"
 	culture="rughan"
-	religion="roman_pantheon"
+	religion="mithra_zalmos"
 	trade_goods="salt"
 	civilization_value=31
 	barbarian_power=0
@@ -941,12 +923,9 @@
 		amount=2
 	}
 	slaves={
-		culture="getian"
 		amount=1
 	}
 	tribesmen={
-		culture="getian"
-		religion="shamanism"
 		amount=3
 	}
 }
@@ -954,7 +933,7 @@
 4256={ #Tropaeum
 	terrain="forest"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="leather"
 	civilization_value=8
 	barbarian_power=0
@@ -973,7 +952,7 @@
 4257={ #Sacidava
 	terrain="forest"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="vegetables"
 	civilization_value=8
 	barbarian_power=0
@@ -992,7 +971,7 @@
 4258={ #Panisus
 	terrain="hills"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="stone"
 	civilization_value=8
 	barbarian_power=0
@@ -1008,7 +987,7 @@
 4259={ #Zikideba
 	terrain="plains"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -1030,7 +1009,7 @@
 4512={ #Axiopolis
 	terrain="forest"
 	culture="rughan"
-	religion="shamanism"
+	religion="mithra_zalmos"
 	trade_goods="cattle"
 	civilization_value=24
 	barbarian_power=0
@@ -1043,7 +1022,7 @@
 4513={ #Histria
 	terrain="plains"
 	culture="rughan"
-	religion="roman_pantheon"
+	religion="mithra_zalmos"
 	trade_goods="earthware"
 	civilization_value=31
 	barbarian_power=0
@@ -1055,19 +1034,12 @@
 		amount=4
 	}
 	freemen={
-		amount=3
-	}
-	freemen={
-		culture="getian"
-		amount=1
+		amount=4
 	}
 	slaves={
-		culture="getian"
 		amount=2
 	}
 	tribesmen={
-		culture="getian"
-		religion="shamanism"
 		amount=5
 	}
 	port_building=1
@@ -1076,13 +1048,12 @@
 4514={ #Carsium
 	terrain="marsh"
 	culture="rughan"
-	religion="roman_pantheon"
+	religion="mithra_zalmos"
 	trade_goods="honey"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		religion="shamanism"
 		amount=4
 	}
 }
@@ -1090,7 +1061,7 @@
 4515={ #Capidava
 	terrain="forest"
 	culture="rughan"
-	religion="roman_pantheon"
+	religion="mithra_zalmos"
 	trade_goods="vegetables"
 	civilization_value=24
 	barbarian_power=0
@@ -1099,7 +1070,6 @@
 		amount=1
 	}
 	tribesmen={
-		religion="shamanism"
 		amount=3
 	}
 }
@@ -1107,24 +1077,18 @@
 4516={ #Argamum
 	terrain="forest"
 	culture="rughan"
-	religion="roman_pantheon"
+	religion="jayayan_zalmukh"
 	trade_goods="hemp"
 	civilization_value=29
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		culture="bosporan"
 		amount=1
 	}
 	freemen={
-		culture="bosporan"
-		amount=2
-	}
-	freemen={
-		amount=1
+		amount=3
 	}
 	tribesmen={
-		religion="shamanism"
 		amount=2
 	}
 }
@@ -1132,7 +1096,7 @@
 4517={ #Libida
 	terrain="forest"
 	culture="rughan"
-	religion="roman_pantheon"
+	religion="jayayan_zalmukh"
 	trade_goods="vegetables"
 	civilization_value=24
 	barbarian_power=0
@@ -1144,7 +1108,6 @@
 		amount=1
 	}
 	tribesmen={
-		religion="shamanism"
 		amount=1
 	}
 }
@@ -1152,7 +1115,7 @@
 4518={ #Troismis
 	terrain="marsh"
 	culture="rughan"
-	religion="roman_pantheon"
+	religion="jayayan_zalmukh"
 	trade_goods="grain"
 	civilization_value=22
 	barbarian_power=0
@@ -1174,7 +1137,7 @@
 4519={ #Halmyris
 	terrain="forest"
 	culture="rughan"
-	religion="roman_pantheon"
+	religion="jayayan_zalmukh"
 	trade_goods="fish"
 	civilization_value=24
 	barbarian_power=0
@@ -1189,7 +1152,6 @@
 		amount=1
 	}
 	tribesmen={
-		religion="shamanism"
 		amount=1
 	}
 	port_building=1
@@ -1198,13 +1160,12 @@
 4520={ #Troesmis
 	terrain="marsh"
 	culture="rughan"
-	religion="roman_pantheon"
+	religion="jayayan_zalmukh"
 	trade_goods="vegetables"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		religion="shamanism"
 		amount=4
 	}
 }

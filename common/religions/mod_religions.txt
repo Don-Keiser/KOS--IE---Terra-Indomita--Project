@@ -76,6 +76,19 @@ ctesiphonite_church = {
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 } ###placeholder stuff
 
+avar_church = {
+	color = rgb { 85  128  135 }
+	modifier = { 
+		ruler_popularity_gain = 0.08
+		global_monthly_civilization = 0.02
+		character_loyalty = -3
+	}
+	religion_category = saints
+	can_deify_ruler = yes
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+} ###placeholder stuff
+
 muhammadism = {
 	color = rgb { 26  204  204 }
 	modifier = { 
@@ -109,19 +122,6 @@ jayayan_zalmukh = {
 	}
 	religion_category = pantheon
 	can_deify_ruler = yes
-} ###placeholder stuff
-
-manichean = {
-	color = rgb { 188  154  115 }
-	modifier = { 
-		ruler_popularity_gain = 0.08
-		global_monthly_civilization = 0.02
-		character_loyalty = -3
-	}
-	religion_category = saints
-	can_deify_ruler = yes
-	sacrifice_icon = sacrifice_incense
-	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 } ###placeholder stuff
 
 manichean = {

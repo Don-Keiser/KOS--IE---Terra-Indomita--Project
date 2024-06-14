@@ -19,7 +19,7 @@
 
 1043={ #Ocelum Duri
 	terrain="plains"
-	culture="toledu"
+	culture="vacchaian"
 	religion="african_church"
 	trade_goods="wine"
 	civilization_value=11
@@ -35,7 +35,7 @@
 
 1046={ #Salmantica
 	terrain="forest"
-	culture="toledu"
+	culture="vacchaian"
 	religion="african_church"
 	trade_goods="wine"
 	civilization_value=9
@@ -67,7 +67,7 @@
 
 1050={ #Aquae Flaviae
 	terrain="plains"
-	culture="lusitanu"
+	culture="galetzian"
 	religion="african_church"
 	trade_goods="wood"
 	civilization_value=11
@@ -89,7 +89,7 @@
 
 1051={ #Bracara Augusta
 	terrain="hills"
-	culture="lusitanu"
+	culture="galetzian"
 	religion="african_church"
 	trade_goods="salt"
 	civilization_value=9
@@ -112,7 +112,7 @@
 
 1153={ #Salacia Aebocosia
 	terrain="hills"
-	culture="lusitanu"
+	culture="galetzian"
 	religion="african_church"
 	trade_goods="grain"
 	civilization_value=9
@@ -128,7 +128,7 @@
 
 1156={ #Vicus Vagornicensis
 	terrain="plains"
-	culture="lusitanu"
+	culture="galetzian"
 	religion="african_church"
 	trade_goods="wood"
 	civilization_value=11
@@ -144,7 +144,7 @@
 
 1157={ #Baniensium
 	terrain="plains"
-	culture="lusitanu"
+	culture="galetzian"
 	religion="african_church"
 	trade_goods="wood"
 	civilization_value=11
@@ -176,7 +176,7 @@
 
 1159={ #Polibedenses
 	terrain="plains"
-	culture="lusitanu"
+	culture="vacchaian"
 	religion="african_church"
 	trade_goods="precious_metals"
 	civilization_value=11
@@ -192,7 +192,7 @@
 
 1160={ #Sentice
 	terrain="plains"
-	culture="lusitanu"
+	culture="vacchaian"
 	religion="african_church"
 	trade_goods="grain"
 	civilization_value=11
@@ -208,7 +208,7 @@
 
 1161={ #Sibaris
 	terrain="plains"
-	culture="toledu"
+	culture="vacchaian"
 	religion="african_church"
 	trade_goods="wine"
 	civilization_value=11
@@ -224,7 +224,7 @@
 
 1162={ #Bletsima
 	terrain="plains"
-	culture="toledu"
+	culture="vacchaian"
 	religion="african_church"
 	trade_goods="fur"
 	civilization_value=11
@@ -240,7 +240,7 @@
 
 1163={ #Zoelarum
 	terrain="plains"
-	culture="lusitanu"
+	culture="galetzian"
 	religion="african_church"
 	trade_goods="leather"
 	civilization_value=11
@@ -256,7 +256,7 @@
 
 1164={ #Veniatia
 	terrain="plains"
-	culture="lusitanu"
+	culture="vacchaian"
 	religion="african_church"
 	trade_goods="leather"
 	civilization_value=11
@@ -272,7 +272,7 @@
 
 1167={ #Zoelia
 	terrain="plains"
-	culture="lusitanu"
+	culture="galetzian"
 	religion="african_church"
 	trade_goods="leather"
 	civilization_value=11
@@ -288,7 +288,7 @@
 
 1172={ #Vicus Aquarius
 	terrain="plains"
-	culture="lusitanu"
+	culture="vacchaian"
 	religion="african_church"
 	trade_goods="wine"
 	civilization_value=11
@@ -304,7 +304,7 @@
 
 1173={ #Arboukale
 	terrain="plains"
-	culture="toledu"
+	culture="vacchaian"
 	religion="african_church"
 	trade_goods="horses"
 	civilization_value=11
@@ -320,7 +320,7 @@
 
 1176={ #Nivaria
 	terrain="forest"
-	culture="toledu"
+	culture="vacchaian"
 	religion="african_church"
 	trade_goods="hemp"
 	civilization_value=9
@@ -336,7 +336,7 @@
 
 1179={ #Vettonia Relicta
 	terrain="forest"
-	culture="toledu"
+	culture="vacchaian"
 	religion="african_church"
 	trade_goods="horses"
 	civilization_value=9
@@ -352,7 +352,7 @@
 
 1180={ #Vettonia Deserta
 	terrain="forest"
-	culture="toledu"
+	culture="vacchaian"
 	religion="african_church"
 	trade_goods="grain"
 	civilization_value=9
@@ -368,7 +368,7 @@
 
 1194={ #Avila
 	terrain="hills"
-	culture="toledu"
+	culture="vacchaian"
 	religion="african_church"
 	trade_goods="stone"
 	civilization_value=9
@@ -384,7 +384,7 @@
 
 1196={ #Tullium
 	terrain="plains"
-	culture="toledu"
+	culture="vacchaian"
 	religion="african_church"
 	trade_goods="hemp"
 	civilization_value=11
@@ -400,7 +400,7 @@
 
 1197={ #Ad Lippos
 	terrain="forest"
-	culture="toledu"
+	culture="vacchaian"
 	religion="african_church"
 	trade_goods="grain"
 	civilization_value=9
@@ -416,7 +416,7 @@
 
 1198={ #Coloricum
 	terrain="hills"
-	culture="lusitanu"
+	culture="vacchaian"
 	religion="african_church"
 	trade_goods="base_metals"
 	civilization_value=9
@@ -435,7 +435,7 @@
 
 1199={ #Platanus
 	terrain="hills"
-	culture="toledu"
+	culture="vacchaian"
 	religion="african_church"
 	trade_goods="precious_metals"
 	civilization_value=9
@@ -452,7 +452,7 @@
 
 1200={ #Vettonia Superioris
 	terrain="hills"
-	culture="toledu"
+	culture="vacchaian"
 	religion="african_church"
 	trade_goods="stone"
 	civilization_value=9
@@ -468,7 +468,7 @@
 
 1201={ #Vettonia Inferioris
 	terrain="hills"
-	culture="toledu"
+	culture="vacchaian"
 	religion="african_church"
 	trade_goods="base_metals"
 	civilization_value=9
@@ -484,7 +484,7 @@
 
 1202={ #Vaddua
 	terrain="hills"
-	culture="toledu"
+	culture="vacchaian"
 	religion="african_church"
 	trade_goods="fur"
 	civilization_value=9
@@ -500,7 +500,7 @@
 
 1288={ #Lamecum
 	terrain="hills"
-	culture="lusitanu"
+	culture="galetzian"
 	religion="african_church"
 	trade_goods="precious_metals"
 	civilization_value=9
@@ -516,7 +516,7 @@
 
 1289={ #Tongobriga
 	terrain="plains"
-	culture="lusitanu"
+	culture="galetzian"
 	religion="african_church"
 	trade_goods="salt"
 	civilization_value=11
@@ -764,7 +764,7 @@
 
 1304={ #Caellonico
 	terrain="hills"
-	culture="lusitanu"
+	culture="vacchaian"
 	religion="african_church"
 	trade_goods="precious_metals"
 	civilization_value=9
@@ -1223,7 +1223,7 @@
 
 1400={ #Augusta Emerita
 	terrain="plains"
-	culture="lusitanu"
+	culture="ispannian"
 	religion="african_church"
 	trade_goods="fur"
 	civilization_value=11
@@ -1442,7 +1442,7 @@
 
 1423={ #Evandriana
 	terrain="forest"
-	culture="lusitanu"
+	culture="ispannian"
 	religion="african_church"
 	trade_goods="fur"
 	civilization_value=9
@@ -1580,7 +1580,7 @@
 
 1431={ #Ad Sorores
 	terrain="forest"
-	culture="lusitanu"
+	culture="toledu"
 	religion="african_church"
 	trade_goods="wine"
 	civilization_value=9
@@ -1596,7 +1596,7 @@
 
 1432={ #Norba
 	terrain="plains"
-	culture="lusitanu"
+	culture="toledu"
 	religion="african_church"
 	trade_goods="earthware"
 	civilization_value=11
@@ -1650,7 +1650,7 @@
 
 1435={ #Lacipea
 	terrain="plains"
-	culture="lusitanu"
+	culture="toledu"
 	religion="african_church"
 	trade_goods="horses"
 	civilization_value=11

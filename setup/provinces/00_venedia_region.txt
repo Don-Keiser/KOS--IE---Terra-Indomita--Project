@@ -1,6 +1,6 @@
 ﻿3908={ #Viritium
 	terrain="forest"
-	culture="vandal"
+	culture="polan"
 	religion="germanic_religion"
 	trade_goods="earthware"
 	civilization_value=3
@@ -16,7 +16,7 @@
 
 4750={ #Rugia
 	terrain="forest"
-	culture="gothonic"
+	culture="kashub"
 	religion="germanic_religion"
 	trade_goods="amber"
 	civilization_value=3
@@ -40,7 +40,7 @@
 
 4751={ #Rhugium
 	terrain="plains"
-	culture="gothonic"
+	culture="kashub"
 	religion="germanic_religion"
 	trade_goods="vegetables"
 	civilization_value=5
@@ -58,7 +58,7 @@
 
 4752={ #Viadrus
 	terrain="plains"
-	culture="gothonic"
+	culture="kashub"
 	religion="germanic_religion"
 	trade_goods="fish"
 	civilization_value=5
@@ -72,7 +72,7 @@
 
 4753={ #Rhuticlia Helveconia
 	terrain="plains"
-	culture="gothonic"
+	culture="kashub"
 	religion="germanic_religion"
 	trade_goods="amber"
 	civilization_value=5
@@ -88,7 +88,7 @@
 
 4754={ #Turcilingia
 	terrain="plains"
-	culture="gothonic"
+	culture="kashub"
 	religion="germanic_religion"
 	trade_goods="fur"
 	civilization_value=5
@@ -104,7 +104,7 @@
 
 4755={ #Sciria Rugia
 	terrain="forest"
-	culture="gothonic"
+	culture="kashub"
 	religion="germanic_religion"
 	trade_goods="cattle"
 	civilization_value=3
@@ -122,7 +122,7 @@
 
 4756={ #Eughum
 	terrain="forest"
-	culture="gothonic"
+	culture="kashub"
 	religion="germanic_religion"
 	trade_goods="amber"
 	civilization_value=3
@@ -135,7 +135,7 @@
 
 4757={ #Lemoviana
 	terrain="forest"
-	culture="gothonic"
+	culture="kashub"
 	religion="germanic_religion"
 	trade_goods="hemp"
 	civilization_value=3
@@ -148,7 +148,7 @@
 
 4758={ #Seurgium
 	terrain="forest"
-	culture="vandal"
+	culture="polan"
 	religion="germanic_religion"
 	trade_goods="woad"
 	civilization_value=3
@@ -161,7 +161,7 @@
 
 4759={ #Iadua
 	terrain="forest"
-	culture="vandal"
+	culture="polan"
 	religion="germanic_religion"
 	trade_goods="fur"
 	civilization_value=3
@@ -179,7 +179,7 @@
 
 4760={ #Campia
 	terrain="plains"
-	culture="gothonic"
+	culture="kashub"
 	religion="germanic_religion"
 	trade_goods="hemp"
 	civilization_value=5
@@ -192,7 +192,7 @@
 
 4761={ #Ascaucalis
 	terrain="forest"
-	culture="vandal"
+	culture="polan"
 	religion="germanic_religion"
 	trade_goods="wood"
 	civilization_value=3
@@ -210,7 +210,7 @@
 
 4762={ #Buguntia
 	terrain="forest"
-	culture="vandal"
+	culture="polan"
 	religion="germanic_religion"
 	trade_goods="horses"
 	civilization_value=3
@@ -231,7 +231,7 @@
 
 4763={ #Helveconia
 	terrain="forest"
-	culture="vandal"
+	culture="polan"
 	religion="germanic_religion"
 	trade_goods="vegetables"
 	civilization_value=3
@@ -249,7 +249,7 @@
 
 4764={ #Helveconiana
 	terrain="forest"
-	culture="gothonic"
+	culture="kashub"
 	religion="germanic_religion"
 	trade_goods="wood"
 	civilization_value=3
@@ -270,7 +270,7 @@
 
 4765={ #Carinia
 	terrain="plains"
-	culture="gothonic"
+	culture="kashub"
 	religion="germanic_religion"
 	trade_goods="fur"
 	civilization_value=5
@@ -286,7 +286,7 @@
 
 4766={ #Cariniana
 	terrain="plains"
-	culture="gothonic"
+	culture="kashub"
 	religion="germanic_religion"
 	trade_goods="grain"
 	civilization_value=5
@@ -299,7 +299,7 @@
 
 4767={ #Buguntiana
 	terrain="forest"
-	culture="vandal"
+	culture="polan"
 	religion="germanic_religion"
 	trade_goods="grain"
 	civilization_value=3
@@ -317,7 +317,7 @@
 
 4768={ #Erbia
 	terrain="forest"
-	culture="vandal"
+	culture="polan"
 	religion="germanic_religion"
 	trade_goods="woad"
 	civilization_value=3
@@ -331,7 +331,7 @@
 
 4769={ #Manimia
 	terrain="plains"
-	culture="vandal"
+	culture="polan"
 	religion="germanic_religion"
 	trade_goods="cattle"
 	civilization_value=5
@@ -355,7 +355,7 @@
 
 4770={ #Vindua
 	terrain="forest"
-	culture="vandal"
+	culture="polan"
 	religion="germanic_religion"
 	trade_goods="cattle"
 	civilization_value=3
@@ -371,7 +371,7 @@
 
 4773={ #Elysia
 	terrain="plains"
-	culture="vandal"
+	culture="polan"
 	religion="germanic_religion"
 	trade_goods="woad"
 	civilization_value=5
@@ -384,7 +384,7 @@
 
 4774={ #Elysiana
 	terrain="forest"
-	culture="vandal"
+	culture="polan"
 	religion="germanic_religion"
 	trade_goods="fur"
 	civilization_value=3
@@ -402,7 +402,7 @@
 
 4775={ #Setideva
 	terrain="plains"
-	culture="vandal"
+	culture="polan"
 	religion="germanic_religion"
 	trade_goods="cattle"
 	civilization_value=5
@@ -415,7 +415,7 @@
 
 4776={ #Naharvalorum
 	terrain="forest"
-	culture="vandal"
+	culture="polan"
 	religion="germanic_religion"
 	trade_goods="wood"
 	civilization_value=3
@@ -436,7 +436,7 @@
 
 4862={ #Vistuliana
 	terrain="plains"
-	culture="aestian"
+	culture="kashub"
 	religion="matrist_religion"
 	trade_goods="amber"
 	civilization_value=5

@@ -1375,7 +1375,7 @@
 
 1806={ #Themiskyra
 	terrain="forest"
-	culture="greco_pontic"
+	culture="trapezuntine"
 	religion="roman_pantheon"
 	trade_goods="hemp"
 	civilization_value=9
@@ -1399,7 +1399,7 @@
 
 1807={ #Amisos
 	terrain="forest"
-	culture="greco_pontic"
+	culture="trapezuntine"
 	religion="roman_pantheon"
 	trade_goods="salt"
 	civilization_value=29
@@ -1440,7 +1440,7 @@
 
 1809={ #Gadilon
 	terrain="forest"
-	culture="cappadocian"
+	culture="trapezuntine"
 	religion="roman_pantheon"
 	trade_goods="wine"
 	civilization_value=9

@@ -58,6 +58,9 @@
 		sklabenoi_east = {} #anatolian serbs
 		polan = {}
 		white_serb = {}
+		kashub = {}
+		stodoranie = {}
+		obotrite = {}
 	}
 	
 	barbarian_names = { BRUTTII }

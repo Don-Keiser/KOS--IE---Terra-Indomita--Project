@@ -51,6 +51,9 @@
  alanic:0 "Alanic"
  ugric_peoples:0 "Ugric"
  avaric:0 "Avaric"
+ steppe_peoples:0 "Turkic"
+ greekoid:0 "Greek"
+ uandilic:0 "Uandilic"
 
  #Armenian Group
  armenian:0 "Ayrarat"
@@ -514,16 +517,18 @@
  venetian:0 "Venetian"
  ret:0 "Ret"
  #Eia Languages
- afro_roman:0 "African"
- muretannian:0 "Muretannian"
- ispannian:0 "Ispannian"
- lusitanu:0 "Lusitanian"
- numidu:0 "Numidian"
- cartagenu:0 "Cartagenian"
+ afro_roman:0 "Afrigu"
+ muretannian:0 "Muru"
+ ispannian:0 "Ispannu-Muru"
+ lusitanu:0 "Ulisianu"
+ numidu:0 "Nmizu"
+ cartagenu:0 "Cartagenu"
  toledu:0 "Toledu"
+ sardinian:0 "Sardu"
  #Ita Languages
  galetzian:0 "Galetzian"
  asturianu:0 "Asturian"
+ vacchaian:0 "Vacchaian"
  #Greco-Romance
  napulitan:0 "Napulitan"
  siceliote:0 "Siceliote"
@@ -543,8 +548,11 @@
  akvitadzyte:0 "Akvitadzyte"
  ronadzyte:0 "Ronadzyte"
  #Slavic
- polan:0 "Poland"
+ polan:0 "Polan"
  white_serb:0 "White Serb"
+ kashub:0 "Kaszëbi"
+ stodoranie:0 "Stodoranie"
+ obotrite:0 "Obotrite"
  #High-Germanic
  boarisch:0 "Boarisch"
  dieringisch:0 "Dieringisch"
@@ -561,6 +569,18 @@
  magyar:0 "Magyar"
  szekely:0 "Székely"
  kunsag:0 "Kunság"
+ etelkozi:0 "Etelközi"
+ volgmyi:0 "Volgmyi"
+ csangok:0 "Csangok"
+ vizselyi:0 "Vizselyi"
+ tiszai:0 "Tiszai"
+ #Greekoid
+ romaioi:0 "Romaioi"
+ trapezuntine:0 "Trapezuntine"
+ khemetine:0 "Khemetine"
+ patzinak:0 "Patzinak"
+ #Uandilic
+ uandil:0 "Uandil"
  #Naming
  aksumite_group_malename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  aksumite_group_femalename:0 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"

@@ -1,6 +1,6 @@
 ﻿3855={ #Marijoniz
 	terrain="marsh"
-	culture="ingvaeonic"
+	culture="lytsfrysk"
 	religion="germanic_religion"
 	trade_goods="amber"
 	civilization_value=1
@@ -17,7 +17,7 @@
 
 3856={ #Theudamariskaz
 	terrain="marsh"
-	culture="ingvaeonic"
+	culture="lytsfrysk"
 	religion="germanic_religion"
 	trade_goods="fish"
 	civilization_value=1
@@ -33,7 +33,7 @@
 
 3857={ #Hultasetijo
 	terrain="plains"
-	culture="ingvaeonic"
+	culture="lytsfrysk"
 	religion="germanic_religion"
 	trade_goods="wood"
 	civilization_value=5
@@ -46,7 +46,7 @@
 
 3859={ #Warjingijo
 	terrain="plains"
-	culture="irminonic"
+	culture="obotrite"
 	religion="germanic_religion"
 	trade_goods="fish"
 	civilization_value=5
@@ -59,7 +59,7 @@
 
 3860={ #Kinulaferthuz
 	terrain="plains"
-	culture="irminonic"
+	culture="jutsk"
 	religion="germanic_religion"
 	trade_goods="salt"
 	civilization_value=5
@@ -72,7 +72,7 @@
 
 3861={ #Akranaferthuz
 	terrain="plains"
-	culture="ingvaeonic"
+	culture="jutsk"
 	religion="germanic_religion"
 	trade_goods="woad"
 	civilization_value=5
@@ -88,7 +88,7 @@
 
 3862={ #Angulinaz
 	terrain="plains"
-	culture="ingvaeonic"
+	culture="jutsk"
 	religion="germanic_religion"
 	trade_goods="leather"
 	civilization_value=5
@@ -101,7 +101,7 @@
 
 3863={ #Idisistadiz
 	terrain="marsh"
-	culture="ingvaeonic"
+	culture="lytsfrysk"
 	religion="germanic_religion"
 	trade_goods="wood"
 	civilization_value=1
@@ -117,7 +117,7 @@
 
 3864={ #Tundrajaz
 	terrain="marsh"
-	culture="ingvaeonic"
+	culture="lytsfrysk"
 	religion="germanic_religion"
 	trade_goods="amber"
 	civilization_value=1
@@ -134,7 +134,7 @@
 
 3865={ #Sundawiduz
 	terrain="forest"
-	culture="ingvaeonic"
+	culture="jutsk"
 	religion="germanic_religion"
 	trade_goods="leather"
 	civilization_value=3
@@ -150,7 +150,7 @@
 
 3866={ #Jesabergaz
 	terrain="forest"
-	culture="cimbrian"
+	culture="jutsk"
 	religion="germanic_religion"
 	trade_goods="amber"
 	civilization_value=3
@@ -166,7 +166,7 @@
 
 3867={ #Rinnonhaimaz
 	terrain="forest"
-	culture="cimbrian"
+	culture="jutsk"
 	religion="germanic_religion"
 	trade_goods="fish"
 	civilization_value=3
@@ -180,7 +180,7 @@
 
 3868={ #Raudahwo
 	terrain="forest"
-	culture="ingvaeonic"
+	culture="jutsk"
 	religion="germanic_religion"
 	trade_goods="wood"
 	civilization_value=3
@@ -193,7 +193,7 @@
 
 3869={ #Kaldungiz
 	terrain="forest"
-	culture="cimbrian"
+	culture="jutsk"
 	religion="germanic_religion"
 	trade_goods="wood"
 	civilization_value=3
@@ -271,7 +271,7 @@
 
 3874={ #Hlaiwahaimawiko
 	terrain="forest"
-	culture="cimbrian"
+	culture="jutsk"
 	religion="germanic_religion"
 	trade_goods="amber"
 	civilization_value=3
@@ -287,7 +287,7 @@
 
 3875={ #Tiwastadiz
 	terrain="forest"
-	culture="cimbrian"
+	culture="jutsk"
 	religion="germanic_religion"
 	trade_goods="salt"
 	civilization_value=3
@@ -307,7 +307,7 @@
 
 3876={ #Flunthrijonsaiwiz
 	terrain="forest"
-	culture="cimbrian"
+	culture="jutsk"
 	religion="germanic_religion"
 	trade_goods="stone"
 	civilization_value=3
@@ -352,7 +352,7 @@
 
 3879={ #Skaganijo
 	terrain="forest"
-	culture="cimbrian"
+	culture="jutsk"
 	religion="germanic_religion"
 	trade_goods="amber"
 	civilization_value=3
@@ -372,7 +372,7 @@
 
 3880={ #Wandilo
 	terrain="forest"
-	culture="cimbrian"
+	culture="jutsk"
 	religion="germanic_religion"
 	trade_goods="fish"
 	civilization_value=3
@@ -512,7 +512,7 @@
 
 3888={ #Hammo
 	terrain="plains"
-	culture="ingvaeonic"
+	culture="lytsfrysk"
 	religion="germanic_religion"
 	trade_goods="leather"
 	civilization_value=5
@@ -531,7 +531,7 @@
 
 3889={ #Trewo
 	terrain="plains"
-	culture="ingvaeonic"
+	culture="lytsfrysk"
 	religion="germanic_religion"
 	trade_goods="horses"
 	civilization_value=5

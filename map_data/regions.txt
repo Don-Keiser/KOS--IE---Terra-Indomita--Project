@@ -605,6 +605,7 @@ fezzan_region = { #11 areas
 		soda_area
 		soffegin_area
 		zamzam_area
+		tigzirtia_area
 	}
 }
 
@@ -1023,6 +1024,7 @@ mediterranean_region = { #15 areas
 		mare_tyrrenum_area
 		sinus_gallicus_area
 		lacus_phazanus_area
+		lacus_tritonis_area
 	}
 }
 

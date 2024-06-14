@@ -186,6 +186,7 @@
 	culture = {
 		galetzian = {}
 		asturianu = {}
+		vacchaian = {}
 	}
 	
 	barbarian_names = { BRUTTII }
