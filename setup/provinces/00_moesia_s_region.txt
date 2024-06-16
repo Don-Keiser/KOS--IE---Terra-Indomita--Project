@@ -899,3 +899,28 @@
 	}
 }
 
+5093={ #Oyanem
+	terrain="mountain"
+	culture="taulantian"
+	religion="mithra_zalmos"
+	trade_goods="base_metals"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	freemen={
+		culture="valach"
+		religion="thessalonian_orthodox"
+		amount=2
+	}
+	freemen={
+		culture="red_croat"
+		amount=1
+	}
+	slaves={
+		amount=1
+	}
+}
+

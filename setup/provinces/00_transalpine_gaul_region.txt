@@ -1492,3 +1492,16 @@
 	}
 }
 
+5050={ #Saint Afrique
+	terrain="forest"
+	culture="tolosan"
+	religion="bons_chretiens"
+	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+}
+

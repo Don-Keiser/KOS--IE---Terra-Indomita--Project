@@ -1,0 +1,9 @@
+HRE = {
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "roman_gold"
+
+	textured_emblem = {
+		texture = "te_bees.dds"
+	}
+}

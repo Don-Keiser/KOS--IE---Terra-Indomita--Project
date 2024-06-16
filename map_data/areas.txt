@@ -947,7 +947,7 @@ danyang_area = { #8
 }
 
 dardania_inferioris_area = { #12
-	provinces = { 4092 4093 4094 4095 4098 4099 4108 4109 4110 4111 4113 4114 }
+	provinces = { 4092 4093 4094 4095 4098 4099 4108 4109 4110 4111 4113 4114 5093 }
 }
 
 dardania_superioris_area = { #11
@@ -1127,7 +1127,7 @@ elysia_area = { #9
 }
 
 epirus_area = { #10
-	provinces = { 419 421 425 464 465 467 470 474 476 3192 }
+	provinces = { 419 421 425 464 465 467 470 474 476 3192 5067 5068 5070 }
 }
 
 euboea_area = { #10
@@ -1551,7 +1551,7 @@ ili_area = { #12
 }
 
 illyria_graeca_area = { #7
-	provinces = { 415 422 455 1445 2213 2264 2336 }
+	provinces = { 415 422 455 1445 2213 2264 2336 5075 }
 }
 
 ilmandu_inferior_area = { #12
@@ -2475,7 +2475,7 @@ narbonensis_occidentalis_area = { #11
 }
 
 narbonensis_orientalis_area = { #10
-	provinces = { 1079 2253 2254 2255 2262 2263 2265 2266 2267 2280 }
+	provinces = { 1079 2253 2254 2255 2262 2263 2265 2266 2267 2280 5050 }
 }
 
 narmada_river_area = { #5
@@ -3455,7 +3455,7 @@ thames_river_area = { #1
 }
 
 thessaly_area = { #14
-	provinces = { 388 389 390 391 392 394 395 396 398 404 420 8023 8024 8025 }
+	provinces = { 388 389 390 391 392 394 395 396 398 404 420 5069 8023 8025 }
 }
 
 thracia_area = { #15
@@ -3631,7 +3631,7 @@ upper_jaxartia_area = { #10
 }
 
 upper_macedonia_area = { #10
-	provinces = { 393 397 400 405 408 411 412 3125 3175 3356 12907 }
+	provinces = { 393 397 400 405 408 411 412 3125 3175 3356 5076 8024 12907 }
 }
 
 upper_mesopotamia_area = { #12

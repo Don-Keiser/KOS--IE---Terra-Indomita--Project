@@ -75,15 +75,10 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=3
-	}
-	freemen={
 		amount=4
 	}
-	tribesmen={
-		culture="getian"
-		religion="shamanism"
-		amount=5
+	freemen={
+		amount=8
 	}
 }
 
