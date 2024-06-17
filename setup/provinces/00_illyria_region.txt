@@ -1142,6 +1142,54 @@
 	}
 }
 
+5079={ #Komine
+	terrain="mountain"
+	culture="patzinak"
+	religion="jayayan_zalmukh"
+	trade_goods="leather"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=1
+	}
+}
+
+5080={ #Ilyme
+	terrain="mountain"
+	culture="patzinak"
+	religion="jayayan_zalmukh"
+	trade_goods="stone"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+}
+
+5082={ #Naro
+	terrain="mountain"
+	culture="romaioi"
+	religion="thessalonian_orthodox"
+	trade_goods="base_metals"
+	civilization_value=8
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=1
+	}
+}
+
 8026={ #Issa
 	terrain="hills"
 	culture="romaioi"

@@ -301,7 +301,7 @@ country = {
 			capital = 1453 #Byzantion	
 			
 			own_control_core = {
-				5067 5068 5069 5070 8024
+				5067 5068 5069 5070 5082 8024
 				4154 4314 343 482 323 324 261 256 255 262 164 7951
 				795 796 792 790 789 791 787 788 784 786 1871
 				422 455 1445 414 495 489 44
@@ -452,7 +452,7 @@ country = {
 			capital = 4195 #Singidunum	
 			
 			own_control_core = {
-				4071
+				4071 5079 5080
 				4197 4198 4195 4124 4196 4194 #Scordiscia
 				4123 4125 4126 4128 4129 4130 #Marsonia
 				4204 4203 4199 4205 4206 #Tricornensia
@@ -511,7 +511,7 @@ country = {
 		MOE = { #Moesogoths
 			government = aristocratic_monarchy
 			primary_culture = moesogoth
-			religion = mithra_zalmos
+			religion = avar_church
 			diplomatic_stance=appeasement_stance
 			
 			capital = 4112 #Navissos
