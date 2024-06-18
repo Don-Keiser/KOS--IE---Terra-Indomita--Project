@@ -1,0 +1,10 @@
+country = {
+	countries = {
+		BAR = {
+			government = tribal_chiefdom
+		}
+	}
+}
+
+road_network = {
+}
