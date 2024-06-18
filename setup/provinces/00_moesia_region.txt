@@ -29,15 +29,20 @@
 	trade_goods="cattle"
 	civilization_value=12
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
 	citizen={
-		amount=1
+		amount=4
 	}
 	freemen={
-		amount=2
+		amount=6
 	}
-	tribesmen={
-		amount=3
+	freemen={
+		culture="valach"
+		religion="thessalonian_orthodox"
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -53,13 +58,20 @@
 		amount=2
 	}
 	freemen={
+		amount=4
+	}
+	freemen={
+		culture="valach"
+		religion="thessalonian_orthodox"
+		amount=1
+	}
+	freemen={
+		culture="moesogoth"
+		religion="avar_church"
 		amount=2
 	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		amount=2
 	}
 }
 
@@ -72,69 +84,73 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount=2
 	}
 	freemen={
-		amount=1
+		amount=4
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=4
+		amount=2
 	}
 }
 
 4208={ #Taliata
 	terrain="plains"
-	culture="kunsag"
-	religion="jayayan_zalmukh"
+	culture="valach"
+	religion="thessalonian_orthodox"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount=5
+	}
+	freemen={
+		culture="kunsag"
+		religion="jayayan_zalmukh"
+		amount=3
 	}
 	slaves={
-		amount=6
-	}
-	slaves={
-		religion="mithra_zalmos"
-		amount=2
-	}
-	tribesmen={
-		amount=2
+		amount=4
 	}
 }
 
 4209={ #Egeta
 	terrain="plains"
-	culture="kunsag"
-	religion="jayayan_zalmukh"
+	culture="valach"
+	religion="thessalonian_orthodox"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=6
 	}
 	freemen={
-		amount=2
+		amount=7
 	}
-	tribesmen={
+	freemen={
+		culture="kunsag"
+		religion="jayayan_zalmukh"
+		amount=5
+	}
+	freemen={
+		culture="moesogoth"
+		religion="avar_church"
 		amount=1
 	}
-	tribesmen={
-		religion="mithra_zalmos"
-		amount=1
+	slaves={
+		amount=4
 	}
 }
 
 4214={ #Clevora
 	terrain="plains"
-	culture="kunsag"
-	religion="jayayan_zalmukh"
+	culture="valach"
+	religion="thessalonian_orthodox"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -145,19 +161,20 @@
 	freemen={
 		amount=2
 	}
-	tribesmen={
-		amount=2
+	freemen={
+		culture="kunsag"
+		religion="jayayan_zalmukh"
+		amount=4
 	}
-	tribesmen={
-		religion="mithra_zalmos"
-		amount=1
+	slaves={
+		amount=2
 	}
 }
 
 4215={ #Dortium
 	terrain="farmland"
-	culture="kunsag"
-	religion="jayayan_zalmukh"
+	culture="valach"
+	religion="thessalonian_orthodox"
 	trade_goods="vegetables"
 	civilization_value=12
 	barbarian_power=0
@@ -165,11 +182,13 @@
 	freemen={
 		amount=3
 	}
+	freemen={
+		culture="kunsag"
+		religion="jayayan_zalmukh"
+		amount=3
+	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		amount=3
 	}
 }
 
@@ -177,18 +196,36 @@
 	terrain="farmland"
 	culture="kunsag"
 	religion="jayayan_zalmukh"
-	trade_goods="vegetables"
-	civilization_value=12
+	trade_goods="wine"
+	civilization_value=25
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
 		amount=2
 	}
-	slaves={
-		amount=1
+	citizen={
+		amount=6
 	}
-	tribesmen={
-		amount=4
+	freemen={
+		amount=8
+	}
+	freemen={
+		culture="valach"
+		religion="thessalonian_orthodox"
+		amount=5
+	}
+	freemen={
+		culture="moesogoth"
+		religion="avar_church"
+		amount=2
+	}
+	freemen={
+		culture="rughan"
+		religion="mithra_zalmos"
+		amount=3
+	}
+	slaves={
+		amount=5
 	}
 }
 
@@ -201,17 +238,27 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
+		amount=3
+	}
+	freemen={
+		culture="valach"
+		religion="thessalonian_orthodox"
+		amount=2
+	}
+	freemen={
+		culture="rughan"
+		religion="mithra_zalmos"
 		amount=1
 	}
-	tribesmen={
-		amount=3
+	slaves={
+		amount=2
 	}
 }
 
 4218={ #Castra Martis
 	terrain="plains"
-	culture="kunsag"
-	religion="jayayan_zalmukh"
+	culture="valach"
+	religion="thessalonian_orthodox"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -222,8 +269,18 @@
 	freemen={
 		amount=3
 	}
-	tribesmen={
-		amount=4
+	freemen={
+		culture="kunsag"
+		religion="jayayan_zalmukh"
+		amount=1
+	}
+	freemen={
+		culture="moesogoth"
+		religion="avar_church"
+		amount=2
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -236,32 +293,44 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount=2
 	}
 	freemen={
-		amount=1
+		amount=3
 	}
-	tribesmen={
+	freemen={
+		culture="valach"
+		religion="thessalonian_orthodox"
 		amount=4
+	}
+	slaves={
+		amount=1
 	}
 }
 
 4220={ #Combustica
 	terrain="plains"
-	culture="kunsag"
-	religion="jayayan_zalmukh"
+	culture="valach"
+	religion="thessalonian_orthodox"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
+		amount=3
+	}
+	freemen={
+		culture="moesogoth"
+		religion="avar_church"
+		amount=2
+	}
+	freemen={
+		culture="kunsag"
+		religion="jayayan_zalmukh"
 		amount=2
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=3
+		amount=2
 	}
 }
 
@@ -293,10 +362,15 @@
 		amount=1
 	}
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=2
+	}
+	freemen={
+		culture="moesogoth"
+		religion="avar_church"
+		amount=2
+	}
+	slaves={
+		amount=1
 	}
 }
 

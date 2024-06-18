@@ -1,7 +1,7 @@
 country = {
 	countries = {	
 		HRE = { #Holy Roman Empire
-			government = aristocratic_monarchy
+			government = imperium
 			primary_culture = neustrien
 			religion = roman_church
 			diplomatic_stance=appeasement_stance
@@ -53,6 +53,7 @@ country = {
 			
 			own_control_core = {
 				2282 2329
+				5050
 				2235 2236 2237 2238 2241 2242 2245 2233 #Guyenne
 				2289 2294 2292 2293 2269 2270 2326 2327 2335 #Cardurcia
 				2288 2272 2274 2281 2273 2250 2271 2275 2278 2279 #Auscia
@@ -161,7 +162,7 @@ country = {
 		}
 		
 		ISP = { #Muretannia-Ispannia
-			government = aristocratic_monarchy
+			government = imperium
 			primary_culture = muretannian
 			religion = african_church
 			diplomatic_stance=appeasement_stance
@@ -243,7 +244,7 @@ country = {
 		}
 		
 		UAD = { #Uandils
-			government = aristocratic_monarchy
+			government = imperium
 			primary_culture = uandil
 			religion = arian_church
 			diplomatic_stance=appeasement_stance
@@ -292,7 +293,7 @@ country = {
 		}
 		
 		BYZ = { #Byzantium
-			government = aristocratic_monarchy
+			government = imperium
 			primary_culture = romaioi
 			religion = thessalonian_orthodox
 			diplomatic_stance=appeasement_stance
@@ -300,6 +301,7 @@ country = {
 			capital = 1453 #Byzantion	
 			
 			own_control_core = {
+				5067 5068 5069 5070 5082 8024
 				4154 4314 343 482 323 324 261 256 255 262 164 7951
 				795 796 792 790 789 791 787 788 784 786 1871
 				422 455 1445 414 495 489 44
@@ -341,7 +343,7 @@ country = {
 		}
 		
 		PAP = { #Papal States
-			government = aristocratic_monarchy
+			government = theocratic_monarchy
 			primary_culture = romanian
 			religion = roman_church
 			diplomatic_stance=appeasement_stance
@@ -384,6 +386,7 @@ country = {
 			capital = 415 #Epidamnos	
 			
 			own_control_core = {
+				5075 5076 5093
 				415 2213 2264 2336 1144 4092 4094 4095 4093 4099 4100 4098 4113
 			}
 		}
@@ -394,7 +397,7 @@ country = {
 			religion = thessalonian_orthodox
 			diplomatic_stance=appeasement_stance
 			
-			capital = 4850 #Feher	
+			capital = 4157 #Esztergom	
 			
 			own_control_core = {
 				4034 4033 4050 4035 4049 4051 4077 4061 4134 4135 4143 3927 4147 4146 4144
@@ -449,7 +452,7 @@ country = {
 			capital = 4195 #Singidunum	
 			
 			own_control_core = {
-				4071
+				4071 5079 5080
 				4197 4198 4195 4124 4196 4194 #Scordiscia
 				4123 4125 4126 4128 4129 4130 #Marsonia
 				4204 4203 4199 4205 4206 #Tricornensia
@@ -508,7 +511,7 @@ country = {
 		MOE = { #Moesogoths
 			government = aristocratic_monarchy
 			primary_culture = moesogoth
-			religion = mithra_zalmos
+			religion = avar_church
 			diplomatic_stance=appeasement_stance
 			
 			capital = 4112 #Navissos
@@ -1023,7 +1026,7 @@ country = {
 		}
 		
 		BNV = { #Beneviento
-			government = aristocratic_monarchy
+			government = theocratic_monarchy
 			primary_culture = romanian
 			religion = roman_church
 			diplomatic_stance=appeasement_stance
@@ -1039,7 +1042,7 @@ country = {
 		}
 		
 		ATR = { #Aterno
-			government = aristocratic_monarchy
+			government = stratocratic_monarchy
 			primary_culture = romanian
 			religion = roman_church
 			diplomatic_stance=appeasement_stance
@@ -1052,7 +1055,7 @@ country = {
 		}
 		
 		ANC = { #Ancona
-			government = aristocratic_monarchy
+			government = oligarchic_republic
 			primary_culture = romanian
 			religion = roman_church
 			diplomatic_stance=appeasement_stance
@@ -1066,7 +1069,7 @@ country = {
 		}
 		
 		SIE = { #Siena
-			government = aristocratic_monarchy
+			government = oligarchic_republic
 			primary_culture = romanian
 			religion = roman_church
 			diplomatic_stance=appeasement_stance
@@ -1079,7 +1082,7 @@ country = {
 		}
 		
 		FLO = { #Florence
-			government = aristocratic_monarchy
+			government = oligarchic_republic
 			primary_culture = romanian
 			religion = roman_church
 			diplomatic_stance=appeasement_stance
@@ -1092,7 +1095,7 @@ country = {
 		}
 		
 		PIS = { #Pisa
-			government = aristocratic_monarchy
+			government = oligarchic_republic
 			primary_culture = romanian
 			religion = roman_church
 			diplomatic_stance=appeasement_stance
@@ -1106,7 +1109,7 @@ country = {
 		}
 		
 		VLT = { #Volterra
-			government = aristocratic_monarchy
+			government = theocratic_monarchy
 			primary_culture = romanian
 			religion = roman_church
 			diplomatic_stance=appeasement_stance
@@ -1119,7 +1122,7 @@ country = {
 		}
 		
 		PST = { #Pistoia
-			government = aristocratic_monarchy
+			government = democratic_republic
 			primary_culture = romanian
 			religion = roman_church
 			diplomatic_stance=appeasement_stance
@@ -1132,7 +1135,7 @@ country = {
 		}
 		
 		LUC = { #Lucca
-			government = aristocratic_monarchy
+			government = oligarchic_republic
 			primary_culture = romanian
 			religion = roman_church
 			diplomatic_stance=appeasement_stance

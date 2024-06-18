@@ -48,13 +48,18 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount=2
 	}
 	freemen={
-		amount=1
+		amount=4
+	}
+	freemen={
+		culture="valach"
+		religion="thessalonian_orthodox"
+		amount=2
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -70,6 +75,11 @@
 		amount=1
 	}
 	freemen={
+		amount=2
+	}
+	freemen={
+		culture="valach"
+		religion="thessalonian_orthodox"
 		amount=1
 	}
 	slaves={
@@ -86,13 +96,18 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount=2
 	}
 	freemen={
-		amount=1
+		amount=4
+	}
+	freemen={
+		culture="valach"
+		religion="thessalonian_orthodox"
+		amount=2
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -110,6 +125,15 @@
 	freemen={
 		amount=1
 	}
+	freemen={
+		culture="valach"
+		religion="thessalonian_orthodox"
+		amount=2
+	}
+	freemen={
+		culture="red_croat"
+		amount=2
+	}
 	slaves={
 		amount=1
 	}
@@ -124,13 +148,18 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount=2
 	}
 	freemen={
-		amount=1
+		amount=5
+	}
+	freemen={
+		culture="valach"
+		religion="thessalonian_orthodox"
+		amount=3
 	}
 	slaves={
-		amount=1
+		amount=4
 	}
 }
 
@@ -139,17 +168,22 @@
 	culture="taulantian"
 	religion="mithra_zalmos"
 	trade_goods="grain"
-	civilization_value=12
+	civilization_value=22
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
 	citizen={
-		amount=1
+		amount=3
 	}
 	freemen={
-		amount=1
+		amount=6
+	}
+	freemen={
+		culture="valach"
+		religion="thessalonian_orthodox"
+		amount=4
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 	holy_site=omen_andinus
 }
@@ -166,10 +200,15 @@
 		amount=1
 	}
 	freemen={
-		amount=1
+		amount=3
+	}
+	freemen={
+		culture="valach"
+		religion="thessalonian_orthodox"
+		amount=2
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -182,10 +221,23 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	freemen={
+		culture="valach"
+		religion="thessalonian_orthodox"
 		amount=1
 	}
 	freemen={
+		culture="patzinak"
+		religion="thessalonian_orthodox"
 		amount=1
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -201,8 +253,13 @@
 		amount=1
 	}
 	freemen={
-		amount=1
+		amount=3
 	}
+	freemen={
+		culture="valach"
+		religion="thessalonian_orthodox"
+		amount=1
+	}	
 }
 
 4106={ #Risetia
@@ -217,10 +274,15 @@
 		amount=1
 	}
 	freemen={
-		amount=1
+		amount=3
+	}
+	freemen={
+		religion="thessalonian_orthodox"
+		culture="valach"
+		amount=2
 	}
 	slaves={
-		amount=5
+		amount=4
 	}
 }
 
@@ -237,6 +299,11 @@
 	}
 	freemen={
 		amount=1
+	}
+	freemen={
+		culture="valach"
+		religion="thessalonian_orthodox"
+		amount=2
 	}
 	slaves={
 		amount=1
@@ -257,6 +324,16 @@
 	freemen={
 		amount=1
 	}
+	freemen={
+		culture="valach"
+		religion="thessalonian_orthodox"
+		amount=1
+	}
+	freemen={
+		culture="moesogoth"
+		religion="avar_church"
+		amount=2
+	}
 	slaves={
 		amount=1
 	}
@@ -274,10 +351,15 @@
 		amount=1
 	}
 	freemen={
-		amount=1
+		amount=3
+	}
+	freemen={
+		culture="valach"
+		religion="thessalonian_orthodox"
+		amount=3
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -290,10 +372,15 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
-	}
-	tribesmen={
 		amount=4
+	}
+	freemen={
+		culture="valach"
+		religion="thessalonian_orthodox"
+		amount=2
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -309,6 +396,16 @@
 		amount=1
 	}
 	freemen={
+		amount=1
+	}
+	freemen={
+		culture="valach"
+		religion="thessalonian_orthodox"
+		amount=2
+	}
+	freemen={
+		culture="taulantian"
+		religion="mithra_zalmos"
 		amount=1
 	}
 	slaves={
@@ -328,7 +425,12 @@
 		amount=1
 	}
 	freemen={
-		amount=1
+		amount=2
+	}
+	freemen={
+		culture="valach"
+		religion="thessalonian_orthodox"
+		amount=2
 	}
 	slaves={
 		amount=1
@@ -344,10 +446,15 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount=2
 	}
 	freemen={
-		amount=1
+		amount=4
+	}
+	freemen={
+		culture="valach"
+		religion="thessalonian_orthodox"
+		amount=3
 	}
 	slaves={
 		amount=1
@@ -366,10 +473,20 @@
 		amount=1
 	}
 	freemen={
+		amount=4
+	}
+	freemen={
+		culture="valach"
+		religion="thessalonian_orthodox"
+		amount=2
+	}
+	freemen={
+		culture="patzinak"
+		religion="jayayan_zalmukh"
 		amount=1
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
@@ -382,13 +499,23 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	freemen={
+		culture="valach"
+		religion="thessalonian_orthodox"
 		amount=1
 	}
 	freemen={
+		culture="patzinak"
+		religion="jayayan_zalmukh"
 		amount=1
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -401,13 +528,21 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount=2
 	}
 	freemen={
-		amount=1
+		amount=3
+	}
+	freemen={
+		religion="jayayan_zalmukh"
+		amount=2
+	}
+	freemen={
+		culture="valach"
+		amount=2
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
@@ -423,10 +558,18 @@
 		amount=1
 	}
 	freemen={
+		amount=2
+	}
+	freemen={
+		religion="jayayan_zalmukh"
+		amount=2
+	}
+	freemen={
+		culture="valach"
 		amount=1
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -501,17 +644,25 @@
 	culture="patzinak"
 	religion="thessalonian_orthodox"
 	trade_goods="wine"
-	civilization_value=11
+	civilization_value=20
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	citizen={
+		amount=7
+	}
 	freemen={
-		amount=2
+		amount=9
+	}
+	freemen={
+		culture="golden_avar"
+		religion="avar_church"
+		amount=5
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=2
+		amount=6
 	}
 }
 
@@ -527,13 +678,18 @@
 		amount=1
 	}
 	freemen={
-		amount=1
+		amount=3
+	}
+	freemen={
+		religion="jayayan_zalmukh"
+		amount=3
+	}
+	freemen={
+		culture="valach"
+		amount=2
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=3
+		amount=2
 	}
 }
 
@@ -624,21 +780,32 @@
 	trade_goods="cinnabar"
 	civilization_value=11
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=4
+	}
+	citizen={
+		amount=8
+	}
 	freemen={
+		amount=6
+	}
+	freemen={
+		culture="golden_avar"
+		religion="avar_church"
+		amount=4
+	}
+	freemen={
+		culture="kunsag"
+		religion="jayayan_zalmukh"
 		amount=2
+	}
+	freemen={
+		religion="jayayan_zalmukh"
+		amount=6
 	}
 	slaves={
-		amount=2
-	}
-	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		amount=1
+		amount=7
 	}
 }
 
@@ -717,21 +884,26 @@
 
 4200={ #Viminacium Moesiacum
 	terrain="forest"
-	culture="kunsag"
-	religion="jayayan_zalmukh"
+	culture="valach"
+	religion="thessalonian_orthodox"
 	trade_goods="wood"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount=4
+	}
+	freemen={
+		culture="kunsag"
+		religion="jayayan_zalmukh"
+		amount=2
 	}
 }
 
 4201={ #Municipium
 	terrain="plains"
-	culture="kunsag"
-	religion="jayayan_zalmukh"
+	culture="valach"
+	religion="thessalonian_orthodox"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -740,7 +912,15 @@
 		amount=2
 	}
 	freemen={
+		amount=5
+	}
+	freemen={
+		culture="kunsag"
+		religion="jayayan_zalmukh"
 		amount=4
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -752,7 +932,18 @@
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=2
+	}
 	freemen={
+		amount=5
+	}
+	freemen={
+		culture="valach"
+		religion="thessalonian_orthodox"
+		amount=4
+	}
+	slaves={
 		amount=2
 	}
 }
@@ -765,36 +956,48 @@
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=2
+	}
 	freemen={
-		amount=1
+		amount=4
+	}
+	freemen={
+		culture="valach"
+		religion="thessalonian_orthodox"
+		amount=3
 	}
 	slaves={
 		amount=2
-	}
-	tribesmen={
-		amount=3
 	}
 }
 
 4204={ #Idimum
 	terrain="forest"
-	culture="moesogoth"
-	religion="avar_church"
+	culture="valach"
+	religion="thessalonian_orthodox"
 	trade_goods="hemp"
 	civilization_value=9
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
 	citizen={
-		amount=2
+		amount=4
 	}
 	freemen={
-		amount=1
+		amount=5
 	}
-	tribesmen={
+	freemen={
+		culture="moesogoth"
+		religion="avar_church"
+		amount=3
+	}
+	freemen={
+		culture="patzinak"
+		religion="jayayan_zalmukh"
 		amount=2
 	}
-	tribesmen={
-		amount=1
+	slaves={
+		amount=3
 	}
 }
 
@@ -841,30 +1044,29 @@
 
 4207={ #Cuppae
 	terrain="plains"
-	culture="kunsag"
-	religion="jayayan_zalmukh"
+	culture="valach"
+	religion="thessalonian_orthodox"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
+		amount=4
+	}
+	freemen={
+		culture="kunsag"
+		religion="jayayan_zalmukh"
 		amount=2
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
 		amount=2
-	}
-	tribesmen={
-		amount=1
 	}
 }
 
 4212={ #Bao
 	terrain="hills"
-	culture="kunsag"
-	religion="jayayan_zalmukh"
+	culture="valach"
+	religion="thessalonian_orthodox"
 	trade_goods="woad"
 	civilization_value=8
 	barbarian_power=0
@@ -873,20 +1075,27 @@
 		amount=1
 	}
 	freemen={
-		amount=1
-	}
-	tribesmen={
 		amount=2
 	}
-	tribesmen={
+	freemen={
+		culture="moesogoth"
+		religion="avar_church"
 		amount=1
+	}
+	freemen={
+		culture="kunsag"
+		religion="jayayan_zalmukh"
+		amount=2
+	}
+	slaves={
+		amount=2
 	}
 }
 
 4213={ #Romuliana
 	terrain="hills"
-	culture="moesogoth"
-	religion="avar_church"
+	culture="valach"
+	religion="thessalonian_orthodox"
 	trade_goods="leather"
 	civilization_value=8
 	barbarian_power=0
@@ -894,8 +1103,38 @@
 	freemen={
 		amount=2
 	}
-	tribesmen={
+	freemen={
+		culture="moesogoth"
+		religion="avar_church"
+		amount=3
+	}
+	slaves={
 		amount=2
+	}
+}
+
+5093={ #Oyanem
+	terrain="mountain"
+	culture="taulantian"
+	religion="mithra_zalmos"
+	trade_goods="base_metals"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	freemen={
+		culture="valach"
+		religion="thessalonian_orthodox"
+		amount=2
+	}
+	freemen={
+		culture="red_croat"
+		amount=1
+	}
+	slaves={
+		amount=1
 	}
 }
 

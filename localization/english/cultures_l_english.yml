@@ -43,6 +43,7 @@
  si:0 "Si Romance"
  eia:0 "Eia Romance"
  ita:0 "Ita Romance"
+ ay:0 "Ay Romance"
  greco_romance:0 "Greco-Romance"
  brittonic:0 "Brittonic"
  sklabenoi:0 "Slavic"
@@ -54,6 +55,7 @@
  steppe_peoples:0 "Turkic"
  greekoid:0 "Greek"
  uandilic:0 "Uandilic"
+ dinaro_turkic:0 "Dinaro-Turkic"
 
  #Armenian Group
  armenian:0 "Ayrarat"
@@ -525,6 +527,9 @@
  cartagenu:0 "Cartagenu"
  toledu:0 "Toledu"
  sardinian:0 "Sardu"
+ #Ay Languages
+ valach:0 "Valach"
+ juhasian:0 "Juhasian"
  #Ita Languages
  galetzian:0 "Galetzian"
  asturianu:0 "Asturian"
@@ -547,6 +552,7 @@
  vaskedzyte:0 "Vaskedzyte"
  akvitadzyte:0 "Akvitadzyte"
  ronadzyte:0 "Ronadzyte"
+ jassic:0 "Jász"
  #Slavic
  polan:0 "Polan"
  white_serb:0 "White Serb"
@@ -578,9 +584,11 @@
  romaioi:0 "Romaioi"
  trapezuntine:0 "Trapezuntine"
  khemetine:0 "Khemetine"
- patzinak:0 "Patzinak"
  #Uandilic
  uandil:0 "Uandil"
+ #Dinaro-Turkic
+ patzinak:0 "Patzinak"
+ dalmavlakhic:0 "Dalmavlakhic"
  #Naming
  aksumite_group_malename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  aksumite_group_femalename:0 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
@@ -686,6 +694,8 @@
  alanic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_FEMALE$ $NICKNAME$"
  avaric_malename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  avaric_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_FEMALE$ $NICKNAME$"
+ ay_malename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ ay_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_FEMALE$ $NICKNAME$"
 
  #Pu
  ARMY_NAME_pu:0 "$NUM$$ORDER$ Army"

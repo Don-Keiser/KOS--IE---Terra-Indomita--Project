@@ -1,7 +1,7 @@
 ﻿4210={ #Dierna
 	terrain="hills"
-	culture="kunsag"
-	religion="shamanism"
+	culture="valach"
+	religion="thessalonian_orthodox"
 	trade_goods="iron"
 	civilization_value=8
 	barbarian_power=0
@@ -9,46 +9,56 @@
 	freemen={
 		amount=3
 	}
+	freemen={
+		culture="kunsag"
+		religion="jayayan_zalmukh"
+		amount=4
+	}
 	slaves={
 		amount=2
-	}
-	tribesmen={
-		amount=4
 	}
 }
 
 4211={ #Drobeta
 	terrain="marsh"
 	culture="kunsag"
-	religion="shamanism"
+	religion="thessalonian_orthodox"
 	trade_goods="wood"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount=2
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
 		amount=2
 	}
 }
 
 4260={ #Castra Arcidava
 	terrain="forest"
-	culture="kunsag"
-	religion="shamanism"
+	culture="valach"
+	religion="thessalonian_orthodox"
 	trade_goods="wood"
-	civilization_value=8
+	civilization_value=20
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="citizen"
+	nobles={
 		amount=2
 	}
-	tribesmen={
-		amount=3
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=6
+	}
+	freemen={
+		culture="kunsag"
+		religion="jayayan_zalmukh"
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -70,39 +80,46 @@
 
 4262={ #Ad Pannonios
 	terrain="hills"
-	culture="kunsag"
-	religion="shamanism"
+	culture="valach"
+	religion="thessalonian_orthodox"
 	trade_goods="leather"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
-	slaves={
-		amount=1
+	freemen={
+		amount=4
 	}
-	tribesmen={
+	freemen={
+		culture="kunsag"
+		religion="jayayan_zalmukh"
+		amount=2
+	}
+	slaves={
 		amount=2
 	}
 }
 
 4263={ #Ad Scorfulas
 	terrain="hills"
-	culture="kunsag"
-	religion="shamanism"
+	culture="valach"
+	religion="thessalonian_orthodox"
 	trade_goods="iron"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
-	}
-	freemen={
 		amount=2
 	}
-	slaves={
-		amount=1
+	freemen={
+		amount=4
 	}
-	tribesmen={
+	freemen={
+		culture="kunsag"
+		religion="jayayan_zalmukh"
 		amount=3
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -141,23 +158,20 @@
 4266={ #Romula Saldensica
 	terrain="forest"
 	culture="kunsag"
-	religion="shamanism"
+	religion="jayayan_zalmukh"
 	trade_goods="leather"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
-	}
-	tribesmen={
-		amount=3
+		amount=5
 	}
 }
 
 4267={ #Castris Novis
 	terrain="forest"
 	culture="kunsag"
-	religion="shamanism"
+	religion="jayayan_zalmukh"
 	trade_goods="cattle"
 	civilization_value=8
 	barbarian_power=0
@@ -166,17 +180,14 @@
 		amount=2
 	}
 	freemen={
-		amount=3
-	}
-	tribesmen={
-		amount=2
+		amount=5
 	}
 }
 
 4268={ #Acidava
 	terrain="forest"
 	culture="kunsag"
-	religion="shamanism"
+	religion="jayayan_zalmukh"
 	trade_goods="grain"
 	civilization_value=8
 	barbarian_power=0
@@ -185,161 +196,155 @@
 		amount=1
 	}
 	freemen={
-		amount=1
+		amount=3
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=3
+		amount=2
 	}
 }
 
 4269={ #Rusidava
 	terrain="marsh"
 	culture="kunsag"
-	religion="shamanism"
+	religion="jayayan_zalmukh"
 	trade_goods="grain"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
-	}
-	tribesmen={
-		amount=2
+		amount=6
 	}
 }
 
 4270={ #Pelendava
 	terrain="forest"
 	culture="kunsag"
-	religion="shamanism"
+	religion="jayayan_zalmukh"
 	trade_goods="horses"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount=5
 	}
 	slaves={
 		amount=1
-	}
-	tribesmen={
-		amount=2
 	}
 }
 
 4271={ #Confluentiana
 	terrain="marsh"
 	culture="kunsag"
-	religion="shamanism"
+	religion="jayayan_zalmukh"
 	trade_goods="horses"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount=5
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=4
+		amount=2
 	}
 }
 
 4272={ #Pons Aluti
 	terrain="marsh"
 	culture="kunsag"
-	religion="shamanism"
+	religion="jayayan_zalmukh"
 	trade_goods="base_metals"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount=2
 	}
 	freemen={
-		amount=4
+		amount=7
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=3
+		amount=2
 	}
 }
 
 4273={ #Buridava
 	terrain="marsh"
 	culture="kunsag"
-	religion="shamanism"
+	religion="jayayan_zalmukh"
 	trade_goods="base_metals"
 	civilization_value=11
 	barbarian_power=0
 	province_rank="city"
-	freemen={
+	nobles={
 		amount=3
+	}
+	citizen={
+		amount=6
+	}
+	freemen={
+		amount=11
+	}
+	freemen={
+		culture="black_croat"
+		religion="mithra_zalmos"
+		amount=4
+	}
+	freemen={
+		culture="szekely"
+		religion="thessalonian_orthodox"
+		amount=3
+	}
+	freemen={
+		culture="magyar"
+		religion="thessalonian_orthodox"
+		amount=2
 	}
 	slaves={
 		amount=2
-	}
-	tribesmen={
-		amount=9
 	}
 }
 
 4274={ #Confluentia Malvensis
 	terrain="marsh"
 	culture="kunsag"
-	religion="shamanism"
+	religion="jayayan_zalmukh"
 	trade_goods="leather"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount=4
 	}
 	slaves={
 		amount=2
-	}
-	tribesmen={
-		amount=3
 	}
 }
 
 4275={ #Ad Mutriam
 	terrain="hills"
 	culture="kunsag"
-	religion="shamanism"
+	religion="jayayan_zalmukh"
 	trade_goods="cattle"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=3
+		amount=4
 	}
 }
 
 4276={ #Castra Bistrita
 	terrain="forest"
 	culture="kunsag"
-	religion="shamanism"
+	religion="thessalonian_orthodox"
 	trade_goods="wood"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=1
+		amount=3
 	}
 	slaves={
-		amount=2
-	}
-	tribesmen={
 		amount=2
 	}
 }
@@ -347,60 +352,58 @@
 4277={ #Salcia
 	terrain="marsh"
 	culture="kunsag"
-	religion="shamanism"
+	religion="thessalonian_orthodox"
 	trade_goods="wood"
 	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount=2
 	}
 	freemen={
-		amount=1
-	}
-	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
 4278={ #Amutria
 	terrain="forest"
 	culture="kunsag"
-	religion="shamanism"
+	religion="thessalonian_orthodox"
 	trade_goods="grain"
 	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount=5
 	}
 	slaves={
 		amount=2
-	}
-	tribesmen={
-		amount=3
 	}
 }
 
 4279={ #Dumbrava
 	terrain="farmland"
 	culture="kunsag"
-	religion="shamanism"
+	religion="thessalonian_orthodox"
 	trade_goods="base_metals"
-	civilization_value=12
+	civilization_value=20
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=2
+	}
 	citizen={
-		amount=1
+		amount=6
 	}
 	freemen={
-		amount=1
+		amount=9
+	}
+	freemen={
+		religion="jayayan_zalmukh"
+		amount=5
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=2
+		amount=7
 	}
 }
 
@@ -1503,13 +1506,8 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=2
-	}
 	freemen={
-		culture="eravisci"
-		religion="druidism"
-		amount=1
+		amount=4
 	}
 }
 
@@ -1547,13 +1545,8 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=3
-	}
 	freemen={
-		culture="eravisci"
-		religion="druidism"
-		amount=1
+		amount=4
 	}
 }
 
@@ -1587,13 +1580,8 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=2
-	}
 	freemen={
-		culture="eravisci"
-		religion="druidism"
-		amount=1
+		amount=4
 	}
 }
 
@@ -1608,13 +1596,8 @@
 	slaves={
 		amount=2
 	}
-	tribesmen={
-		amount=4
-	}
 	freemen={
-		culture="eravisci"
-		religion="druidism"
-		amount=1
+		amount=5
 	}
 }
 
@@ -1672,12 +1655,7 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		culture="eravisci"
-		religion="druidism"
-		amount=1
-	}
-	tribesmen={
-		amount=3
+		amount=4
 	}
 }
 
@@ -1705,13 +1683,8 @@
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=2
-	}
 	freemen={
-		culture="eravisci"
-		religion="druidism"
-		amount=1
+		amount=4
 	}
 }
 
@@ -1724,17 +1697,10 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		culture="eravisci"
-		religion="druidism"
-		amount=1
+		amount=5
 	}
 	citizen={
-		culture="eravisci"
-		religion="druidism"
 		amount=1
-	}
-	tribesmen={
-		amount=3
 	}
 	holy_site=omen_zalmoxis
 }
