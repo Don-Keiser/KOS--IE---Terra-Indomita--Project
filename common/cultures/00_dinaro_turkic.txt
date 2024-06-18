@@ -1,0 +1,58 @@
+﻿dinaro_turkic = {
+	
+	levy_template = levy_iran
+	
+	primary = heavy_cavalry
+	second = light_infantry
+	flank = light_cavalry
+
+	primary_navy = tetrere
+	secondary_navy = octere
+	flank_navy = liburnian
+	
+	color = rgb { 46 82 90 }
+	
+	male_names = {
+		Abulites Achaimenes Anaphes Arbupales Ariabignes Ariaspes Ariobarzanes Aristozanes Arsames Arses Arsites Artabazos Artaphernes Artayntes Artaxerxes Artochmes Artostes Aspastes Aspathines Atizyes Atropates Autophradates Bagoas Barsaintes Baryaxes Barzanes Batis Belesys Bessos Bisthanes Bubales Chorienes Dareios Datames Dataphernes Datis Gergis Harmamitres Haustanes Histanes Hydarnes Hystaspes Ithamitres Katanes Kophenes Kyros Madates Mardonios Masistes Mauakes Mazakes Mazaios Mazaros Megapanos Mithradates Mithraustes Mithrines Mithrobaios Mithrobuzanes Nabarzanes Niphates Ochos Oiobazos Okontobates Omares Onthotopates Ordanes Orontes Orxines Otaspes Oxathres Oxyartes Oxydates Petines Pharasmanes Pharnabazos Pharnuches Pherendates Phrasaortes Phrataphernes Prexaspes Rheomitres Rhoisakes Sabakos Sataspes Satibarzanes Siromitres Sisamnes Sisines Smerdomenes Spitamenes Spithridates Tiriaspes Tissaphernes Tritantaichmes Xerxes Abdagas Ara Aram Aramu Arbaces Ardashir Argishti Ariovast Arkha Armin Arsaces Artabanus Artabazus Artasyras Artavazd Artaxias Aryanes Asheri Asina Ashina Astashpa Astyages Atamaita Aturpat BagayashBayad Chosroes Cyaxares Cyrus Darius Deioces Evagoras Fravarti Gaumata Gobryas Gotarzes Haldita Hidarnes Manchihr Mardonius Martiya Mazaces Megabyzus Menua Nambed Napad Orodes Osroes Pacorus Peucestas Phraates Phraortes Rusa Sames Sarduri Sarsamas Savaces Shapur Sinatruces Tigraios Tigranes Tiridates Umamaita Upadarma Vahbarz Vardanes Vologases Vonones
+	}
+	female_names = {
+		Amastris Amytis Anzaza Artazostre Artystone Atossa Barsine Damaspia Mandane Parmys Parysatis Phaedymia Rinu Stateira Vashti Apame Artakama Artanis Arystone Orypetis Rhoxane Sisygambis
+	}
+	family = {
+		Arami.Arami.Aramids.Aramid
+		Ari.Ari.Arids.Arid
+		Arkhi.Arkhi.Arkhids.Arkhid
+		Asini.Asini.Asinids.Asinid
+		Arsaci.Arsaci.Arsacids.Arsacid
+		Deioci.Deioci.Deiocids.Deiocid
+		Meni.Meni.Menids.Menid
+		Pacori.Pacori.Pacorids.Pacorid
+		Savaci.Savaci.Savacids.Savacid
+		Vardani.Vardani.Vardanids.Vardanid
+		Suren.Suren.Surenids.Surenid
+		Karin.Karin.Karinids.Karinid
+		Gaumati.Gaumati.Gaumatids.Gaumatid
+		Gobryasi.Gobryasi.Gobryasids.Gobryasid
+		Hydarni.Hydarni.Hydarnids.Hydarnid
+		Smerdi.Smerdi.Smerdids.Smerdid
+		Vivani.Vivani.Vivanids.Vivanid
+		Xerxi.Xerxi.Xerxids.Xerxid
+		Abadani.Abadani.Abadanids.Abadanid
+		Oronti.Oronti.Orontids.Orontid
+		Bayani.Bayani.Bayanids.Bayanid
+	}
+
+	culture = {
+		###
+		patzinak = {}
+		dalmavlakhic = {}
+	}
+	
+	barbarian_names = { AMARDI ANARIACAE AUGASII CASPII CHORASMII CYRTII DAHAE DERBICII ISSEDONES LEGAE MATIANI MASSAGETAE PARNI SACAE SARMATAE SOANES VITII }
+	
+	graphical_culture = persian_gfx
+	ethnicities = {
+		7 = persian
+		3 = germanic
+	}
+}

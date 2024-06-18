@@ -82,7 +82,6 @@
 	}
 	culture = {
 		romaioi = { }
-		patzinak = { }
 		trapezuntine = { }
 		khemetine = { }
 	}

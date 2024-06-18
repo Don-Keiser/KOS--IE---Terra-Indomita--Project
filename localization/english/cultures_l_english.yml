@@ -55,6 +55,7 @@
  steppe_peoples:0 "Turkic"
  greekoid:0 "Greek"
  uandilic:0 "Uandilic"
+ dinaro_turkic:0 "Dinaro-Turkic"
 
  #Armenian Group
  armenian:0 "Ayrarat"
@@ -551,6 +552,7 @@
  vaskedzyte:0 "Vaskedzyte"
  akvitadzyte:0 "Akvitadzyte"
  ronadzyte:0 "Ronadzyte"
+ jassic:0 "Jász"
  #Slavic
  polan:0 "Polan"
  white_serb:0 "White Serb"
@@ -582,9 +584,11 @@
  romaioi:0 "Romaioi"
  trapezuntine:0 "Trapezuntine"
  khemetine:0 "Khemetine"
- patzinak:0 "Patzinak"
  #Uandilic
  uandil:0 "Uandil"
+ #Dinaro-Turkic
+ patzinak:0 "Patzinak"
+ dalmavlakhic:0 "Dalmavlakhic"
  #Naming
  aksumite_group_malename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  aksumite_group_femalename:0 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"

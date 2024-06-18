@@ -274,10 +274,15 @@
 		amount=1
 	}
 	freemen={
-		amount=1
+		amount=3
+	}
+	freemen={
+		religion="thessalonian_orthodox"
+		culture="valach"
+		amount=2
 	}
 	slaves={
-		amount=5
+		amount=4
 	}
 }
 
@@ -523,13 +528,21 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount=2
 	}
 	freemen={
-		amount=1
+		amount=3
+	}
+	freemen={
+		religion="jayayan_zalmukh"
+		amount=2
+	}
+	freemen={
+		culture="valach"
+		amount=2
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
@@ -545,10 +558,18 @@
 		amount=1
 	}
 	freemen={
+		amount=2
+	}
+	freemen={
+		religion="jayayan_zalmukh"
+		amount=2
+	}
+	freemen={
+		culture="valach"
 		amount=1
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
@@ -623,17 +644,25 @@
 	culture="patzinak"
 	religion="thessalonian_orthodox"
 	trade_goods="wine"
-	civilization_value=11
+	civilization_value=20
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	citizen={
+		amount=7
+	}
 	freemen={
-		amount=2
+		amount=9
+	}
+	freemen={
+		culture="golden_avar"
+		religion="avar_church"
+		amount=5
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=2
+		amount=6
 	}
 }
 
@@ -649,13 +678,18 @@
 		amount=1
 	}
 	freemen={
-		amount=1
+		amount=3
+	}
+	freemen={
+		religion="jayayan_zalmukh"
+		amount=3
+	}
+	freemen={
+		culture="valach"
+		amount=2
 	}
 	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=3
+		amount=2
 	}
 }
 
@@ -746,21 +780,32 @@
 	trade_goods="cinnabar"
 	civilization_value=11
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=4
+	}
+	citizen={
+		amount=8
+	}
 	freemen={
+		amount=6
+	}
+	freemen={
+		culture="golden_avar"
+		religion="avar_church"
+		amount=4
+	}
+	freemen={
+		culture="kunsag"
+		religion="jayayan_zalmukh"
 		amount=2
+	}
+	freemen={
+		religion="jayayan_zalmukh"
+		amount=6
 	}
 	slaves={
-		amount=2
-	}
-	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		amount=1
-	}
-	tribesmen={
-		amount=1
+		amount=7
 	}
 }
 

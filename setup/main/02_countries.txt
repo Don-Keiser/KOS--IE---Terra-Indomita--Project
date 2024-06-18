@@ -397,7 +397,7 @@ country = {
 			religion = thessalonian_orthodox
 			diplomatic_stance=appeasement_stance
 			
-			capital = 4850 #Feher	
+			capital = 4157 #Esztergom	
 			
 			own_control_core = {
 				4034 4033 4050 4035 4049 4051 4077 4061 4134 4135 4143 3927 4147 4146 4144
