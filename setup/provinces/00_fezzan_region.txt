@@ -1851,3 +1851,29 @@
 	}
 }
 
+5947={ #Tafrantsut
+	terrain="farmlands"
+	culture="garamantic"
+	religion="berber_religion"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+
+8074={ #Shabbabah
+	terrain="plains"
+	culture="phazani"
+	religion="berber_religion"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+
