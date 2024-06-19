@@ -1492,7 +1492,7 @@
 	}
 }
 
-5050={ #Saint Afrique
+5050={ #Sant-Africa
 	terrain="forest"
 	culture="tolosan"
 	religion="bons_chretiens"

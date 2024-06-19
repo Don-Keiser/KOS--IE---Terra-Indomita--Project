@@ -1,5 +1,83 @@
-﻿9944={ #Tarfawi
-	terrain="desert"
+﻿5947={ #Tafrantsut
+	terrain="farmland"
+	culture="ilanen"
+	religion="arian_church"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+
+8065={ #Kurmut
+	terrain="dry_plains"
+	culture="uandil"
+	religion="arian_church"
+	trade_goods="horses"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+
+8066={ #Halfa
+	terrain="plains"
+	culture="uandil"
+	religion="arian_church"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+
+8069={ #Khafur
+	terrain="marsh"
+	culture="uandil"
+	religion="arian_church"
+	trade_goods="salt"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+
+8074={ #Shabbabah
+	terrain="plains"
+	culture="ilanen"
+	religion="arian_church"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+
+8075={ #Karim
+	terrain="forest"
+	culture="uandil"
+	religion="arian_church"
+	trade_goods="cedar"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+
+9944={ #Tarfawi
+	terrain="steppes"
 	culture="nasamonian"
 	religion="egyptian_pantheon"
 	trade_goods="wild_game"
@@ -12,7 +90,7 @@
 }
 
 9945={ #Qabr
-	terrain="desert"
+	terrain="steppes"
 	culture="nasamonian"
 	religion="egyptian_pantheon"
 	trade_goods="wild_game"
@@ -25,7 +103,7 @@
 }
 
 9946={ #Mawahi
-	terrain="desert"
+	terrain="dry_plains"
 	culture="nasamonian"
 	religion="egyptian_pantheon"
 	trade_goods="camel"
@@ -39,7 +117,7 @@
 
 9947={ #Gicherra
 	terrain="oasis"
-	culture="nasamonian"
+	culture="uandil"
 	religion="egyptian_pantheon"
 	trade_goods="dates"
 	civilization_value=10
@@ -63,7 +141,7 @@
 
 9948={ #Gialo
 	terrain="oasis"
-	culture="nasamonian"
+	culture="uandil"
 	religion="egyptian_pantheon"
 	trade_goods="dates"
 	civilization_value=10
@@ -87,7 +165,7 @@
 
 9949={ #Augila
 	terrain="oasis"
-	culture="nasamonian"
+	culture="uandil"
 	religion="egyptian_pantheon"
 	trade_goods="dates"
 	civilization_value=10
@@ -124,8 +202,8 @@
 }
 
 9950={ #Bu Athla
-	terrain="desert"
-	culture="nasamonian"
+	terrain="dry_plains"
+	culture="uandil"
 	religion="egyptian_pantheon"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -137,8 +215,8 @@
 }
 
 9951={ #Sahabi
-	terrain="desert"
-	culture="nasamonian"
+	terrain="dry_plains"
+	culture="uandil"
 	religion="egyptian_pantheon"
 	trade_goods="horses"
 	civilization_value=10
@@ -162,7 +240,7 @@
 
 9952={ #Kalanshah
 	terrain="desert"
-	culture="nasamonian"
+	culture="uandil"
 	religion="egyptian_pantheon"
 	trade_goods="leather"
 	civilization_value=10
@@ -174,9 +252,9 @@
 }
 
 9953={ #Jabbanah
-	terrain="desert"
-	culture="nasamonian"
-	religion="egyptian_pantheon"
+	terrain="dry_plains"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -187,9 +265,9 @@
 }
 
 9954={ #Maradah
-	terrain="desert"
-	culture="nasamonian"
-	religion="egyptian_pantheon"
+	terrain="dry_plains"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -208,9 +286,9 @@
 }
 
 9955={ #Jafr
-	terrain="desert"
-	culture="nasamonian"
-	religion="egyptian_pantheon"
+	terrain="dry_plains"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -221,9 +299,9 @@
 }
 
 9956={ #Talhah
-	terrain="desert"
-	culture="nasamonian"
-	religion="egyptian_pantheon"
+	terrain="plains"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -234,9 +312,9 @@
 }
 
 9957={ #Tagrifet
-	terrain="desert"
-	culture="nasamonian"
-	religion="egyptian_pantheon"
+	terrain="plains"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -252,9 +330,9 @@
 }
 
 9958={ #Meduin
-	terrain="desert"
-	culture="nasamonian"
-	religion="egyptian_pantheon"
+	terrain="farmland"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="camel"
 	civilization_value=10
 	barbarian_power=0
@@ -270,9 +348,9 @@
 }
 
 9959={ #Zala
-	terrain="desert"
-	culture="nasamonian"
-	religion="egyptian_pantheon"
+	terrain="plains"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="camel"
 	civilization_value=10
 	barbarian_power=0
@@ -288,9 +366,9 @@
 }
 
 9960={ #Jufrah
-	terrain="desert"
-	culture="macaean"
-	religion="egyptian_pantheon"
+	terrain="dry_plains"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -301,9 +379,9 @@
 }
 
 9961={ #Fuqaha
-	terrain="desert"
+	terrain="plains"
 	culture="uandil"
-	religion="egyptian_pantheon"
+	religion="arian_church"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -315,8 +393,8 @@
 
 9962={ #Waddan
 	terrain="oasis"
-	culture="macaean"
-	religion="berber_religion"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="dates"
 	civilization_value=10
 	barbarian_power=0
@@ -333,8 +411,8 @@
 
 9963={ #Hun
 	terrain="oasis"
-	culture="macaean"
-	religion="berber_religion"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -355,9 +433,9 @@
 }
 
 9964={ #Socna
-	terrain="oasis"
-	culture="macaean"
-	religion="berber_religion"
+	terrain="farmland"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="dates"
 	civilization_value=10
 	barbarian_power=0
@@ -373,9 +451,9 @@
 }
 
 9965={ #Wilyan
-	terrain="desert"
-	culture="macaean"
-	religion="berber_religion"
+	terrain="hills"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -386,10 +464,10 @@
 }
 
 9966={ #Tamshin
-	terrain="desert"
+	terrain="plains"
 	culture="uandil"
-	religion="berber_religion"
-	trade_goods="leather"
+	religion="arian_church"
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -399,10 +477,10 @@
 }
 
 9967={ #Mughattah
-	terrain="desert"
+	terrain="plains"
 	culture="uandil"
-	religion="berber_religion"
-	trade_goods="wild_game"
+	religion="arian_church"
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -412,9 +490,9 @@
 }
 
 9968={ #Harawa
-	terrain="desert"
-	culture="psyllic"
-	religion="berber_religion"
+	terrain="plains"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -425,9 +503,9 @@
 }
 
 9971={ #Umm Abid
-	terrain="desert"
+	terrain="plains"
 	culture="uandil"
-	religion="berber_religion"
+	religion="arian_church"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -438,9 +516,9 @@
 }
 
 9972={ #Brak
-	terrain="oasis"
+	terrain="forest"
 	culture="uandil"
-	religion="berber_religion"
+	religion="arian_church"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -471,10 +549,10 @@
 }
 
 9973={ #Mahruqah
-	terrain="desert"
+	terrain="farmland"
 	culture="uandil"
-	religion="berber_religion"
-	trade_goods="vegetables"
+	religion="arian_church"
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -496,7 +574,7 @@
 9974={ #Bergin
 	terrain="oasis"
 	culture="uandil"
-	religion="berber_religion"
+	religion="arian_church"
 	trade_goods="dates"
 	civilization_value=10
 	barbarian_power=0
@@ -524,8 +602,8 @@
 9975={ #Dedris
 	terrain="oasis"
 	culture="uandil"
-	religion="berber_religion"
-	trade_goods="horses"
+	religion="arian_church"
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -540,9 +618,9 @@
 }
 
 9976={ #Adri
-	terrain="desert"
+	terrain="marsh"
 	culture="uandil"
-	religion="berber_religion"
+	religion="arian_church"
 	trade_goods="camel"
 	civilization_value=10
 	barbarian_power=0
@@ -558,10 +636,10 @@
 }
 
 9977={ #Adwesa
-	terrain="desert"
+	terrain="forest"
 	culture="uandil"
-	religion="berber_religion"
-	trade_goods="leather"
+	religion="arian_church"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -571,10 +649,10 @@
 }
 
 9978={ #Wanin
-	terrain="desert"
+	terrain="forest"
 	culture="uandil"
-	religion="berber_religion"
-	trade_goods="leather"
+	religion="arian_church"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -584,9 +662,9 @@
 }
 
 9979={ #Idjitigzirt
-	terrain="desert"
+	terrain="forest"
 	culture="uandil"
-	religion="berber_religion"
+	religion="arian_church"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -602,10 +680,10 @@
 }
 
 9980={ #Sabha
-	terrain="oasis"
+	terrain="marsh"
 	culture="uandil"
-	religion="berber_religion"
-	trade_goods="horses"
+	religion="arian_church"
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -620,25 +698,9 @@
 }
 
 9981={ #Chlef
-	terrain="desert"
+	terrain="farmland"
 	culture="uandil"
-	religion="berber_religion"
-	trade_goods="vegetables"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	slaves={
-		amount=1
-	}
-	tribesmen={
-		amount=2
-	}
-}
-
-9982={ #Gelah
-	terrain="desert"
-	culture="uandil"
-	religion="berber_religion"
+	religion="arian_church"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -651,11 +713,27 @@
 	}
 }
 
-9983={ #Lecksair
-	terrain="oasis"
+9982={ #Gelah
+	terrain="marsh"
 	culture="uandil"
-	religion="berber_religion"
-	trade_goods="dates"
+	religion="arian_church"
+	trade_goods="cedar"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+}
+
+9983={ #Lecksair
+	terrain="farmland"
+	culture="uandil"
+	religion="arian_church"
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -685,9 +763,9 @@
 }
 
 9984={ #Garama
-	terrain="oasis"
+	terrain="hills"
 	culture="uandil"
-	religion="berber_religion"
+	religion="arian_church"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -733,9 +811,9 @@
 }
 
 9985={ #Zinchekra
-	terrain="oasis"
+	terrain="plains"
 	culture="uandil"
-	religion="berber_religion"
+	religion="arian_church"
 	trade_goods="gems"
 	civilization_value=10
 	barbarian_power=0
@@ -770,7 +848,7 @@
 9986={ #Gadduwah
 	terrain="desert"
 	culture="uandil"
-	religion="berber_religion"
+	religion="arian_church"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -786,10 +864,10 @@
 }
 
 9987={ #Ninah
-	terrain="desert"
-	culture="macaean"
-	religion="berber_religion"
-	trade_goods="wild_game"
+	terrain="forest"
+	culture="uandil"
+	religion="arian_church"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -799,9 +877,9 @@
 }
 
 9988={ #Daydaban
-	terrain="desert"
+	terrain="oasis"
 	culture="uandil"
-	religion="berber_religion"
+	religion="arian_church"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -812,9 +890,9 @@
 }
 
 9989={ #Harakat
-	terrain="desert"
-	culture="phazani"
-	religion="berber_religion"
+	terrain="oasis"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -825,9 +903,9 @@
 }
 
 9990={ #Tmessa
-	terrain="oasis"
+	terrain="forest"
 	culture="uandil"
-	religion="berber_religion"
+	religion="arian_church"
 	trade_goods="dates"
 	civilization_value=10
 	barbarian_power=0
@@ -848,10 +926,10 @@
 }
 
 9991={ #Zuwila
-	terrain="oasis"
+	terrain="farmland"
 	culture="uandil"
-	religion="berber_religion"
-	trade_goods="dates"
+	religion="arian_church"
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -869,9 +947,9 @@
 }
 
 9992={ #Traghen
-	terrain="desert"
+	terrain="marsh"
 	culture="uandil"
-	religion="berber_religion"
+	religion="arian_church"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -890,9 +968,9 @@
 }
 
 9993={ #Murzuq
-	terrain="oasis"
+	terrain="marsh"
 	culture="uandil"
-	religion="berber_religion"
+	religion="arian_church"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -917,9 +995,9 @@
 }
 
 9994={ #Dujal
-	terrain="oasis"
+	terrain="farmland"
 	culture="uandil"
-	religion="berber_religion"
+	religion="arian_church"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -938,9 +1016,9 @@
 }
 
 9995={ #Sharraba
-	terrain="desert"
+	terrain="farmland"
 	culture="uandil"
-	religion="berber_religion"
+	religion="arian_church"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -958,8 +1036,8 @@
 9996={ #Baghira
 	terrain="desert"
 	culture="uandil"
-	religion="berber_religion"
-	trade_goods="camel"
+	religion="arian_church"
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -976,8 +1054,8 @@
 9997={ #Tisit
 	terrain="desert"
 	culture="uandil"
-	religion="berber_religion"
-	trade_goods="wild_game"
+	religion="arian_church"
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -987,10 +1065,10 @@
 }
 
 9998={ #Majdul
-	terrain="desert"
+	terrain="marsh"
 	culture="uandil"
-	religion="berber_religion"
-	trade_goods="camel"
+	religion="arian_church"
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1000,10 +1078,10 @@
 }
 
 9999={ #Terbu
-	terrain="oasis"
+	terrain="plains"
 	culture="uandil"
-	religion="berber_religion"
-	trade_goods="vegetables"
+	religion="arian_church"
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1016,9 +1094,9 @@
 }
 
 10000={ #Izam
-	terrain="desert"
+	terrain="plains"
 	culture="uandil"
-	religion="berber_religion"
+	religion="arian_church"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -1031,7 +1109,7 @@
 10001={ #Qatrun
 	terrain="oasis"
 	culture="uandil"
-	religion="berber_religion"
+	religion="arian_church"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -1044,7 +1122,7 @@
 10002={ #Tajhiri
 	terrain="desert"
 	culture="uandil"
-	religion="berber_religion"
+	religion="arian_church"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -1055,9 +1133,9 @@
 }
 
 10003={ #Mastutah
-	terrain="desert"
+	terrain="plains"
 	culture="uandil"
-	religion="berber_religion"
+	religion="arian_church"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -1068,9 +1146,9 @@
 }
 
 10004={ #Jashalam
-	terrain="desert"
-	culture="macaean"
-	religion="berber_religion"
+	terrain="farmland"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -1081,9 +1159,9 @@
 }
 
 10005={ #Gholaia
-	terrain="oasis"
-	culture="macaean"
-	religion="berber_religion"
+	terrain="forest"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -1099,9 +1177,9 @@
 }
 
 10006={ #Zayden
-	terrain="desert"
-	culture="macaean"
-	religion="berber_religion"
+	terrain="forest"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -1117,9 +1195,9 @@
 }
 
 10007={ #Auxiqua
-	terrain="desert"
-	culture="macaean"
-	religion="berber_religion"
+	terrain="forest"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -1130,9 +1208,9 @@
 }
 
 10008={ #Manfuchia
-	terrain="desert"
-	culture="psyllic"
-	religion="berber_religion"
+	terrain="forest"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="camel"
 	civilization_value=10
 	barbarian_power=0
@@ -1143,9 +1221,9 @@
 }
 
 10009={ #Nagdiyah
-	terrain="desert"
-	culture="psyllic"
-	religion="berber_religion"
+	terrain="forest"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -1156,9 +1234,9 @@
 }
 
 10010={ #Qarinah
-	terrain="desert"
-	culture="psyllic"
-	religion="berber_religion"
+	terrain="forest"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -1169,9 +1247,9 @@
 }
 
 10011={ #Majdubiyah
-	terrain="desert"
-	culture="psyllic"
-	religion="berber_religion"
+	terrain="plains"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -1182,9 +1260,9 @@
 }
 
 10012={ #Faschia
-	terrain="desert"
-	culture="macaean"
-	religion="berber_religion"
+	terrain="plains"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -1195,10 +1273,10 @@
 }
 
 10013={ #Ghirza
-	terrain="desert"
-	culture="macaean"
-	religion="berber_religion"
-	trade_goods="cattle"
+	terrain="forest"
+	culture="ilanen"
+	religion="arian_church"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1208,9 +1286,9 @@
 }
 
 10014={ #Scedeua
-	terrain="desert"
-	culture="macaean"
-	religion="berber_religion"
+	terrain="plains"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -1221,9 +1299,9 @@
 }
 
 10015={ #Duraybikah
-	terrain="desert"
-	culture="macaean"
-	religion="berber_religion"
+	terrain="plains"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -1234,9 +1312,9 @@
 }
 
 10016={ #Gharbya
-	terrain="desert"
-	culture="macaean"
-	religion="berber_religion"
+	terrain="plains"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -1257,9 +1335,9 @@
 }
 
 10017={ #Tabaqah
-	terrain="desert"
-	culture="macaean"
-	religion="berber_religion"
+	terrain="hills"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -1270,9 +1348,9 @@
 }
 
 10018={ #Sherbia
-	terrain="desert"
-	culture="macaean"
-	religion="berber_religion"
+	terrain="plains"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -1283,10 +1361,10 @@
 }
 
 10019={ #Schiueref
-	terrain="desert"
-	culture="macaean"
-	religion="berber_religion"
-	trade_goods="camel"
+	terrain="forest"
+	culture="ilanen"
+	religion="arian_church"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1296,10 +1374,10 @@
 }
 
 10020={ #Shawi
-	terrain="desert"
-	culture="macaean"
-	religion="berber_religion"
-	trade_goods="wild_game"
+	terrain="plains"
+	culture="ilanen"
+	religion="arian_church"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1309,9 +1387,9 @@
 }
 
 10021={ #Mizda
-	terrain="desert"
-	culture="macaean"
-	religion="berber_religion"
+	terrain="plains"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -1322,9 +1400,9 @@
 }
 
 10022={ #Centenarium
-	terrain="desert"
-	culture="macaean"
-	religion="berber_religion"
+	terrain="plains"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -1335,9 +1413,9 @@
 }
 
 10023={ #Thenteos
-	terrain="desert_hills"
-	culture="macaean"
-	religion="berber_religion"
+	terrain="hills"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -1348,9 +1426,9 @@
 }
 
 10024={ #Vinaza
-	terrain="desert_hills"
-	culture="macaean"
-	religion="berber_religion"
+	terrain="hills"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -1361,9 +1439,9 @@
 }
 
 10025={ #Garian
-	terrain="desert_hills"
-	culture="macaean"
-	religion="berber_religion"
+	terrain="hills"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -1374,9 +1452,9 @@
 }
 
 10026={ #Thenadassa
-	terrain="desert"
-	culture="macaean"
-	religion="berber_religion"
+	terrain="steppes"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -1388,8 +1466,8 @@
 
 10027={ #Mesphe
 	terrain="hills"
-	culture="macaean"
-	religion="berber_religion"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -1414,8 +1492,8 @@
 
 10028={ #Subututtu
 	terrain="hills"
-	culture="macaean"
-	religion="berber_religion"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -1431,9 +1509,9 @@
 }
 
 10029={ #Banat
-	terrain="desert_hills"
-	culture="macaean"
-	religion="berber_religion"
+	terrain="hills"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -1449,9 +1527,9 @@
 }
 
 10030={ #Sdada
-	terrain="desert_hills"
-	culture="macaean"
-	religion="berber_religion"
+	terrain="hills"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -1467,9 +1545,9 @@
 }
 
 10031={ #Khnafes
-	terrain="desert_hills"
-	culture="macaean"
-	religion="berber_religion"
+	terrain="hills"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -1485,9 +1563,9 @@
 }
 
 10032={ #Bularkan
-	terrain="desert"
-	culture="macaean"
-	religion="berber_religion"
+	terrain="steppes"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -1498,9 +1576,9 @@
 }
 
 10033={ #Lebr
-	terrain="desert"
-	culture="macaean"
-	religion="berber_religion"
+	terrain="plains"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -1511,9 +1589,9 @@
 }
 
 10034={ #Scemech
-	terrain="desert"
-	culture="macaean"
-	religion="berber_religion"
+	terrain="plains"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="camel"
 	civilization_value=10
 	barbarian_power=0
@@ -1525,8 +1603,8 @@
 
 10035={ #Rimoniana
 	terrain="oasis"
-	culture="macaean"
-	religion="berber_religion"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="dates"
 	civilization_value=10
 	barbarian_power=0
@@ -1542,9 +1620,9 @@
 }
 
 10036={ #Ajdab
-	terrain="desert"
-	culture="macaean"
-	religion="berber_religion"
+	terrain="steppes"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -1555,9 +1633,9 @@
 }
 
 10037={ #Dnar
-	terrain="desert"
-	culture="macaean"
-	religion="berber_religion"
+	terrain="steppes"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -1568,9 +1646,9 @@
 }
 
 10038={ #Giosc
-	terrain="desert_hills"
-	culture="macaean"
-	religion="berber_religion"
+	terrain="hills"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -1586,9 +1664,9 @@
 }
 
 10039={ #Tabuinati
-	terrain="desert_hills"
-	culture="phazani"
-	religion="berber_religion"
+	terrain="hills"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="dates"
 	civilization_value=10
 	barbarian_power=0
@@ -1604,9 +1682,9 @@
 }
 
 10040={ #Sinawen
-	terrain="desert"
-	culture="phazani"
-	religion="berber_religion"
+	terrain="dry_plains"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="camel"
 	civilization_value=10
 	barbarian_power=0
@@ -1617,9 +1695,9 @@
 }
 
 10041={ #Derg
-	terrain="desert"
-	culture="phazani"
-	religion="berber_religion"
+	terrain="oasis"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="dates"
 	civilization_value=10
 	barbarian_power=0
@@ -1636,8 +1714,8 @@
 
 10042={ #Cydamus
 	terrain="oasis"
-	culture="phazani"
-	religion="berber_religion"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -1666,8 +1744,8 @@
 
 10043={ #Debdeb
 	terrain="desert"
-	culture="phazani"
-	religion="berber_religion"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -1678,9 +1756,9 @@
 }
 
 10044={ #Praesidium
-	terrain="desert_hills"
-	culture="phazani"
-	religion="berber_religion"
+	terrain="dry_hills"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -1691,9 +1769,9 @@
 }
 
 10045={ #Zar
-	terrain="desert"
-	culture="phazani"
-	religion="berber_religion"
+	terrain="dry_plains"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -1704,9 +1782,9 @@
 }
 
 10046={ #Bourma
-	terrain="desert"
-	culture="phazani"
-	religion="berber_religion"
+	terrain="dry_plains"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -1717,9 +1795,9 @@
 }
 
 10047={ #Tillibari
-	terrain="desert_hills"
-	culture="phazani"
-	religion="berber_religion"
+	terrain="dry_hills"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -1735,9 +1813,9 @@
 }
 
 10048={ #Dekrlet
-	terrain="desert"
-	culture="phazani"
-	religion="berber_religion"
+	terrain="dry_plains"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -1748,9 +1826,9 @@
 }
 
 10049={ #Jebil
-	terrain="desert"
-	culture="phazani"
-	religion="berber_religion"
+	terrain="dry_plains"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -1761,9 +1839,9 @@
 }
 
 12900={ #Uatigzirt
-	terrain="plains"
+	terrain="forest"
 	culture="uandil"
-	religion="berber_religion"
+	religion="arian_church"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -1774,10 +1852,10 @@
 }
 
 12901={ #Azeutami
-	terrain="plains"
+	terrain="dry_plains"
 	culture="uandil"
-	religion="berber_religion"
-	trade_goods="vegetables"
+	religion="arian_church"
+	trade_goods="horses"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1789,7 +1867,7 @@
 12902={ #Tawinet
 	terrain="plains"
 	culture="uandil"
-	religion="berber_religion"
+	religion="arian_church"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0
@@ -1800,10 +1878,10 @@
 }
 
 12903={ #Ariadeg
-	terrain="plains"
+	terrain="forest"
 	culture="uandil"
-	religion="berber_religion"
-	trade_goods="vegetables"
+	religion="arian_church"
+	trade_goods="dates"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1813,10 +1891,10 @@
 }
 
 12904={ #Aryana
-	terrain="plains"
+	terrain="farmland"
 	culture="uandil"
-	religion="berber_religion"
-	trade_goods="vegetables"
+	religion="arian_church"
+	trade_goods="grain"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1826,10 +1904,10 @@
 }
 
 12905={ #Zarathusia
-	terrain="plains"
+	terrain="forest"
 	culture="uandil"
-	religion="berber_religion"
-	trade_goods="vegetables"
+	religion="arian_church"
+	trade_goods="cedar"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1841,8 +1919,8 @@
 12906={ #Nubilae
 	terrain="plains"
 	culture="uandil"
-	religion="berber_religion"
-	trade_goods="vegetables"
+	religion="arian_church"
+	trade_goods="wood"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1851,11 +1929,11 @@
 	}
 }
 
-5947={ #Tafrantsut
-	terrain="farmlands"
-	culture="garamantic"
-	religion="berber_religion"
-	trade_goods="vegetables"
+12911={ #Agadir n Aquilaris
+	terrain="forest"
+	culture="uandil"
+	religion="arian_church"
+	trade_goods="cedar"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1864,10 +1942,205 @@
 	}
 }
 
-8074={ #Shabbabah
+12912={ #Qanun
 	terrain="plains"
-	culture="phazani"
-	religion="berber_religion"
+	culture="uandil"
+	religion="arian_church"
+	trade_goods="wine"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+
+12913={ #Tazuccen
+	terrain="forest"
+	culture="uandil"
+	religion="arian_church"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+
+12914={ #Velaris
+	terrain="forest"
+	culture="uandil"
+	religion="arian_church"
+	trade_goods="cedar"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+
+12915={ #Luzidara
+	terrain="plains"
+	culture="uandil"
+	religion="arian_church"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+
+12916={ #Salvora
+	terrain="forest"
+	culture="uandil"
+	religion="arian_church"
+	trade_goods="cedar"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+
+12917={ #Cydonia
+	terrain="dry_plains"
+	culture="uandil"
+	religion="arian_church"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+
+12918={ #Aegidion
+	terrain="hills"
+	culture="uandil"
+	religion="arian_church"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+
+12919={ #Marianara
+	terrain="plains"
+	culture="uandil"
+	religion="arian_church"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+
+12920={ #Kartan
+	terrain="dry_plains"
+	culture="uandil"
+	religion="arian_church"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+
+12921={ #Uandilara
+	terrain="dry_plains"
+	culture="uandil"
+	religion="arian_church"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+
+12922={ #Taffukt
+	terrain="plains"
+	culture="uandil"
+	religion="arian_church"
+	trade_goods="vegetables"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+
+12923={ #Agadir n Imnayen
+	terrain="forest"
+	culture="uandil"
+	religion="arian_church"
+	trade_goods="wood"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+
+12924={ #Tazamnayn
+	terrain="plains"
+	culture="uandil"
+	religion="arian_church"
+	trade_goods="wine"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+
+12925={ #Tamudmur
+	terrain="dry_plains"
+	culture="uandil"
+	religion="arian_church"
+	trade_goods="cattle"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+
+12926={ #Etera
+	terrain="forest"
+	culture="uandil"
+	religion="arian_church"
+	trade_goods="cedar"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	slaves={
+		amount=2
+	}
+}
+
+12927={ #Uindbara
+	terrain="plains"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="vegetables"
 	civilization_value=0
 	barbarian_power=0

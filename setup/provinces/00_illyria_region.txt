@@ -1276,8 +1276,8 @@
 		amount=6
 	}
 	freemen={
-		religion="thessalonian_orthodox"
 		culture="valach"
+		religion="thessalonian_orthodox"
 		amount=3
 	}
 	slaves={

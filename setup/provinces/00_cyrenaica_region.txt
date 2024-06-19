@@ -1,7 +1,7 @@
 ﻿3301={ #Sabratha
 	terrain="plains"
-	culture="carthaginian"
-	religion="carthaginian_pantheon"
+	culture="uandil"
+	religion="african_church"
 	trade_goods="olive"
 	civilization_value=26
 	barbarian_power=0
@@ -32,9 +32,9 @@
 }
 
 3302={ #Zanazia
-	terrain="desert"
-	culture="carthaginian"
-	religion="carthaginian_pantheon"
+	terrain="forest"
+	culture="uandil"
+	religion="african_church"
 	trade_goods="fish"
 	civilization_value=23
 	barbarian_power=0
@@ -49,8 +49,8 @@
 
 3303={ #Oea
 	terrain="plains"
-	culture="carthaginian"
-	religion="carthaginian_pantheon"
+	culture="uandil"
+	religion="african_church"
 	trade_goods="olive"
 	civilization_value=31
 	barbarian_power=0
@@ -86,9 +86,9 @@
 }
 
 3304={ #Amarea
-	terrain="desert"
-	culture="carthaginian"
-	religion="carthaginian_pantheon"
+	terrain="farmland"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="fish"
 	civilization_value=23
 	barbarian_power=0
@@ -107,9 +107,9 @@
 }
 
 3305={ #Gaphara
-	terrain="desert"
-	culture="carthaginian"
-	religion="carthaginian_pantheon"
+	terrain="plains"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="stone"
 	civilization_value=23
 	barbarian_power=0
@@ -124,8 +124,8 @@
 
 3306={ #Leptis Magna
 	terrain="plains"
-	culture="carthaginian"
-	religion="carthaginian_pantheon"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="stone"
 	civilization_value=26
 	barbarian_power=0
@@ -150,9 +150,9 @@
 }
 
 3324={ #Kinyps
-	terrain="desert"
-	culture="carthaginian"
-	religion="carthaginian_pantheon"
+	terrain="farmland"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="leather"
 	civilization_value=23
 	barbarian_power=0
@@ -166,9 +166,9 @@
 }
 
 3325={ #Thubactis
-	terrain="desert"
-	culture="carthaginian"
-	religion="carthaginian_pantheon"
+	terrain="farmland"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="cattle"
 	civilization_value=23
 	barbarian_power=0
@@ -184,9 +184,9 @@
 }
 
 3326={ #Base
-	terrain="desert"
-	culture="carthaginian"
-	religion="carthaginian_pantheon"
+	terrain="farmland"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="olive"
 	civilization_value=10
 	barbarian_power=0
@@ -207,9 +207,9 @@
 }
 
 3327={ #Thebunte
-	terrain="desert"
-	culture="carthaginian"
-	religion="carthaginian_pantheon"
+	terrain="farmland"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -228,9 +228,9 @@
 }
 
 3329={ #Annesel
-	terrain="desert"
-	culture="carthaginian"
-	religion="carthaginian_pantheon"
+	terrain="farmland"
+	culture="ilanen"
+	religion="arian_church"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -249,9 +249,9 @@
 }
 
 3330={ #Auxiu
-	terrain="desert"
-	culture="carthaginian"
-	religion="carthaginian_pantheon"
+	terrain="farmland"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="tortoise_shell"
 	civilization_value=10
 	barbarian_power=0
@@ -272,9 +272,9 @@
 }
 
 3332={ #Dysopon
-	terrain="desert"
-	culture="garamantic"
-	religion="berber_religion"
+	terrain="plains"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -291,9 +291,9 @@
 }
 
 3333={ #Euphranta
-	terrain="desert"
-	culture="garamantic"
-	religion="berber_religion"
+	terrain="plains"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="olive"
 	civilization_value=10
 	barbarian_power=0
@@ -313,9 +313,9 @@
 }
 
 3334={ #Iscina
-	terrain="desert"
-	culture="garamantic"
-	religion="berber_religion"
+	terrain="plains"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="olive"
 	civilization_value=10
 	barbarian_power=0
@@ -332,9 +332,9 @@
 }
 
 3335={ #Aulazon
-	terrain="desert"
-	culture="garamantic"
-	religion="berber_religion"
+	terrain="forest"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -351,9 +351,9 @@
 }
 
 3336={ #Ad Palmam
-	terrain="desert"
-	culture="garamantic"
-	religion="berber_religion"
+	terrain="plains"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -373,9 +373,9 @@
 }
 
 3337={ #Digdida Selorum
-	terrain="desert"
-	culture="garamantic"
-	religion="berber_religion"
+	terrain="plains"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -392,9 +392,9 @@
 }
 
 3338={ #Arae Philaenorum
-	terrain="desert"
-	culture="garamantic"
-	religion="berber_religion"
+	terrain="plains"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -411,9 +411,9 @@
 }
 
 3339={ #Automalax
-	terrain="desert"
-	culture="garamantic"
-	religion="berber_religion"
+	terrain="plains"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -430,9 +430,9 @@
 }
 
 3340={ #Mendrion
-	terrain="desert"
-	culture="cyrenaican"
-	religion="roman_pantheon"
+	terrain="plains"
+	culture="uandil"
+	religion="arian_church"
 	trade_goods="fish"
 	civilization_value=18
 	barbarian_power=0
@@ -453,8 +453,8 @@
 }
 
 3341={ #Astrochonda
-	terrain="desert"
-	culture="cyrenaican"
+	terrain="plains"
+	culture="uandil"
 	religion="roman_pantheon"
 	trade_goods="fish"
 	civilization_value=18
@@ -476,8 +476,8 @@
 }
 
 3342={ #Kainon
-	terrain="desert"
-	culture="cyrenaican"
+	terrain="plains"
+	culture="uandil"
 	religion="roman_pantheon"
 	trade_goods="salt"
 	civilization_value=18
@@ -494,8 +494,8 @@
 }
 
 3343={ #Corniclanum
-	terrain="desert"
-	culture="libyan"
+	terrain="dry_plains"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="horses"
 	civilization_value=18
@@ -513,8 +513,8 @@
 }
 
 3344={ #Serapeion
-	terrain="desert"
-	culture="cyrenaican"
+	terrain="plains"
+	culture="uandil"
 	religion="roman_pantheon"
 	trade_goods="silphium"
 	civilization_value=23
@@ -538,8 +538,8 @@
 }
 
 3345={ #Chorotus
-	terrain="desert"
-	culture="libyan"
+	terrain="dry_plains"
+	culture="uandil"
 	religion="berber_religion"
 	trade_goods="horses"
 	civilization_value=18
@@ -575,7 +575,7 @@
 }
 
 3347={ #Talliamunera
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="berber_religion"
 	trade_goods="olive"
@@ -618,7 +618,7 @@
 }
 
 3349={ #Zau Taberna
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="berber_religion"
 	trade_goods="stone"
@@ -658,7 +658,7 @@
 }
 
 3351={ #Chairekla
-	terrain="desert"
+	terrain="dry_hills"
 	culture="libyan"
 	religion="berber_religion"
 	trade_goods="cattle"
@@ -697,7 +697,7 @@
 }
 
 3353={ #Taucheira
-	terrain="plains"
+	terrain="dry_hills"
 	culture="cyrenaican"
 	religion="roman_pantheon"
 	trade_goods="cloth"
@@ -716,7 +716,7 @@
 }
 
 3354={ #Ptolemais
-	terrain="plains"
+	terrain="dry_hills"
 	culture="cyrenaican"
 	religion="roman_pantheon"
 	trade_goods="olive"
@@ -739,7 +739,7 @@
 }
 
 3357={ #Barke
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="berber_religion"
 	trade_goods="olive"
@@ -777,7 +777,7 @@
 }
 
 3359={ #Balagrae
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="berber_religion"
 	trade_goods="cattle"
@@ -846,7 +846,7 @@
 }
 
 3362={ #Agabis
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="berber_religion"
 	trade_goods="cattle"
@@ -881,7 +881,7 @@
 }
 
 3364={ #Marandis
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="berber_religion"
 	trade_goods="vegetables"
@@ -946,7 +946,7 @@
 }
 
 3367={ #Petras Mikros
-	terrain="desert"
+	terrain="dry_plains"
 	culture="cyrenaican"
 	religion="roman_pantheon"
 	trade_goods="salt"
@@ -962,7 +962,7 @@
 }
 
 3368={ #Batrachos
-	terrain="desert"
+	terrain="dry_plains"
 	culture="cyrenaican"
 	religion="roman_pantheon"
 	trade_goods="fish"
@@ -983,7 +983,7 @@
 }
 
 3369={ #Gonia
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="vegetables"
@@ -1000,7 +1000,7 @@
 }
 
 3370={ #Antipyrgos
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="olive"
@@ -1020,7 +1020,7 @@
 }
 
 3371={ #Kyrthanion
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="olive"
@@ -1037,7 +1037,7 @@
 }
 
 3372={ #Menelaos
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="fish"
@@ -1058,7 +1058,7 @@
 }
 
 3373={ #Catabathmus Maior
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="salt"
@@ -1081,7 +1081,7 @@
 }
 
 3374={ #Nesus
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="fish"
@@ -1097,7 +1097,7 @@
 }
 
 3375={ #Chettaia
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="olive"
@@ -1116,7 +1116,7 @@
 }
 
 3376={ #Selenis
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="leather"
@@ -1132,7 +1132,7 @@
 }
 
 3377={ #Apis
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="leather"
@@ -1148,7 +1148,7 @@
 }
 
 3378={ #Paraetonium
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="salt"
@@ -1168,7 +1168,7 @@
 }
 
 3379={ #Kallias
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="cattle"
@@ -1184,7 +1184,7 @@
 }
 
 3380={ #Leuke Akte Kyrenaike
-	terrain="desert"
+	terrain="dry_plains"
 	culture="egyptian"
 	religion="egyptian_pantheon"
 	trade_goods="fish"
@@ -1201,7 +1201,7 @@
 }
 
 3476={ #Pnigeus
-	terrain="desert"
+	terrain="dry_plains"
 	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="cattle"
@@ -1218,7 +1218,7 @@
 }
 
 3477={ #Pedonia
-	terrain="desert"
+	terrain="dry_plains"
 	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="fish"
@@ -1234,7 +1234,7 @@
 }
 
 3478={ #Derras
-	terrain="desert"
+	terrain="dry_plains"
 	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="fish"
@@ -1251,7 +1251,7 @@
 }
 
 5536={ #Sitra
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="leather"
@@ -1293,7 +1293,7 @@
 }
 
 5538={ #Gargara
-	terrain="desert"
+	terrain="dry_plains"
 	culture="oasis_egyptian"
 	religion="egyptian_pantheon"
 	trade_goods="wild_game"
@@ -1310,7 +1310,7 @@
 }
 
 5539={ #Zethin
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="camel"
@@ -1323,7 +1323,7 @@
 }
 
 5540={ #Areg
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="fruits"
@@ -1336,7 +1336,7 @@
 }
 
 5550={ #Alexandrou Parembole
-	terrain="desert"
+	terrain="dry_plains"
 	culture="oasis_egyptian"
 	religion="egyptian_pantheon"
 	trade_goods="dates"
@@ -1353,7 +1353,7 @@
 }
 
 5551={ #Varias
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="base_metals"
@@ -1366,7 +1366,7 @@
 }
 
 5552={ #Klimax
-	terrain="desert"
+	terrain="dry_plains"
 	culture="oasis_egyptian"
 	religion="egyptian_pantheon"
 	trade_goods="cattle"
@@ -1386,7 +1386,7 @@
 }
 
 5553={ #Graias
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="salt"
@@ -1402,7 +1402,7 @@
 }
 
 5554={ #Sanus
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="leather"
@@ -1415,7 +1415,7 @@
 }
 
 5555={ #Carnasa
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="cattle"
@@ -1428,7 +1428,7 @@
 }
 
 5556={ #Abid
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="dates"
@@ -1444,7 +1444,7 @@
 }
 
 9942={ #Tubat
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="camel"
@@ -1478,7 +1478,7 @@
 }
 
 9969={ #Hait
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="cattle"
@@ -1491,7 +1491,7 @@
 }
 
 9970={ #Shaqiq
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="cattle"

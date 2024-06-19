@@ -131,7 +131,7 @@
 	}
 }
 
-4528={ #Skopouloi
+4528={ #Scopuli
 	terrain="plains"
 	culture="etelkozi"
 	religion="roman_pantheon"

@@ -146,8 +146,10 @@ uninhabitable = LIST { 9311 11203 11204 11258 11259 }
 
 #Impassables, TI:
 impassable_terrain = LIST { 3292 6354 9387 11057 11058 11059 12881 12882 }
-impassable_terrain = RANGE { 8063 8073 }
-impassable_terrain = RANGE { 8075 8089 }
+impassable_terrain = RANGE { 8063 8064 }
+impassable_terrain = RANGE { 8067 8068 }
+impassable_terrain = RANGE { 8070 8073 }
+impassable_terrain = RANGE { 8076 8089 }
 impassable_terrain = RANGE { 8091 8093 }
 impassable_terrain = RANGE { 8096 8120 }
 impassable_terrain = RANGE { 8122 8154 }

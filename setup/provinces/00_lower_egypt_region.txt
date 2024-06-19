@@ -1,5 +1,5 @@
 ﻿445={ #Dyme
-	terrain="desert"
+	terrain="dry_plains"
 	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="fish"
@@ -22,7 +22,7 @@
 }
 
 453={ #Taposiris
-	terrain="desert"
+	terrain="dry_plains"
 	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="salt"
@@ -1538,7 +1538,7 @@
 }
 
 5532={ #Kom Namrud
-	terrain="desert"
+	terrain="dry_plains"
 	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="dates"
@@ -1554,7 +1554,7 @@
 }
 
 5533={ #Berku
-	terrain="desert"
+	terrain="dry_plains"
 	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="camel"
@@ -1570,7 +1570,7 @@
 }
 
 5534={ #Varam
-	terrain="desert"
+	terrain="dry_plains"
 	culture="oasis_egyptian"
 	religion="egyptian_pantheon"
 	trade_goods="base_metals"
@@ -1583,7 +1583,7 @@
 }
 
 5535={ #Colira
-	terrain="desert"
+	terrain="dry_plains"
 	culture="oasis_egyptian"
 	religion="egyptian_pantheon"
 	trade_goods="leather"
@@ -1599,7 +1599,7 @@
 }
 
 5541={ #Shunne
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="cattle"
@@ -1612,7 +1612,7 @@
 }
 
 5542={ #Murta
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="fur"
@@ -1628,7 +1628,7 @@
 }
 
 5543={ #Magrab
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="dates"
@@ -1641,7 +1641,7 @@
 }
 
 5544={ #Gerum
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="leather"
@@ -1654,7 +1654,7 @@
 }
 
 5546={ #Pseneros
-	terrain="desert"
+	terrain="dry_plains"
 	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="dates"
@@ -1687,7 +1687,7 @@
 }
 
 5548={ #Kerkethoris
-	terrain="desert"
+	terrain="dry_plains"
 	culture="khemetine"
 	religion="egyptian_pantheon"
 	trade_goods="wild_game"

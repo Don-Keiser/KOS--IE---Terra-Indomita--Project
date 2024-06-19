@@ -259,7 +259,7 @@
 		culture="valach"
 		religion="thessalonian_orthodox"
 		amount=1
-	}	
+	}
 }
 
 4106={ #Risetia
@@ -277,8 +277,8 @@
 		amount=3
 	}
 	freemen={
-		religion="thessalonian_orthodox"
 		culture="valach"
+		religion="thessalonian_orthodox"
 		amount=2
 	}
 	slaves={

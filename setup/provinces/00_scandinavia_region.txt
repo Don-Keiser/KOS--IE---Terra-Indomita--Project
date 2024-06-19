@@ -1,4 +1,4 @@
-﻿3855={ #Marijoniz
+﻿3855={ #Mariones
 	terrain="marsh"
 	culture="lytsfrysk"
 	religion="germanic_religion"
@@ -15,7 +15,7 @@
 	port_building=1
 }
 
-3856={ #Theudamariskaz
+3856={ #Charudia
 	terrain="marsh"
 	culture="lytsfrysk"
 	religion="germanic_religion"
@@ -31,7 +31,7 @@
 	}
 }
 
-3857={ #Hultasetijo
+3857={ #Charudiana
 	terrain="plains"
 	culture="lytsfrysk"
 	religion="germanic_religion"
@@ -44,7 +44,7 @@
 	}
 }
 
-3859={ #Warjingijo
+3859={ #Sardonia
 	terrain="plains"
 	culture="obotrite"
 	religion="germanic_religion"
@@ -57,7 +57,7 @@
 	}
 }
 
-3860={ #Kinulaferthuz
+3860={ #Anglia Meridionalis
 	terrain="plains"
 	culture="jutsk"
 	religion="germanic_religion"
@@ -70,7 +70,7 @@
 	}
 }
 
-3861={ #Akranaferthuz
+3861={ #Anglia Centralis
 	terrain="plains"
 	culture="jutsk"
 	religion="germanic_religion"
@@ -86,7 +86,7 @@
 	}
 }
 
-3862={ #Angulinaz
+3862={ #Anglia Borealis
 	terrain="plains"
 	culture="jutsk"
 	religion="germanic_religion"
@@ -99,7 +99,7 @@
 	}
 }
 
-3863={ #Idisistadiz
+3863={ #Avionia Minor
 	terrain="marsh"
 	culture="lytsfrysk"
 	religion="germanic_religion"
@@ -115,7 +115,7 @@
 	}
 }
 
-3864={ #Tundrajaz
+3864={ #Avionia Maior
 	terrain="marsh"
 	culture="lytsfrysk"
 	religion="germanic_religion"
@@ -132,7 +132,7 @@
 	port_building=1
 }
 
-3865={ #Sundawiduz
+3865={ #Cimbrica Minor
 	terrain="forest"
 	culture="jutsk"
 	religion="germanic_religion"
@@ -148,7 +148,7 @@
 	}
 }
 
-3866={ #Jesabergaz
+3866={ #Sigulonia Australis
 	terrain="forest"
 	culture="jutsk"
 	religion="germanic_religion"
@@ -164,7 +164,7 @@
 	}
 }
 
-3867={ #Rinnonhaimaz
+3867={ #Sigulonia Borealis
 	terrain="forest"
 	culture="jutsk"
 	religion="germanic_religion"
@@ -178,7 +178,7 @@
 	port_building=1
 }
 
-3868={ #Raudahwo
+3868={ #Cobandia Minor
 	terrain="forest"
 	culture="jutsk"
 	religion="germanic_religion"
@@ -191,7 +191,7 @@
 	}
 }
 
-3869={ #Kaldungiz
+3869={ #Cobandia Maior
 	terrain="forest"
 	culture="jutsk"
 	religion="germanic_religion"
@@ -269,7 +269,7 @@
 	}
 }
 
-3874={ #Hlaiwahaimawiko
+3874={ #Teutonia Minor
 	terrain="forest"
 	culture="jutsk"
 	religion="germanic_religion"
@@ -285,7 +285,7 @@
 	}
 }
 
-3875={ #Tiwastadiz
+3875={ #Teutonia Maior
 	terrain="forest"
 	culture="jutsk"
 	religion="germanic_religion"
@@ -305,7 +305,7 @@
 	port_building=1
 }
 
-3876={ #Flunthrijonsaiwiz
+3876={ #Teutonia Centralis
 	terrain="forest"
 	culture="jutsk"
 	religion="germanic_religion"
@@ -350,7 +350,7 @@
 	}
 }
 
-3879={ #Skaganijo
+3879={ #Cimbria Borealis
 	terrain="forest"
 	culture="jutsk"
 	religion="germanic_religion"
@@ -370,7 +370,7 @@
 	port_building=1
 }
 
-3880={ #Wandilo
+3880={ #Cimbria Maior
 	terrain="forest"
 	culture="jutsk"
 	religion="germanic_religion"
@@ -510,7 +510,7 @@
 	port_building=1
 }
 
-3888={ #Hammo
+3888={ #Leuphana
 	terrain="plains"
 	culture="lytsfrysk"
 	religion="germanic_religion"
@@ -529,7 +529,7 @@
 	}
 }
 
-3889={ #Trewo
+3889={ #Treva
 	terrain="plains"
 	culture="lytsfrysk"
 	religion="germanic_religion"

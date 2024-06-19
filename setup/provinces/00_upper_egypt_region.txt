@@ -1272,7 +1272,7 @@
 }
 
 5523={ #Farafra
-	terrain="desert"
+	terrain="dry_plains"
 	culture="oasis_egyptian"
 	religion="egyptian_pantheon"
 	trade_goods="fur"
@@ -1288,7 +1288,7 @@
 }
 
 5524={ #Bishaya
-	terrain="desert"
+	terrain="dry_plains"
 	culture="oasis_egyptian"
 	religion="egyptian_pantheon"
 	trade_goods="wild_game"
@@ -1304,7 +1304,7 @@
 }
 
 5525={ #Tawar
-	terrain="desert"
+	terrain="dry_plains"
 	culture="oasis_egyptian"
 	religion="egyptian_pantheon"
 	trade_goods="wild_game"
@@ -1353,7 +1353,7 @@
 }
 
 5528={ #Elassa
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="vegetables"
@@ -1396,7 +1396,7 @@
 }
 
 5545={ #Thumat
-	terrain="desert"
+	terrain="dry_plains"
 	culture="libyan"
 	religion="egyptian_pantheon"
 	trade_goods="camel"

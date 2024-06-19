@@ -1467,59 +1467,6 @@
 	}
 }
 
-6399={ #Pydna
-	terrain="plains"
-	culture="romaioi"
-	religion="thessalonian_orthodox"
-	trade_goods="earthware"
-	civilization_value=33
-	barbarian_power=0
-	province_rank="city"
-	citizen={
-		amount=5
-	}
-	freemen={
-		amount=5
-	}
-	slaves={
-		amount=3
-	}
-	port_building=1
-}
-
-8023={ #Tempe Pass
-	terrain="mountain"
-	culture="romaioi"
-	religion="thessalonian_orthodox"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-8024={ #Mondaia
-	terrain="mountain"
-	culture="valach"
-	religion="thessalonian_orthodox"
-	trade_goods="earthware"
-	civilization_value=33
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=4
-	}
-}
-
-8025={ #Petra Pass
-	terrain="mountain"
-	culture="romaioi"
-	religion="thessalonian_orthodox"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
 5069={ #Meritsa
 	terrain="mountain"
 	culture="valach"
@@ -1580,6 +1527,59 @@
 	slaves={
 		amount=2
 	}
+}
+
+6399={ #Pydna
+	terrain="plains"
+	culture="romaioi"
+	religion="thessalonian_orthodox"
+	trade_goods="earthware"
+	civilization_value=33
+	barbarian_power=0
+	province_rank="city"
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=3
+	}
+	port_building=1
+}
+
+8023={ #Tempe Pass
+	terrain="mountain"
+	culture="romaioi"
+	religion="thessalonian_orthodox"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+8024={ #Mondaia
+	terrain="mountain"
+	culture="valach"
+	religion="thessalonian_orthodox"
+	trade_goods="earthware"
+	civilization_value=33
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+}
+
+8025={ #Petra Pass
+	terrain="mountain"
+	culture="romaioi"
+	religion="thessalonian_orthodox"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
 }
 
 12907={ #Uzkadna

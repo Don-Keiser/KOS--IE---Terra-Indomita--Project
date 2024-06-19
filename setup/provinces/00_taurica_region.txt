@@ -16,7 +16,7 @@
 	}
 }
 
-4531={ #Borystheneia
+4531={ #Karkine
 	terrain="forest"
 	culture="etelkozi"
 	religion="roman_pantheon"

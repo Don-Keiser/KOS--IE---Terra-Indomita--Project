@@ -1700,6 +1700,58 @@
 	}
 }
 
+5067={ #Argithea
+	terrain="mountain"
+	culture="valach"
+	religion="thessalonian_orthodox"
+	trade_goods="base_metals"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	freemen={
+		culture="romaioi"
+		amount=1
+	}
+}
+
+5068={ #Konitsa
+	terrain="mountain"
+	culture="valach"
+	religion="thessalonian_orthodox"
+	trade_goods="base_metals"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	freemen={
+		culture="romaioi"
+		amount=2
+	}
+}
+
+5070={ #Permet
+	terrain="mountain"
+	culture="valach"
+	religion="thessalonian_orthodox"
+	trade_goods="base_metals"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	freemen={
+		culture="taulantian"
+		religion="mithra_zalmos"
+		amount=1
+	}
+}
+
 7798={ #Elateia
 	terrain="hills"
 	culture="romaioi"
@@ -2112,58 +2164,6 @@
 	}
 	slaves={
 		amount=3
-	}
-}
-
-5067={ #Argithea
-	terrain="mountain"
-	culture="valach"
-	religion="thessalonian_orthodox"
-	trade_goods="base_metals"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=2
-	}
-	freemen={
-		culture="romaioi"
-		amount=1
-	}
-}
-
-5068={ #Konitsa
-	terrain="mountain"
-	culture="valach"
-	religion="thessalonian_orthodox"
-	trade_goods="base_metals"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=3
-	}
-	freemen={
-		culture="romaioi"
-		amount=2
-	}
-}
-
-5070={ #Permet
-	terrain="mountain"
-	culture="valach"
-	religion="thessalonian_orthodox"
-	trade_goods="base_metals"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	freemen={
-		amount=3
-	}
-	freemen={
-		culture="taulantian"
-		religion="mithra_zalmos"
-		amount=1
 	}
 }
 

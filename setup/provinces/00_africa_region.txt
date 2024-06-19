@@ -2091,7 +2091,7 @@
 }
 
 3299={ #Pisida
-	terrain="desert"
+	terrain="dry_plains"
 	culture="afro_roman"
 	religion="african_church"
 	trade_goods="wood"
@@ -2118,7 +2118,7 @@
 }
 
 3300={ #Locri
-	terrain="desert"
+	terrain="dry_plains"
 	culture="afro_roman"
 	religion="african_church"
 	trade_goods="tortoise_shell"
@@ -2142,7 +2142,7 @@
 }
 
 10050={ #Tabalati
-	terrain="desert"
+	terrain="dry_plains"
 	culture="afro_roman"
 	religion="african_church"
 	trade_goods="cattle"
@@ -2171,7 +2171,7 @@
 }
 
 10051={ #Augemmi
-	terrain="desert"
+	terrain="dry_plains"
 	culture="afro_roman"
 	religion="african_church"
 	trade_goods="dates"
@@ -2205,7 +2205,7 @@
 }
 
 10052={ #Recheb
-	terrain="desert"
+	terrain="dry_plains"
 	culture="afro_roman"
 	religion="african_church"
 	trade_goods="base_metals"
@@ -2231,7 +2231,7 @@
 }
 
 10053={ #Mahalla
-	terrain="desert"
+	terrain="dry_plains"
 	culture="afro_roman"
 	religion="african_church"
 	trade_goods="leather"
@@ -2249,7 +2249,7 @@
 }
 
 10054={ #Tisavar
-	terrain="desert"
+	terrain="dry_plains"
 	culture="afro_roman"
 	religion="african_church"
 	trade_goods="wild_game"
@@ -2262,7 +2262,7 @@
 }
 
 10055={ #Tibubuci
-	terrain="desert"
+	terrain="dry_plains"
 	culture="afro_roman"
 	religion="african_church"
 	trade_goods="stone"
@@ -2280,7 +2280,7 @@
 }
 
 10056={ #Bezereos
-	terrain="desert"
+	terrain="dry_plains"
 	culture="afro_roman"
 	religion="african_church"
 	trade_goods="cattle"
@@ -2298,7 +2298,7 @@
 }
 
 10057={ #Tabria
-	terrain="desert"
+	terrain="dry_plains"
 	culture="afro_roman"
 	religion="african_church"
 	trade_goods="wild_game"
@@ -2311,7 +2311,7 @@
 }
 
 10058={ #Naffatiyah
-	terrain="desert"
+	terrain="dry_plains"
 	culture="afro_roman"
 	religion="african_church"
 	trade_goods="wild_game"

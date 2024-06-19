@@ -538,16 +538,6 @@
 	province_rank=""
 }
 
-5050={ #
-	terrain="impassable_terrain"
-	culture="volcae"
-	religion="druidism"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
 5051={ #
 	terrain="impassable_terrain"
 	culture="ilergetian"
@@ -708,46 +698,6 @@
 	province_rank=""
 }
 
-5067={ #
-	terrain="impassable_terrain"
-	culture="epirote"
-	religion="roman_pantheon"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-5068={ #Upper Epirus
-	terrain="impassable_terrain"
-	culture="epirote"
-	religion="roman_pantheon"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-5069={ #
-	terrain="impassable_terrain"
-	culture="thessalian"
-	religion="roman_pantheon"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-5070={ #
-	terrain="impassable_terrain"
-	culture="epirote"
-	religion="roman_pantheon"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
 5071={ #
 	terrain="impassable_terrain"
 	culture="thessalian"
@@ -788,26 +738,6 @@
 	province_rank=""
 }
 
-5075={ #
-	terrain="impassable_terrain"
-	culture="taulantian"
-	religion="illyrian_pantheon"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-5076={ #Upper Macedonia
-	terrain="impassable_terrain"
-	culture="taulantian"
-	religion="illyrian_pantheon"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
 5077={ #
 	terrain="impassable_terrain"
 	culture="taulantian"
@@ -828,39 +758,9 @@
 	province_rank=""
 }
 
-5079={ #Dalmatian Mountains
-	terrain="impassable_terrain"
-	culture="taulantian"
-	religion="illyrian_pantheon"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-5080={ #
-	terrain="impassable_terrain"
-	culture="greco_illyrian"
-	religion="illyrian_pantheon"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
 5081={ #
 	terrain="impassable_terrain"
 	culture="greco_illyrian"
-	religion="illyrian_pantheon"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-5082={ #
-	terrain="impassable_terrain"
-	culture="taulantian"
 	religion="illyrian_pantheon"
 	trade_goods=""
 	civilization_value=0
@@ -959,16 +859,6 @@
 }
 
 5092={ #
-	terrain="impassable_terrain"
-	culture="greco_illyrian"
-	religion="illyrian_pantheon"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-5093={ #Upper Dardania
 	terrain="impassable_terrain"
 	culture="greco_illyrian"
 	religion="illyrian_pantheon"
@@ -4132,16 +4022,6 @@
 	terrain="impassable_terrain"
 	culture="libyan"
 	religion="egyptian_pantheon"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-5947={ #
-	terrain="impassable_terrain"
-	culture="garamantic"
-	religion="berber_religion"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -7998,26 +7878,6 @@
 	province_rank=""
 }
 
-8065={ #Kurmut
-	terrain="impassable_terrain"
-	culture="macaean"
-	religion="berber_religion"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-8066={ #Halfa
-	terrain="impassable_terrain"
-	culture="garamantic"
-	religion="berber_religion"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
 8067={ #Kalas
 	terrain="impassable_terrain"
 	culture="nasamonian"
@@ -8029,16 +7889,6 @@
 }
 
 8068={ #Kuweib
-	terrain="impassable_terrain"
-	culture="garamantic"
-	religion="berber_religion"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-8069={ #Khafur
 	terrain="impassable_terrain"
 	culture="garamantic"
 	religion="berber_religion"
@@ -8061,7 +7911,7 @@
 8071={ #Ileigha
 	terrain="impassable_terrain"
 	culture="macaean"
-	religion="berber_religion"
+	religion="arian_church"
 	trade_goods=""
 	civilization_value=0
 	barbarian_power=0
@@ -8081,16 +7931,6 @@
 8073={ #Hudi
 	terrain="impassable_terrain"
 	culture="macaean"
-	religion="berber_religion"
-	trade_goods=""
-	civilization_value=0
-	barbarian_power=0
-	province_rank=""
-}
-
-8075={ #Karim
-	terrain="impassable_terrain"
-	culture="phazani"
 	religion="berber_religion"
 	trade_goods=""
 	civilization_value=0
