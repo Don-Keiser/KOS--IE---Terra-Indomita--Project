@@ -56,6 +56,8 @@
  greekoid:0 "Greek"
  uandilic:0 "Uandilic"
  dinaro_turkic:0 "Dinaro-Turkic"
+ gothic:0 "Gothic"
+ baltic_finnic:0 "Baltic Finnic"
 
  #Armenian Group
  armenian:0 "Ayrarat"
@@ -590,6 +592,11 @@
  #Dinaro-Turkic
  patzinak:0 "Patzinak"
  dalmavlakhic:0 "Dalmavlakhic"
+ #Gothic
+ thuringia_gothic:0 "Thurungia Gothic"
+ moesogoth:0 "Moesogothic"
+ #Baltic Finnic
+ maarahvas:0 "Maarahvas"
  #Naming
  aksumite_group_malename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  aksumite_group_femalename:0 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
@@ -697,6 +704,12 @@
  avaric_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_FEMALE$ $NICKNAME$"
  ay_malename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
  ay_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_FEMALE$ $NICKNAME$"
+ dinaro_turkic_malename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ dinaro_turkic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_FEMALE$ $NICKNAME$"
+ gothic_turkic_malename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ gothic_turkic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_FEMALE$ $NICKNAME$"
+ baltic_finnic_malename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ baltic_finnic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $FAMILY_FEMALE$ $NICKNAME$"
 
  #Pu
  ARMY_NAME_pu:0 "$NUM$$ORDER$ Army"

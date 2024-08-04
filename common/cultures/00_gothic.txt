@@ -1,4 +1,4 @@
-﻿east_germanic = {
+﻿gothic = {
 
 	primary = light_infantry
 	second = archers
@@ -10,7 +10,7 @@
 
 	levy_template = levy_germanic
 
-	color = hsv { 0.05 0.7 0.3 }
+	color = rgb { 141 181 181 }
 	male_names = {
 		Adalfuns Athalareiks Athanareiks Amalareiks Thiudareiks Andagis Ansila Arareiks Athanagild Audo Auswinth Badwila Beremud Botheric
 		Achila Agila Ardo Braulio Bulgar Chindaswinth Chintila Totila Egica Gundemar Recceswinth Tulga Wamba Wittiza Ulfila Atila Merila
@@ -40,10 +40,8 @@
 		Sleiths.Sleiths.Sleithai.Sleith
 	}
 	culture = {
-		ostrogothic = {}
-		wisigothic = {}
-		gepid = {}
-		wandal = {}
+		thuringia_gothic = {}
+		moesogoth = {}
 	}
 	barbarian_names = { CHATTI CHAUCI CHERUSCI CIMBRI USIPI VARISTI }
 

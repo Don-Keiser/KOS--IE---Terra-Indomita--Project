@@ -1,0 +1,43 @@
+﻿baltic_finnic = {	#Finnic
+	color = rgb { 157 193 186 }
+	
+	levy_template = levy_baltic
+	
+	primary = light_infantry
+	second = spearmen
+	flank = archers
+
+	primary_navy = tetrere
+	secondary_navy = octere
+	flank_navy = liburnian
+
+	male_names = {
+			Ahti Kaukolempi Ihalempi Toivo Viljamieli Mielivilja Toivolempi Repo Hirvoi Otso Osmo Ohto Kaikevalde Ikapaiva Magroi Unto Untamo Iku Urho Ikavalko Vihavalta Ikaheimo Kaivattu Untamo Montaja Vihas Ihamuoto Auvo Himo Huva Ilma Kauka Meeli Paiva Vihta Vaino Tenho Meeho Monta Lempoi Mieli Ano Aika Ihakka
+	}
+	female_names = {
+			Aal Aet Ailla Asse Hebu Hippu Ilpotar Kylli Kyllikki Lokka Suovakko Mielitty Nokke Tuuli Lemmikki Kivutar Vilutar Liekko Auvo Himo Huva Ilma Kauka Meeli Paiva Vihta Vaino Tenho Meeho Monta Lempoi Mieli Ano Aika Ihakka
+	}
+	family = { 
+		Kauko.Kauko.Kauko.Kaukoid
+		Lempi.Lempi.Lempi.Lempid
+		Iha.Iha.Iha.Ihan
+		Toivo.Toivo.Toivo.Toivoid
+		Auvo.Auvo.Auvo.Auvon
+		Vilja.Vilja.Vilja.Vilgan
+		Kirja.Kirja.Kirja.Kirjan
+		Uska.Uska.Uska.Uskan
+		Nousia.Nousia.Nousia.Nousian
+	}
+	culture = {
+		maarahvas = {}
+	}
+	
+	barbarian_names = { 
+		URGI 
+	}
+	
+	graphical_culture = german_gfx
+	ethnicities = {
+		10 = germanic
+	}
+}

@@ -12,7 +12,7 @@
 }
 
 8065={ #Kurmut
-	terrain="dry_plains"
+	terrain="farmland"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="horses"
@@ -312,7 +312,7 @@
 }
 
 9957={ #Tagrifet
-	terrain="plains"
+	terrain="forest"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="cattle"
@@ -366,7 +366,7 @@
 }
 
 9960={ #Jufrah
-	terrain="dry_plains"
+	terrain="forest"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="wild_game"
@@ -379,7 +379,7 @@
 }
 
 9961={ #Fuqaha
-	terrain="plains"
+	terrain="forest"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="leather"
@@ -392,7 +392,7 @@
 }
 
 9962={ #Waddan
-	terrain="oasis"
+	terrain="forest"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="dates"
@@ -464,7 +464,7 @@
 }
 
 9966={ #Tamshin
-	terrain="plains"
+	terrain="farmland"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="grain"
@@ -477,7 +477,7 @@
 }
 
 9967={ #Mughattah
-	terrain="plains"
+	terrain="forest"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="salt"
@@ -503,7 +503,7 @@
 }
 
 9971={ #Umm Abid
-	terrain="plains"
+	terrain="hills"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="wild_game"
@@ -516,7 +516,7 @@
 }
 
 9972={ #Brak
-	terrain="forest"
+	terrain="farmland"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="salt"
@@ -549,7 +549,7 @@
 }
 
 9973={ #Mahruqah
-	terrain="farmland"
+	terrain="marsh"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="grain"
@@ -600,10 +600,10 @@
 }
 
 9975={ #Dedris
-	terrain="oasis"
+	terrain="farmland"
 	culture="uandil"
 	religion="arian_church"
-	trade_goods="salt"
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -621,7 +621,7 @@
 	terrain="marsh"
 	culture="uandil"
 	religion="arian_church"
-	trade_goods="camel"
+	trade_goods="olive"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -649,7 +649,7 @@
 }
 
 9978={ #Wanin
-	terrain="forest"
+	terrain="farmland"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="wood"
@@ -680,7 +680,7 @@
 }
 
 9980={ #Sabha
-	terrain="marsh"
+	terrain="hills"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="vegetables"
@@ -698,7 +698,7 @@
 }
 
 9981={ #Chlef
-	terrain="farmland"
+	terrain="flood_plain"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="grain"
@@ -714,7 +714,7 @@
 }
 
 9982={ #Gelah
-	terrain="marsh"
+	terrain="flood_plain"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="cedar"
@@ -730,7 +730,7 @@
 }
 
 9983={ #Lecksair
-	terrain="farmland"
+	terrain="flood_plain"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="grain"
@@ -763,10 +763,10 @@
 }
 
 9984={ #Garama
-	terrain="hills"
+	terrain="farmland"
 	culture="uandil"
 	religion="arian_church"
-	trade_goods="earthware"
+	trade_goods="marble"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="city"
@@ -811,7 +811,7 @@
 }
 
 9985={ #Zinchekra
-	terrain="plains"
+	terrain="flood_plain"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="gems"
@@ -846,10 +846,10 @@
 }
 
 9986={ #Gadduwah
-	terrain="desert"
+	terrain="forest"
 	culture="uandil"
 	religion="arian_church"
-	trade_goods="wild_game"
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -877,7 +877,7 @@
 }
 
 9988={ #Daydaban
-	terrain="oasis"
+	terrain="marsh"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="wild_game"
@@ -890,7 +890,7 @@
 }
 
 9989={ #Harakat
-	terrain="oasis"
+	terrain="plains"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="wild_game"
@@ -947,7 +947,7 @@
 }
 
 9992={ #Traghen
-	terrain="marsh"
+	terrain="forest"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="vegetables"
@@ -968,7 +968,7 @@
 }
 
 9993={ #Murzuq
-	terrain="marsh"
+	terrain="farmland"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="horses"
@@ -1034,7 +1034,7 @@
 }
 
 9996={ #Baghira
-	terrain="desert"
+	terrain="forest"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="stone"
@@ -1052,10 +1052,10 @@
 }
 
 9997={ #Tisit
-	terrain="desert"
+	terrain="forest"
 	culture="uandil"
 	religion="arian_church"
-	trade_goods="stone"
+	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1065,7 +1065,7 @@
 }
 
 9998={ #Majdul
-	terrain="marsh"
+	terrain="farmland"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="salt"
@@ -1094,7 +1094,7 @@
 }
 
 10000={ #Izam
-	terrain="plains"
+	terrain="forest"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="wild_game"
@@ -1107,7 +1107,7 @@
 }
 
 10001={ #Qatrun
-	terrain="oasis"
+	terrain="farmland"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="cattle"
@@ -1120,7 +1120,7 @@
 }
 
 10002={ #Tajhiri
-	terrain="desert"
+	terrain="plains"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="horses"
@@ -1133,7 +1133,7 @@
 }
 
 10003={ #Mastutah
-	terrain="plains"
+	terrain="farmland"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="leather"
@@ -1695,7 +1695,7 @@
 }
 
 10041={ #Derg
-	terrain="oasis"
+	terrain="plains"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="dates"
@@ -1713,7 +1713,7 @@
 }
 
 10042={ #Cydamus
-	terrain="oasis"
+	terrain="farmland"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="horses"
@@ -1743,7 +1743,7 @@
 }
 
 10043={ #Debdeb
-	terrain="desert"
+	terrain="dry_plains"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="cattle"
@@ -1842,7 +1842,7 @@
 	terrain="forest"
 	culture="uandil"
 	religion="arian_church"
-	trade_goods="vegetables"
+	trade_goods="cedar"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1852,7 +1852,7 @@
 }
 
 12901={ #Azeutami
-	terrain="dry_plains"
+	terrain="forest"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="horses"
@@ -1865,7 +1865,7 @@
 }
 
 12902={ #Tawinet
-	terrain="plains"
+	terrain="farmland"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="vegetables"
@@ -1878,7 +1878,7 @@
 }
 
 12903={ #Ariadeg
-	terrain="forest"
+	terrain="farmland"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="dates"
@@ -1891,10 +1891,10 @@
 }
 
 12904={ #Aryana
-	terrain="farmland"
+	terrain="forest"
 	culture="uandil"
 	religion="arian_church"
-	trade_goods="grain"
+	trade_goods="cedar"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1917,10 +1917,10 @@
 }
 
 12906={ #Nubilae
-	terrain="plains"
+	terrain="flood_plain"
 	culture="uandil"
 	religion="arian_church"
-	trade_goods="wood"
+	trade_goods="fruits"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -1943,7 +1943,7 @@
 }
 
 12912={ #Qanun
-	terrain="plains"
+	terrain="farmland"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="wine"
@@ -1956,7 +1956,7 @@
 }
 
 12913={ #Tazuccen
-	terrain="forest"
+	terrain="farmland"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="wood"
@@ -1969,7 +1969,7 @@
 }
 
 12914={ #Velaris
-	terrain="forest"
+	terrain="marsh"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="cedar"
@@ -1982,7 +1982,7 @@
 }
 
 12915={ #Luzidara
-	terrain="plains"
+	terrain="marsh"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="vegetables"
@@ -2008,7 +2008,7 @@
 }
 
 12917={ #Cydonia
-	terrain="dry_plains"
+	terrain="farmland"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="vegetables"
@@ -2034,7 +2034,7 @@
 }
 
 12919={ #Marianara
-	terrain="plains"
+	terrain="forest"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="vegetables"
@@ -2047,10 +2047,10 @@
 }
 
 12920={ #Kartan
-	terrain="dry_plains"
+	terrain="forest"
 	culture="uandil"
 	religion="arian_church"
-	trade_goods="vegetables"
+	trade_goods="cedar"
 	civilization_value=0
 	barbarian_power=0
 	province_rank="settlement"
@@ -2060,7 +2060,7 @@
 }
 
 12921={ #Uandilara
-	terrain="dry_plains"
+	terrain="farmland"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="vegetables"
@@ -2073,7 +2073,7 @@
 }
 
 12922={ #Taffukt
-	terrain="plains"
+	terrain="farmland"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="vegetables"
@@ -2099,7 +2099,7 @@
 }
 
 12924={ #Tazamnayn
-	terrain="plains"
+	terrain="forest"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="wine"
@@ -2112,7 +2112,7 @@
 }
 
 12925={ #Tamudmur
-	terrain="dry_plains"
+	terrain="plains"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="cattle"
@@ -2138,7 +2138,7 @@
 }
 
 12927={ #Uindbara
-	terrain="plains"
+	terrain="hills"
 	culture="uandil"
 	religion="arian_church"
 	trade_goods="vegetables"

@@ -1269,5 +1269,23 @@ country = {
 				3911 3915 3940 3941 3942 3980 4008 4009 #Naharvalia
 			}
 		}
+		
+		MAA = { #Maavald
+			government = aristocratic_monarchy
+			primary_culture = maarahvas
+			religion = uralic_religion
+			diplomatic_stance=appeasement_stance
+			
+			capital = 12612
+			
+			own_control_core = {
+				12639 12640
+				12593 12590 12592 12591
+				12606 12607 12608 12609 12610 12611 12612 12613 12614 12615 12616 12617 #Maavald
+				12594 12595 12596 12597 12598 12599 12600 12601 12602 12603 12604 12605 #South Maavald
+				12642 12643 12644 12645 12646 12647 12648 12649 12650 12651 12652 12653 12654 #Finland
+				12618 12619 12620 12621 12622 12626 12627 12628 12629 #Thingy
+			}
+		}
 	}
 }

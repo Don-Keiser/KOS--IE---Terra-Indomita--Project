@@ -67,4 +67,5 @@ ALK = "setup/countries/europe/Aluank.txt"
 KSA = "setup/countries/europe/Serbs-Avars.txt"
 POL = "setup/countries/europe/Poland.txt"
 ZAO = "setup/countries/europe/Zaodra.txt"
+MAA = "setup/countries/europe/Maavald.txt"
 #Asia
